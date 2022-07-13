@@ -1,0 +1,124 @@
+13 Jul 2022 16:44:40  INFO logger - Appium started on http://0.0.0.0:17163/wd/hub
+13 Jul 2022 16:44:40  INFO logger - Appium server started successfully
+13 Jul 2022 16:44:40  INFO logger - Appium server stopped
+13 Jul 2022 16:44:40  INFO logger - Appium server stopped successfully
+13 Jul 2022 16:58:52  INFO logger - Appium started on http://0.0.0.0:21882/wd/hub
+13 Jul 2022 16:58:52  INFO logger - Appium server started successfully
+13 Jul 2022 16:58:52  INFO logger - Appium server stopped
+13 Jul 2022 16:58:52  INFO logger - Appium server stopped successfully
+13 Jul 2022 17:29:31  INFO logger - Appium started on http://0.0.0.0:36709/wd/hub
+13 Jul 2022 17:29:31  INFO logger - Appium server started successfully
+13 Jul 2022 17:29:31  INFO logger - Appium server stopped
+13 Jul 2022 17:29:31  INFO logger - Appium server stopped successfully
+13 Jul 2022 17:51:15  INFO logger - Appium started on http://0.0.0.0:1315/wd/hub
+13 Jul 2022 17:51:15  INFO logger - Appium server started successfully
+13 Jul 2022 17:51:15  INFO logger - Appium server stopped
+13 Jul 2022 17:51:15  INFO logger - Appium server stopped successfully
+13 Jul 2022 17:54:55  INFO logger - Appium started on http://0.0.0.0:17023/wd/hub
+13 Jul 2022 17:54:55  INFO logger - Appium server started successfully
+13 Jul 2022 17:54:55  INFO logger - Appium server stopped
+13 Jul 2022 17:54:55  INFO logger - Appium server stopped successfully
+13 Jul 2022 17:55:26  INFO logger - Appium started on http://0.0.0.0:23544/wd/hub
+13 Jul 2022 17:55:26  INFO logger - Appium server started successfully
+13 Jul 2022 17:55:26  INFO logger - --------------------------------------
+13 Jul 2022 17:56:42  INFO logger - iOS driver created
+13 Jul 2022 17:56:42  INFO logger - Shutting down driver
+13 Jul 2022 17:56:44  INFO logger - Appium server stopped
+13 Jul 2022 17:56:44  INFO logger - Appium server stopped successfully
+13 Jul 2022 18:01:51  INFO logger - Appium started on http://0.0.0.0:28502/wd/hub
+13 Jul 2022 18:01:51  INFO logger - Appium server started successfully
+13 Jul 2022 18:01:51  INFO logger - --------------------------------------
+13 Jul 2022 18:02:48  INFO logger - iOS driver created
+13 Jul 2022 18:02:48  INFO logger - Shutting down driver
+13 Jul 2022 18:02:50  INFO logger - Appium server stopped
+13 Jul 2022 18:02:50  INFO logger - Appium server stopped successfully
+13 Jul 2022 18:20:19  INFO logger - Appium started on http://0.0.0.0:29198/wd/hub
+13 Jul 2022 18:20:19  INFO logger - Appium server started successfully
+13 Jul 2022 18:20:19  INFO logger - Appium server stopped
+13 Jul 2022 18:20:19  INFO logger - Appium server stopped successfully
+13 Jul 2022 18:20:33  INFO logger - Appium started on http://0.0.0.0:31645/wd/hub
+13 Jul 2022 18:20:33  INFO logger - Appium server started successfully
+13 Jul 2022 18:20:33  INFO logger - --------------------------------------
+13 Jul 2022 18:22:10  INFO logger - iOS driver created
+13 Jul 2022 18:22:15  INFO logger - Shutting down driver
+13 Jul 2022 18:22:17  INFO logger - Appium server stopped
+13 Jul 2022 18:22:17  INFO logger - Appium server stopped successfully
+13 Jul 2022 18:30:01  INFO logger - Appium started on http://0.0.0.0:13798/wd/hub
+13 Jul 2022 18:30:01  INFO logger - Appium server started successfully
+13 Jul 2022 18:30:01  INFO logger - --------------------------------------
+13 Jul 2022 18:30:45  INFO logger - iOS driver created
+13 Jul 2022 18:30:50  INFO logger - Shutting down driver
+13 Jul 2022 18:30:52  INFO logger - Appium server stopped
+13 Jul 2022 18:30:52  INFO logger - Appium server stopped successfully
+13 Jul 2022 18:42:06  INFO logger - Appium started on http://0.0.0.0:25848/wd/hub
+13 Jul 2022 18:42:06  INFO logger - Appium server started successfully
+13 Jul 2022 18:42:06  INFO logger - --------------------------------------
+13 Jul 2022 18:42:49  INFO logger - iOS driver created
+13 Jul 2022 18:42:55  INFO logger - Shutting down driver
+13 Jul 2022 18:42:56  INFO logger - Appium server stopped
+13 Jul 2022 18:42:56  INFO logger - Appium server stopped successfully
+13 Jul 2022 18:45:17  INFO logger - Appium started on http://0.0.0.0:10316/wd/hub
+13 Jul 2022 18:45:17  INFO logger - Appium server started successfully
+13 Jul 2022 18:45:17  INFO logger - --------------------------------------
+13 Jul 2022 18:45:55  INFO logger - iOS driver created
+13 Jul 2022 18:46:07  INFO logger - Shutting down driver
+13 Jul 2022 18:46:09  INFO logger - Appium server stopped
+13 Jul 2022 18:46:09  INFO logger - Appium server stopped successfully
+13 Jul 2022 18:49:30  INFO logger - Appium started on http://0.0.0.0:10618/wd/hub
+13 Jul 2022 18:49:30  INFO logger - Appium server started successfully
+13 Jul 2022 18:49:30  INFO logger - --------------------------------------
+13 Jul 2022 18:50:35  INFO logger - iOS driver created
+13 Jul 2022 18:50:37  INFO logger - Shutting down driver
+13 Jul 2022 18:50:39  INFO logger - Appium server stopped
+13 Jul 2022 18:50:39  INFO logger - Appium server stopped successfully
+13 Jul 2022 18:57:31  INFO logger - Appium started on http://0.0.0.0:23473/wd/hub
+13 Jul 2022 18:57:31  INFO logger - Appium server started successfully
+13 Jul 2022 18:57:31  INFO logger - Appium server stopped
+13 Jul 2022 18:57:31  INFO logger - Appium server stopped successfully
+13 Jul 2022 18:57:45  INFO logger - Appium started on http://0.0.0.0:35842/wd/hub
+13 Jul 2022 18:57:45  INFO logger - Appium server started successfully
+13 Jul 2022 18:57:45  INFO logger - --------------------------------------
+13 Jul 2022 18:58:43  INFO logger - iOS driver created
+13 Jul 2022 18:58:49  INFO logger - Shutting down driver
+13 Jul 2022 18:58:51  INFO logger - Appium server stopped
+13 Jul 2022 18:58:51  INFO logger - Appium server stopped successfully
+13 Jul 2022 19:09:57  INFO logger - Appium started on http://0.0.0.0:27585/wd/hub
+13 Jul 2022 19:09:57  INFO logger - Appium server started successfully
+13 Jul 2022 19:09:57  INFO logger - Appium server stopped
+13 Jul 2022 19:09:57  INFO logger - Appium server stopped successfully
+13 Jul 2022 19:10:22  INFO logger - Appium started on http://0.0.0.0:37621/wd/hub
+13 Jul 2022 19:10:22  INFO logger - Appium server started successfully
+13 Jul 2022 19:10:22  INFO logger - --------------------------------------
+13 Jul 2022 19:11:25  INFO logger - Appium server stopped
+13 Jul 2022 19:11:25  INFO logger - Appium server stopped successfully
+13 Jul 2022 22:26:04  INFO logger - Appium started on http://0.0.0.0:22976/wd/hub
+13 Jul 2022 22:26:04  INFO logger - Appium server started successfully
+13 Jul 2022 22:26:04  INFO logger - --------------------------------------
+13 Jul 2022 22:26:58  INFO logger - Appium server stopped
+13 Jul 2022 22:26:58  INFO logger - Appium server stopped successfully
+13 Jul 2022 22:27:47  INFO logger - Appium started on http://0.0.0.0:8339/wd/hub
+13 Jul 2022 22:27:47  INFO logger - Appium server started successfully
+13 Jul 2022 22:27:48  INFO logger - Appium server stopped
+13 Jul 2022 22:27:48  INFO logger - Appium server stopped successfully
+13 Jul 2022 22:32:51  INFO logger - Appium started on http://0.0.0.0:12354/wd/hub
+13 Jul 2022 22:32:51  INFO logger - Appium server started successfully
+13 Jul 2022 22:32:51  INFO logger - --------------------------------------
+13 Jul 2022 22:33:57  INFO logger - Appium server stopped
+13 Jul 2022 22:33:57  INFO logger - Appium server stopped successfully
+13 Jul 2022 22:34:35  INFO logger - Appium started on http://0.0.0.0:8342/wd/hub
+13 Jul 2022 22:34:35  INFO logger - Appium server started successfully
+13 Jul 2022 22:34:35  INFO logger - Appium server stopped
+13 Jul 2022 22:34:35  INFO logger - Appium server stopped successfully
+13 Jul 2022 22:39:48  INFO logger - Appium started on http://0.0.0.0:30228/wd/hub
+13 Jul 2022 22:39:48  INFO logger - Appium server started successfully
+13 Jul 2022 22:39:48  INFO logger - Appium server stopped
+13 Jul 2022 22:39:48  INFO logger - Appium server stopped successfully
+13 Jul 2022 22:43:21  INFO logger - Appium started on http://0.0.0.0:1376/wd/hub
+13 Jul 2022 22:43:21  INFO logger - Appium server started successfully
+13 Jul 2022 22:43:21  INFO logger - Appium server stopped
+13 Jul 2022 22:43:21  INFO logger - Appium server stopped successfully
+13 Jul 2022 22:43:37  INFO logger - Appium started on http://0.0.0.0:22821/wd/hub
+13 Jul 2022 22:43:37  INFO logger - Appium server started successfully
+13 Jul 2022 22:43:37  INFO logger - --------------------------------------
+13 Jul 2022 22:44:38  INFO logger - Appium server stopped
+13 Jul 2022 22:44:38  INFO logger - Appium server stopped successfully

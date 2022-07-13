@@ -1,7 +1,9 @@
 package UITestFramework;
 
+import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.ios.IOSDriver;
+import io.appium.java_client.ios.IOSElement;
 import io.appium.java_client.remote.MobileCapabilityType;
 import io.appium.java_client.service.local.AppiumDriverLocalService;
 import io.appium.java_client.service.local.AppiumServiceBuilder;
@@ -21,6 +23,7 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.lang.reflect.Method;
 import java.net.MalformedURLException;
+import java.net.URL;
 import java.util.Properties;
 
 /**
@@ -40,6 +43,7 @@ public class CreateSession  {
 	protected File file = new File("");
 	Properties configProp = new Properties();
 	String OS;
+	GenericMethods methods=new GenericMethods(driver);
 
 
 	/** 
@@ -142,6 +146,8 @@ public class CreateSession  {
 		capabilities.setCapability(MobileCapabilityType.FULL_RESET, true);
 		capabilities.setCapability("automationName", "UiAutomator2");
 		driver = new AndroidDriver( appiumService.getUrl(), capabilities);
+		
+		
 
 	}
 
@@ -153,14 +159,37 @@ public class CreateSession  {
 	 */
 	public void iOSDriver(String buildPath, Method methodName) throws MalformedURLException {
 		File app = new File(buildPath);
-		DesiredCapabilities capabilities = new DesiredCapabilities();
-		capabilities.setCapability("platformName","iOS");
-		capabilities.setCapability("platformVersion", "8.2");
-		capabilities.setCapability("appiumVersion", "1.3.7");
-		capabilities.setCapability("name", methodName.getName());
-		capabilities.setCapability(MobileCapabilityType.DEVICE_NAME,"iPhone 5s"); 
-		capabilities.setCapability("app", app.getAbsolutePath());
-		driver  = new IOSDriver( appiumService.getUrl(), capabilities);
+		DesiredCapabilities caps = new DesiredCapabilities();
+//		capabilities.setCapability("platformName","iOS");
+//		capabilities.setCapability("platformVersion", "8.2");
+//		capabilities.setCapability("appiumVersion", "1.3.7");
+//		capabilities.setCapability("name", methodName.getName());
+//		capabilities.setCapability(MobileCapabilityType.DEVICE_NAME,"iPhone 5s"); 
+//		capabilities.setCapability("app", app.getAbsolutePath());
+//		driver  = new IOSDriver( appiumService.getUrl(), capabilities);
+		caps.setCapability("browserstack.user", "amayaa_FXoMdJ");
+		caps.setCapability("browserstack.key", "hqrpbApiLoDyVUx6wfZZ");
+
+		// Set URL of the application under test
+		caps.setCapability("app", "bs://418d275b6c913760be1846120e22c4ff265e1b45");
+
+		// Specify device and os_version for testing
+		caps.setCapability("device", "iPhone XS");
+		caps.setCapability("os_version", "13");
+
+		// Set other BrowserStack capabilities
+		caps.setCapability("project", "First Java Project");
+		caps.setCapability("build", "browserstack-build-1");
+		caps.setCapability("name", "first_test");
+		caps.setCapability("noReset", "true");
+		caps.setCapability("autoGrantPermissions", "true");
+
+		// Initialise the remote Webdriver using BrowserStack remote URL
+		// and desired capabilities defined above
+		driver = new AppiumDriver<IOSElement>(new URL("http://hub-cloud.browserstack.com/wd/hub"), caps);
+		methods.implicitwait(null);
+		
+
 
 	}
 
