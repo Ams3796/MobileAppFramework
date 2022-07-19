@@ -5,9 +5,9 @@
     <classes>
       <class name="TestScript.Test1">
         <methods>
+          <include name="test1"/>
           <include name="teardown"/>
           <include name="stopAppium"/>
-          <include name="sample"/>
           <include name="createDriver"/>
           <include name="invokeAppium"/>
         </methods>

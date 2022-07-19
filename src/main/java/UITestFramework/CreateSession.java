@@ -15,6 +15,7 @@ import org.apache.commons.exec.DefaultExecutor;
 import org.apache.commons.exec.ExecuteException;
 import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.testng.annotations.*;
 
@@ -25,6 +26,7 @@ import java.lang.reflect.Method;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.Properties;
+import java.util.concurrent.TimeUnit;
 
 /**
  * contains all the methods to create a new session and destroy the 
@@ -44,6 +46,7 @@ public class CreateSession  {
 	Properties configProp = new Properties();
 	String OS;
 	GenericMethods methods=new GenericMethods(driver);
+	
 
 
 	/** 
@@ -167,15 +170,15 @@ public class CreateSession  {
 //		capabilities.setCapability(MobileCapabilityType.DEVICE_NAME,"iPhone 5s"); 
 //		capabilities.setCapability("app", app.getAbsolutePath());
 //		driver  = new IOSDriver( appiumService.getUrl(), capabilities);
-		caps.setCapability("browserstack.user", "amayaa_FXoMdJ");
-		caps.setCapability("browserstack.key", "hqrpbApiLoDyVUx6wfZZ");
+		caps.setCapability("browserstack.user", "amsa_wFW7SI");
+		caps.setCapability("browserstack.key", "WDyNrBi2xwBjV1jkJxmm");
 
 		// Set URL of the application under test
-		caps.setCapability("app", "bs://418d275b6c913760be1846120e22c4ff265e1b45");
+		caps.setCapability("app", "bs://25dcac9e0049bc1a047d1695c35359b2905e47ee");
 
 		// Specify device and os_version for testing
-		caps.setCapability("device", "iPhone XS");
-		caps.setCapability("os_version", "13");
+		caps.setCapability("device", "iPhone 11");
+		caps.setCapability("os_version", "14");
 
 		// Set other BrowserStack capabilities
 		caps.setCapability("project", "First Java Project");
@@ -187,7 +190,7 @@ public class CreateSession  {
 		// Initialise the remote Webdriver using BrowserStack remote URL
 		// and desired capabilities defined above
 		driver = new AppiumDriver<IOSElement>(new URL("http://hub-cloud.browserstack.com/wd/hub"), caps);
-		methods.implicitwait(null);
+		driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
 		
 
 

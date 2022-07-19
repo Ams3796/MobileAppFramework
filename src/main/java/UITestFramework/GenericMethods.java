@@ -1,6 +1,7 @@
 package UITestFramework;
 
 import java.time.Duration;
+import java.time.LocalDate;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Set;
@@ -15,6 +16,7 @@ import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.TimeoutException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
@@ -25,7 +27,6 @@ import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.android.connection.ConnectionState;
 import io.appium.java_client.android.nativekey.AndroidKey;
 import io.appium.java_client.android.nativekey.KeyEvent;
-import io.appium.java_client.ios.IOSDriver;
 import io.appium.java_client.touch.LongPressOptions;
 import io.appium.java_client.touch.WaitOptions;
 import io.appium.java_client.touch.offset.ElementOption;
@@ -34,7 +35,8 @@ import logger.Log;
 
 public class GenericMethods {
 
-	WebDriver driver = null;
+	WebDriver driver;
+//	IOSDriver<WebElement> driver1;
 
 	// common timeout for all tests can be set here
 	public final int timeOut = 40;
@@ -75,10 +77,10 @@ public class GenericMethods {
 	/**
 	 * Method to wait for a particular measure of time in each instance of script
 	 * 
-	 * @param driver
+	 * @param driver2
 	 */
 
-	public void implicitwait(IOSDriver<WebElement> driver) {
+	public void implicitwait(WebDriver driver) {
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 	}
 
@@ -422,5 +424,50 @@ public class GenericMethods {
 					.waitAction(WaitOptions.waitOptions(Duration.ofMillis(durationForSwipe))).release().perform();
 		}
 	}
+
+	public void refresh() {
+		((GenericMethods) driver).refresh();
+	}
+
+	public void check_in() {
+		LocalDate local = LocalDate.now();
+		LocalDate checkin = local.plusDays(1);
+		String s = checkin.toString();
+		String[] s1 = s.split("-");
+		System.out.println(s1.length);
+		String checkin_date = "";
+		for (int i = 0; i < s1.length; i++) {
+			System.out.println(s1[i]);
+			checkin_date = s1[i];
+		}
+		((RemoteWebDriver) driver).findElementByXPath("(//XCUIElementTypeStaticText[@name='" + checkin_date + "'])[1]")
+				.click();
+		System.out.println("Checkin selected");
+	}
+
+	public void checkout() {
+		LocalDate local = LocalDate.now();
+		LocalDate checkout = local.plusDays(2);
+		String s2 = checkout.toString();
+		String[] s3 = s2.split("-");
+		System.out.println(s3.length);
+		String checkout_date = "";
+		for (int i = 0; i < s3.length; i++) {
+			System.out.println(s3[i]);
+			checkout_date = s3[i];
+		}
+		((RemoteWebDriver) driver).findElementByXPath("(//XCUIElementTypeStaticText[@name='" + checkout_date + "'])[2]")
+				.click();
+		System.out.println("Checkout selected");
+
+	}
+//
+//	public void taByCoordinates(WebDriver driver, int x, int y, long seconds) {
+//		TouchAction<?> action = new TouchAction((PerformsTouchActions) driver);
+//		action.press(PointOption.point(48, 387)).waitAction(WaitOptions.waitOptions(Duration.ofSeconds(1))).release()
+//				.perform();
+//		System.out.println("Tapped");
+//
+//	}
 
 }

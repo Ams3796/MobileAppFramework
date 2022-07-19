@@ -51,6 +51,30 @@ public class AllowPermissionsPage {
 		return cancel_contact_settings;
 	}
 	
+
+	@FindBy(xpath = "//XCUIElementTypeTextField[@value='Name']")
+	private WebElement name_field;
+
+	public WebElement getName_field() {
+		return name_field;
+	}
+
+	@FindBy(xpath = "//XCUIElementTypeTextField[@value='Mobile Number']")
+	private WebElement mobile_number_field;
+
+	public WebElement getMobile_number_field() {
+		return mobile_number_field;
+	}
+
+	@FindBy(xpath = "//XCUIElementTypeButton[@label='login button']")
+	private WebElement login_button;
+
+	public WebElement getLogin_button() {
+		return login_button;
+	}
+	
+	
+	
 	public void allow_permissions()
 	{
 		dont_allow_notifications.click();
@@ -58,6 +82,12 @@ public class AllowPermissionsPage {
 		contact_dontallow.click();
 		maybelater.click();
 		allow_location_access.click();
+	}
+	
+	public void login() {
+		name_field.sendKeys("Amaya");
+		mobile_number_field.sendKeys("9706388670");
+		login_button.click();
 	}
 
 }
