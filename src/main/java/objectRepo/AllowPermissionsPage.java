@@ -3,11 +3,11 @@ package objectRepo;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
-import io.appium.java_client.ios.IOSDriver;
+import io.appium.java_client.AppiumDriver;
 
 public class AllowPermissionsPage {
 	
-	public IOSDriver<WebElement> driver;
+	public AppiumDriver<WebElement> driver1;
 	
 	@FindBy(xpath = "//XCUIElementTypeButton[@name='Don’t Allow']")
 	public WebElement dont_allow_notifications;

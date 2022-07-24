@@ -13,13 +13,11 @@ import UITestFramework.CreateSession;
 import UITestFramework.GenericMethods;
 import io.appium.java_client.ios.IOSDriver;
 import objectRepo.AllowPermissionsPage;
-import objectRepo.FiltersPage;
 import objectRepo.SearchProductPage;
 
 public class VerifyHotelFilters extends CreateSession {
 
 	AllowPermissionsPage ap;
-	FiltersPage filter;
 	SearchProductPage sp;
 	GenericMethods methods = new GenericMethods(driver);
 	IOSDriver<WebElement> driver1;
@@ -29,7 +27,7 @@ public class VerifyHotelFilters extends CreateSession {
 
 	public void train() throws InterruptedException {
 		ap = PageFactory.initElements(driver, AllowPermissionsPage.class);
-		filter = PageFactory.initElements(driver, FiltersPage.class);
+
 		sp = PageFactory.initElements(driver, SearchProductPage.class);
 
 		ap.allow_permissions();

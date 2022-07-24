@@ -19,7 +19,7 @@ public class VerifyPages extends CreateSession {
 		ap = PageFactory.initElements(driver, AllowPermissionsPage.class);
 		sp = PageFactory.initElements(driver, SearchProductPage.class);
 		ap.allow_permissions();
-		sp.search_location();
+		sp.search_location_manyata();
 		sp.search_item();
 		sp.verify_logo();
 		sp.verify_filter_options();

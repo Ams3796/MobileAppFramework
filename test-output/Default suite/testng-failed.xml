@@ -3,15 +3,15 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="TestScript.Test1">
+      <class name="TestScript.VerifyMaps">
         <methods>
-          <include name="test1"/>
           <include name="teardown"/>
           <include name="stopAppium"/>
           <include name="createDriver"/>
           <include name="invokeAppium"/>
+          <include name="restaurant"/>
         </methods>
-      </class> <!-- TestScript.Test1 -->
+      </class> <!-- TestScript.VerifyMaps -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

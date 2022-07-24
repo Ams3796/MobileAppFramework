@@ -4,7 +4,7 @@
 	<test name="Test1">
 		<parameter name="os" value="iOS"></parameter>
 		<classes>
-			<class name="TestScript.VerifyHotelFilters" />
+			<class name="TestScript.Filter" />
 		</classes>
 	</test> <!-- Test -->
-</suite> <!-- Suite -->
+</suite> <!-- Suite >~-->

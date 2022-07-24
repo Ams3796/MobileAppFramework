@@ -397,8 +397,8 @@ public class GenericMethods {
 		Dimension dimension = driver.manage().window().getSize();
 
 		for (int i = 0; i <= swipeTimes; i++) {
-			int start = (int) (dimension.getHeight() * 0.5);
-			int end = (int) (dimension.getHeight() * 0.3);
+			int start = (int) (dimension.getHeight() * 0.9);
+			int end = (int) (dimension.getHeight() * 0.7);
 			int x = (int) (dimension.getWidth() * .5);
 
 			new TouchAction((AppiumDriver) driver).press(PointOption.point(x, start)).moveTo(PointOption.point(x, end))
@@ -429,45 +429,19 @@ public class GenericMethods {
 		((GenericMethods) driver).refresh();
 	}
 
-	public void check_in() {
-		LocalDate local = LocalDate.now();
-		LocalDate checkin = local.plusDays(1);
-		String s = checkin.toString();
-		String[] s1 = s.split("-");
-		System.out.println(s1.length);
-		String checkin_date = "";
-		for (int i = 0; i < s1.length; i++) {
-			System.out.println(s1[i]);
-			checkin_date = s1[i];
-		}
-		((RemoteWebDriver) driver).findElementByXPath("(//XCUIElementTypeStaticText[@name='" + checkin_date + "'])[1]")
-				.click();
-		System.out.println("Checkin selected");
+
+	public void swipeByPercentage(double x1, double y1, double x2, double y2,AppiumDriver driver) {
+		Dimension dimension = driver.manage().window().getSize();
+		int start_x = (int) (dimension.width * x1);
+		int start_y = (int) (dimension.height * y1);
+
+		int end_x = (int) (dimension.width * x2);
+		int end_y = (int) (dimension.height * y2);
+
+		TouchAction<?> action = new TouchAction(driver);
+		action.press(PointOption.point(start_x, start_y)).waitAction(WaitOptions.waitOptions(Duration.ofSeconds(5)))
+				.moveTo(PointOption.point(end_x, end_y)).release().perform();
 	}
-
-	public void checkout() {
-		LocalDate local = LocalDate.now();
-		LocalDate checkout = local.plusDays(2);
-		String s2 = checkout.toString();
-		String[] s3 = s2.split("-");
-		System.out.println(s3.length);
-		String checkout_date = "";
-		for (int i = 0; i < s3.length; i++) {
-			System.out.println(s3[i]);
-			checkout_date = s3[i];
-		}
-		((RemoteWebDriver) driver).findElementByXPath("(//XCUIElementTypeStaticText[@name='" + checkout_date + "'])[2]")
-				.click();
-		System.out.println("Checkout selected");
-
-	}
-//
-//	public void taByCoordinates(WebDriver driver, int x, int y, long seconds) {
-//		TouchAction<?> action = new TouchAction((PerformsTouchActions) driver);
-//		action.press(PointOption.point(48, 387)).waitAction(WaitOptions.waitOptions(Duration.ofSeconds(1))).release()
-//				.perform();
-//		System.out.println("Tapped");
-//
-//	}
-
+	
+	
 }

@@ -107,10 +107,17 @@ public class SearchProductPage {
 	}
 
 	@FindBy(xpath = "(//XCUIElementTypeTable//XCUIElementTypeCell//XCUIElementTypeStaticText[4])[1]")
-	private WebElement tap_result;
+	private WebElement resultspage_firstresult;
 
-	public WebElement getTap_result() {
-		return tap_result;
+	public WebElement getResultspage_firstresult() {
+		return resultspage_firstresult;
+	}
+	
+	@FindBy(xpath="(//XCUIElementTypeTable//XCUIElementTypeCell//XCUIElementTypeStaticText[5])")
+	private WebElement first_result;
+
+	public WebElement getFirst_result() {
+		return first_result;
 	}
 
 	@FindBy(xpath = "(//XCUIElementTypeTable//XCUIElementTypeOther//XCUIElementTypeStaticText)[2]")
@@ -224,41 +231,39 @@ public class SearchProductPage {
 	public WebElement getFilter_checkedin_icon() {
 		return filter_checkedin_icon;
 	}
-	
-	@FindBy(xpath="//XCUIElementTypeStaticText[contains(@label,'₹')]")
-	private List<WebElement> resultspage_price;
 
-	
+	@FindBy(xpath = "//XCUIElementTypeStaticText[contains(@label,'₹')]")
+	private List<WebElement> resultspage_price;
 
 	public List<WebElement> getResultspage_price() {
 		return resultspage_price;
 	}
-	
-	@FindBy(xpath="//XCUIElementTypeStaticText[@label='Clear All']")
+
+	@FindBy(xpath = "//XCUIElementTypeStaticText[@label='Clear All']")
 	private WebElement clear_all_optin;
 
 	public WebElement getClear_all_optin() {
 		return clear_all_optin;
 	}
-	
-	@FindBy(xpath="//XCUIElementTypeStaticText[@label='Star Rating']")
+
+	@FindBy(xpath = "//XCUIElementTypeStaticText[@label='Star Rating']")
 	private WebElement star_rating_option;
 
 	public WebElement getStar_rating_option() {
 		return star_rating_option;
 	}
-	
-	@FindBy(xpath="//XCUIElementTypeStaticText[@label='5 Star']")
+
+	@FindBy(xpath = "//XCUIElementTypeStaticText[@label='5 Star']")
 	private WebElement five_star_rating;
 
 	public WebElement getFive_star_rating() {
 		return five_star_rating;
 	}
-	
-	@FindBy(xpath="//XCUIElementTypeStaticText[@label='Aug, 2022']//preceding::XCUIElementTypeStaticText[@name='25']")
+
+	@FindBy(xpath = "//XCUIElementTypeStaticText[@label='Aug, 2022']//preceding::XCUIElementTypeStaticText[@name='25']")
 	private WebElement checkin_date;
-	
-	@FindBy(xpath="//XCUIElementTypeStaticText[@label='Aug, 2022']//preceding::XCUIElementTypeStaticText[@name='27']")
+
+	@FindBy(xpath = "//XCUIElementTypeStaticText[@label='Aug, 2022']//preceding::XCUIElementTypeStaticText[@name='27']")
 	private WebElement checkout_date;
 
 	public WebElement getCheckin_date() {
@@ -269,12 +274,18 @@ public class SearchProductPage {
 		return checkout_date;
 	}
 
-	public void search_location() {
+	public void search_location_manyata() {
 		homepage_search_field.click();
 		location_dropdown.click();
 		location_searchfield.sendKeys("Manyata Tech Park");
 		location_first_suggestion.click();
+	}
 
+	public void search_location_maladwest() {
+		homepage_search_field.click();
+		location_dropdown.click();
+		location_searchfield.sendKeys("Malad West Mumbai");
+		location_first_suggestion.click();
 	}
 
 	public void search_item() {
@@ -304,15 +315,15 @@ public class SearchProductPage {
 		System.out.println("Map option displayed is : " + map);
 	}
 
-//	public void results_page_names() {
-//		for (int i = 1; i <= 3; i++) {
-//			WebElement res_name = driver.findElementByXPath(
-//					"(//XCUIElementTypeTable//XCUIElementTypeCell//XCUIElementTypeStaticText[4])[" + i + "]");
-//			String text = res_name.getText();
-//			System.out.println("Result " + i + "Name : " + text);
-//		}
-//
-//	}
+	public void results_page_names() {
+		for (int i = 1; i <= 3; i++) {
+			WebElement res_name = driver.findElementByXPath(
+					"(//XCUIElementTypeTable//XCUIElementTypeCell//XCUIElementTypeStaticText[4])[" + i + "]");
+			String text = res_name.getText();
+			System.out.println("Result " + i + "Name : " + text);
+		}
+
+	}
 
 	public void verify_details_page() throws InterruptedException {
 
@@ -336,13 +347,13 @@ public class SearchProductPage {
 //		List<WebElement> options = driver
 //				.findElementsByXPath("//XCUIElementTypeOther[@name='Call']/XCUIElementTypeStaticText");
 //		int size = options.size();
-//		for (int i = 1; i <= size; i++) {
-//			WebElement option = driver
-//					.findElementByXPath("(//XCUIElementTypeOther[@name='Call']/XCUIElementTypeStaticText)[" + i + "]");
-//			String text = option.getText();
-//			boolean display = option.isDisplayed();
-//			System.out.println(text + " displayed is : " + display);
-//		}
+		for (int i = 1; i <= 20; i++) {
+			WebElement option = driver
+					.findElementByXPath("(//XCUIElementTypeOther[@name='Call']/XCUIElementTypeStaticText)[" + i + "]");
+			String text = option.getText();
+			boolean display = option.isDisplayed();
+			System.out.println(text + " displayed is : " + display);
+		}
 
 	}
 

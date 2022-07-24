@@ -4,15 +4,15 @@
   <test thread-count="5" name="Test1(failed)">
     <parameter name="os" value="iOS"/>
     <classes>
-      <class name="TestScript.VerifyHotelFilters">
+      <class name="TestScript.Filter">
         <methods>
           <include name="teardown"/>
+          <include name="allownow"/>
           <include name="stopAppium"/>
-          <include name="train"/>
           <include name="createDriver"/>
           <include name="invokeAppium"/>
         </methods>
-      </class> <!-- TestScript.VerifyHotelFilters -->
+      </class> <!-- TestScript.Filter -->
     </classes>
   </test> <!-- Test1(failed) -->
 </suite> <!-- Failed suite [Suite] -->
