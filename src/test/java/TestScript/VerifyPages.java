@@ -24,7 +24,6 @@ public class VerifyPages extends CreateSession {
 		sp.verify_logo();
 		sp.verify_filter_options();
 		sp.getResultpage_jdpay().click();
-		methods.refresh();
 		sp.verify_details_page();
 		
 		

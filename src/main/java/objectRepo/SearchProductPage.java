@@ -112,8 +112,8 @@ public class SearchProductPage {
 	public WebElement getResultspage_firstresult() {
 		return resultspage_firstresult;
 	}
-	
-	@FindBy(xpath="(//XCUIElementTypeTable//XCUIElementTypeCell//XCUIElementTypeStaticText[5])")
+
+	@FindBy(xpath = "(//XCUIElementTypeTable//XCUIElementTypeCell//XCUIElementTypeStaticText[5])")
 	private WebElement first_result;
 
 	public WebElement getFirst_result() {
@@ -344,17 +344,6 @@ public class SearchProductPage {
 		boolean bestdeal = best_deal.isDisplayed();
 		System.out.println("Best Deal displayed is :" + bestdeal);
 
-//		List<WebElement> options = driver
-//				.findElementsByXPath("//XCUIElementTypeOther[@name='Call']/XCUIElementTypeStaticText");
-//		int size = options.size();
-		for (int i = 1; i <= 20; i++) {
-			WebElement option = driver
-					.findElementByXPath("(//XCUIElementTypeOther[@name='Call']/XCUIElementTypeStaticText)[" + i + "]");
-			String text = option.getText();
-			boolean display = option.isDisplayed();
-			System.out.println(text + " displayed is : " + display);
-		}
-
 	}
 
 	public void check_in() {
@@ -384,4 +373,4 @@ public class SearchProductPage {
 
 	}
 
-} // 44,387
+} 

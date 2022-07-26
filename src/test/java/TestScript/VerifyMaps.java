@@ -31,32 +31,14 @@ public class VerifyMaps extends CreateSession {
 		sp.search_item();
 		sp.verify_filter_options();
 
-//		List<WebElement> respage_names = sp.getResultspage_names();
-//		List l = new ArrayList();
-//		for (int i = 0; i < 2; i++) {
-//			String text = respage_names.get(i).getText();
-//			System.out.println(text);
-//			l.add(text);
-//		}
 		String text = sp.getResultspage_firstresult().getText();
 		System.out.println("Result 1 : " + text);
-
 		sp.getMap_option().click();
 		Thread.sleep(3000);
-
 		map.getMaps_explore_listview().click();
 		Thread.sleep(3000);
-//
-//		List l1=new ArrayList();
 		String text1 = map.getMaps_listview_result1_name().getText();
 		System.out.println("Result 2 : " + text1);
-//		String text2 = map.getMaps_listview_result2_name().getText();
-//		System.out.println("Second result name : "+text2);
-//		l1.add(text1);
-//		l1.add(text2);
-//		
-//		Collections.sort(l);
-//		Collections.sort(l1);
 		Assert.assertEquals(text, text1);
 		System.out.println("Results Matching");
 		map.getMaps_explore_listview().click();
@@ -64,7 +46,6 @@ public class VerifyMaps extends CreateSession {
 
 		for (int i = 1; i <= 3; i++) {
 			System.out.println("Result " + i + "");
-
 			boolean direction = map.getMapspage_directions_button().isDisplayed();
 			System.out.println("Direction icon displayed is :" + direction);
 			boolean call = map.getMapspage_call_button().isDisplayed();

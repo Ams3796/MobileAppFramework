@@ -34,7 +34,7 @@ public class Filter extends CreateSession {
 		sp.getHomepage_search_field().click();
 		sp.getSearch_item_field().sendKeys("Restaurant");
 		sp.getFirst_suggestion().click();
-		// sp.verify_filter_options();
+		sp.verify_filter_options();
 		String first_res_before_filter = sp.getResultspage_firstresult().getText();
 		System.out.println("Before Filter : " + first_res_before_filter);
 		sp.getFilters_option().click();
@@ -58,7 +58,6 @@ public class Filter extends CreateSession {
 			filter.getMore_filters_button().click();
 
 			if (i % 4 == 0) {
-				Thread.sleep(3000);
 				methods.swipeByPercentage(0.6, 0.9, 0.6, 0.7, (AppiumDriver) driver);
 				Thread.sleep(3000);
 

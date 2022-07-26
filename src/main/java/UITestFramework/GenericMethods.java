@@ -36,7 +36,6 @@ import logger.Log;
 public class GenericMethods {
 
 	WebDriver driver;
-//	IOSDriver<WebElement> driver1;
 
 	// common timeout for all tests can be set here
 	public final int timeOut = 40;
@@ -425,6 +424,11 @@ public class GenericMethods {
 		}
 	}
 
+	
+	
+	
+	
+	
 	public void refresh() {
 		((GenericMethods) driver).refresh();
 	}
