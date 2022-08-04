@@ -15,6 +15,7 @@ import org.apache.commons.exec.DefaultExecutor;
 import org.apache.commons.exec.ExecuteException;
 import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterSuite;
@@ -48,6 +49,7 @@ public class CreateSession {
 	Properties configProp = new Properties();
 	String OS;
 	GenericMethods methods = new GenericMethods(driver);
+	ReadData_PropertyFile prop=new ReadData_PropertyFile();
 
 	/**
 	 * this method starts Appium server. Calls startAppiumServer method to start the
@@ -130,24 +132,38 @@ public class CreateSession {
 	 * 
 	 * @param buildPath  - path to pick the location of the app
 	 * @param methodName - name of the method under execution
-	 * @throws MalformedURLException Thrown to indicate that a malformed URL has
-	 *                               occurred.
+	 * @throws IOException 
 	 */
-	public synchronized void androidDriver(String buildPath, Method methodName) throws MalformedURLException {
-		File app = new File(buildPath);
+	public synchronized void androidDriver(String buildPath, Method methodName) throws IOException {
+//		File app = new File(buildPath);
 		DesiredCapabilities capabilities = new DesiredCapabilities();
-		capabilities.setCapability("deviceName", "Android Emulator");
-		capabilities.setCapability("platformName", "Android");
-		capabilities.setCapability("appPackage", "net.slideshare.mobile");
-		capabilities.setCapability("appActivity", "net.slideshare.mobile.ui.SplashActivity");
+//		capabilities.setCapability("deviceName", "Android Emulator");
+//		capabilities.setCapability("platformName", "Android");
+//		capabilities.setCapability("appPackage", "net.slideshare.mobile");
+//		capabilities.setCapability("appActivity", "net.slideshare.mobile.ui.SplashActivity");
 		capabilities.setCapability("name", methodName.getName());
-		capabilities.setCapability("app", app.getAbsolutePath());
+//		capabilities.setCapability("app", app.getAbsolutePath());
 		// added "MobileCapabilityType.FULL_RESET" capability to start app in fresh
 		// state (logout).
 		// Remove it if not required
-		capabilities.setCapability(MobileCapabilityType.FULL_RESET, true);
+//		capabilities.setCapability(MobileCapabilityType.FULL_RESET, true);
+//		capabilities.setCapability("automationName", "UiAutomator2");
+//		driver = new AndroidDriver(appiumService.getUrl(), capabilities);
+		
+		capabilities.setCapability("deviceName", "OnePlus Nord CE 5G");
 		capabilities.setCapability("automationName", "UiAutomator2");
-		driver = new AndroidDriver(appiumService.getUrl(), capabilities);
+		capabilities.setCapability("platformName", "Android");
+		capabilities.setCapability("platformVersion", "11");
+		capabilities.setCapability("UDID", "fc3bb66d");
+		capabilities.setCapability("appPackage", "com.justdial.search");
+		capabilities.setCapability("appActivity", "SplashScreenNewActivity");
+		capabilities.setCapability("noReset", "true");
+		capabilities.setCapability("autoGrantPermissions", "true");
+		URL url = new URL("http://127.0.0.1:4723/wd/hub");
+		driver = new AndroidDriver<WebElement>(url, capabilities);
+		methods.implicitwait(driver);
+		
+		
 
 	}
 

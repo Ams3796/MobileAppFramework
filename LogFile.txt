@@ -2106,3 +2106,2390 @@
 25 Jul 2022 11:35:24  INFO logger - Shutting down driver
 25 Jul 2022 11:35:26  INFO logger - Appium server stopped
 25 Jul 2022 11:35:26  INFO logger - Appium server stopped successfully
+28 Jul 2022 14:38:34  INFO logger - Appium started on http://0.0.0.0:2874/wd/hub
+28 Jul 2022 14:38:34  INFO logger - Appium server started successfully
+28 Jul 2022 14:38:34  INFO logger - Appium server stopped
+28 Jul 2022 14:38:34  INFO logger - Appium server stopped successfully
+28 Jul 2022 14:38:50  INFO logger - Appium started on http://0.0.0.0:20837/wd/hub
+28 Jul 2022 14:38:50  INFO logger - Appium server started successfully
+28 Jul 2022 14:38:50  INFO logger - Appium server stopped
+28 Jul 2022 14:38:50  INFO logger - Appium server stopped successfully
+28 Jul 2022 14:39:45  INFO logger - Appium started on http://0.0.0.0:45800/wd/hub
+28 Jul 2022 14:39:45  INFO logger - Appium server started successfully
+28 Jul 2022 14:39:45  INFO logger - --------------------------------------
+28 Jul 2022 14:39:46  INFO logger - Appium server stopped
+28 Jul 2022 14:39:46  INFO logger - Appium server stopped successfully
+28 Jul 2022 14:41:27  INFO logger - Appium started on http://0.0.0.0:32337/wd/hub
+28 Jul 2022 14:41:27  INFO logger - Appium server started successfully
+28 Jul 2022 14:41:27  INFO logger - --------------------------------------
+28 Jul 2022 14:41:28  INFO logger - Appium server stopped
+28 Jul 2022 14:41:28  INFO logger - Appium server stopped successfully
+28 Jul 2022 14:44:17  INFO logger - Appium started on http://0.0.0.0:11486/wd/hub
+28 Jul 2022 14:44:17  INFO logger - Appium server started successfully
+28 Jul 2022 14:44:17  INFO logger - --------------------------------------
+28 Jul 2022 14:44:17  INFO logger - Appium server stopped
+28 Jul 2022 14:44:17  INFO logger - Appium server stopped successfully
+28 Jul 2022 14:45:10  INFO logger - Appium started on http://0.0.0.0:43451/wd/hub
+28 Jul 2022 14:45:10  INFO logger - Appium server started successfully
+28 Jul 2022 14:45:10  INFO logger - Appium server stopped
+28 Jul 2022 14:45:10  INFO logger - Appium server stopped successfully
+28 Jul 2022 14:52:28  INFO logger - Appium started on http://0.0.0.0:13495/wd/hub
+28 Jul 2022 14:52:28  INFO logger - Appium server started successfully
+28 Jul 2022 14:52:28  INFO logger - Appium server stopped
+28 Jul 2022 14:52:28  INFO logger - Appium server stopped successfully
+28 Jul 2022 14:53:40  INFO logger - Appium started on http://0.0.0.0:1884/wd/hub
+28 Jul 2022 14:53:40  INFO logger - Appium server started successfully
+28 Jul 2022 14:53:40  INFO logger - --------------------------------------
+28 Jul 2022 14:53:40  INFO logger - Appium server stopped
+28 Jul 2022 14:53:40  INFO logger - Appium server stopped successfully
+28 Jul 2022 14:58:47  INFO logger - Appium started on http://0.0.0.0:33228/wd/hub
+28 Jul 2022 14:58:47  INFO logger - Appium server started successfully
+28 Jul 2022 14:58:47  INFO logger - --------------------------------------
+28 Jul 2022 14:58:47  INFO logger - Appium server stopped
+28 Jul 2022 14:58:47  INFO logger - Appium server stopped successfully
+28 Jul 2022 15:03:45  INFO logger - Appium started on http://0.0.0.0:1112/wd/hub
+28 Jul 2022 15:03:45  INFO logger - Appium server started successfully
+28 Jul 2022 15:03:45  INFO logger - --------------------------------------
+28 Jul 2022 15:03:58  INFO logger - Android driver created
+28 Jul 2022 15:04:31  INFO logger - Shutting down driver
+28 Jul 2022 15:04:31  INFO logger - Appium server stopped
+28 Jul 2022 15:04:31  INFO logger - Appium server stopped successfully
+28 Jul 2022 15:05:48  INFO logger - Appium started on http://0.0.0.0:12683/wd/hub
+28 Jul 2022 15:05:48  INFO logger - Appium server started successfully
+28 Jul 2022 15:05:48  INFO logger - Appium server stopped
+28 Jul 2022 15:05:48  INFO logger - Appium server stopped successfully
+28 Jul 2022 15:05:59  INFO logger - Appium started on http://0.0.0.0:46686/wd/hub
+28 Jul 2022 15:05:59  INFO logger - Appium server started successfully
+28 Jul 2022 15:05:59  INFO logger - --------------------------------------
+28 Jul 2022 15:06:10  INFO logger - Android driver created
+28 Jul 2022 15:06:48  INFO logger - Shutting down driver
+28 Jul 2022 15:06:48  INFO logger - Appium server stopped
+28 Jul 2022 15:06:48  INFO logger - Appium server stopped successfully
+28 Jul 2022 15:10:31  INFO logger - Appium started on http://0.0.0.0:23647/wd/hub
+28 Jul 2022 15:10:31  INFO logger - Appium server started successfully
+28 Jul 2022 15:10:31  INFO logger - --------------------------------------
+28 Jul 2022 15:10:42  INFO logger - Android driver created
+28 Jul 2022 15:11:21  INFO logger - Shutting down driver
+28 Jul 2022 15:11:21  INFO logger - Appium server stopped
+28 Jul 2022 15:11:21  INFO logger - Appium server stopped successfully
+28 Jul 2022 15:11:50  INFO logger - Appium started on http://0.0.0.0:11540/wd/hub
+28 Jul 2022 15:11:50  INFO logger - Appium server started successfully
+28 Jul 2022 15:11:50  INFO logger - Appium server stopped
+28 Jul 2022 15:11:50  INFO logger - Appium server stopped successfully
+28 Jul 2022 15:12:00  INFO logger - Appium started on http://0.0.0.0:38439/wd/hub
+28 Jul 2022 15:12:00  INFO logger - Appium server started successfully
+28 Jul 2022 15:12:00  INFO logger - --------------------------------------
+28 Jul 2022 15:12:10  INFO logger - Android driver created
+28 Jul 2022 15:12:41  INFO logger - Shutting down driver
+28 Jul 2022 15:12:41  INFO logger - Appium server stopped
+28 Jul 2022 15:12:41  INFO logger - Appium server stopped successfully
+28 Jul 2022 15:13:32  INFO logger - Appium started on http://0.0.0.0:20272/wd/hub
+28 Jul 2022 15:13:32  INFO logger - Appium server started successfully
+28 Jul 2022 15:13:32  INFO logger - --------------------------------------
+28 Jul 2022 15:13:43  INFO logger - Android driver created
+28 Jul 2022 15:14:17  INFO logger - Shutting down driver
+28 Jul 2022 15:14:17  INFO logger - Appium server stopped
+28 Jul 2022 15:14:17  INFO logger - Appium server stopped successfully
+28 Jul 2022 15:14:54  INFO logger - Appium started on http://0.0.0.0:17941/wd/hub
+28 Jul 2022 15:14:54  INFO logger - Appium server started successfully
+28 Jul 2022 15:14:54  INFO logger - Appium server stopped
+28 Jul 2022 15:14:54  INFO logger - Appium server stopped successfully
+28 Jul 2022 15:15:38  INFO logger - Appium started on http://0.0.0.0:44327/wd/hub
+28 Jul 2022 15:15:38  INFO logger - Appium server started successfully
+28 Jul 2022 15:15:38  INFO logger - --------------------------------------
+28 Jul 2022 15:15:49  INFO logger - Android driver created
+28 Jul 2022 15:16:31  INFO logger - Shutting down driver
+28 Jul 2022 15:16:32  INFO logger - Appium server stopped
+28 Jul 2022 15:16:32  INFO logger - Appium server stopped successfully
+28 Jul 2022 15:20:57  INFO logger - Appium started on http://0.0.0.0:28390/wd/hub
+28 Jul 2022 15:20:57  INFO logger - Appium server started successfully
+28 Jul 2022 15:20:57  INFO logger - --------------------------------------
+28 Jul 2022 15:21:08  INFO logger - Android driver created
+28 Jul 2022 15:21:42  INFO logger - Appium started on http://0.0.0.0:33538/wd/hub
+28 Jul 2022 15:21:42  INFO logger - Appium server started successfully
+28 Jul 2022 15:21:42  INFO logger - --------------------------------------
+28 Jul 2022 15:21:45  INFO logger - Shutting down driver
+28 Jul 2022 15:21:45  INFO logger - Appium server stopped
+28 Jul 2022 15:21:45  INFO logger - Appium server stopped successfully
+28 Jul 2022 15:21:53  INFO logger - Android driver created
+28 Jul 2022 15:21:58  INFO logger - Shutting down driver
+28 Jul 2022 15:21:58  INFO logger - Appium server stopped
+28 Jul 2022 15:21:58  INFO logger - Appium server stopped successfully
+28 Jul 2022 15:22:08  INFO logger - Appium started on http://0.0.0.0:32956/wd/hub
+28 Jul 2022 15:22:08  INFO logger - Appium server started successfully
+28 Jul 2022 15:22:08  INFO logger - --------------------------------------
+28 Jul 2022 15:22:19  INFO logger - Android driver created
+28 Jul 2022 15:22:22  INFO logger - Shutting down driver
+28 Jul 2022 15:22:23  INFO logger - Appium server stopped
+28 Jul 2022 15:22:23  INFO logger - Appium server stopped successfully
+28 Jul 2022 15:24:09  INFO logger - Appium started on http://0.0.0.0:44932/wd/hub
+28 Jul 2022 15:24:09  INFO logger - Appium server started successfully
+28 Jul 2022 15:24:09  INFO logger - --------------------------------------
+28 Jul 2022 15:24:20  INFO logger - Android driver created
+28 Jul 2022 15:24:51  INFO logger - Shutting down driver
+28 Jul 2022 15:24:51  INFO logger - Appium server stopped
+28 Jul 2022 15:24:51  INFO logger - Appium server stopped successfully
+28 Jul 2022 15:25:04  INFO logger - Appium started on http://0.0.0.0:43394/wd/hub
+28 Jul 2022 15:25:04  INFO logger - Appium server started successfully
+28 Jul 2022 15:25:04  INFO logger - --------------------------------------
+28 Jul 2022 15:25:15  INFO logger - Android driver created
+28 Jul 2022 15:25:18  INFO logger - Shutting down driver
+28 Jul 2022 15:25:18  INFO logger - Appium server stopped
+28 Jul 2022 15:25:18  INFO logger - Appium server stopped successfully
+28 Jul 2022 15:27:04  INFO logger - Appium started on http://0.0.0.0:4483/wd/hub
+28 Jul 2022 15:27:04  INFO logger - Appium server started successfully
+28 Jul 2022 15:27:04  INFO logger - --------------------------------------
+28 Jul 2022 15:27:15  INFO logger - Android driver created
+28 Jul 2022 15:27:51  INFO logger - Shutting down driver
+28 Jul 2022 15:27:51  INFO logger - Appium server stopped
+28 Jul 2022 15:27:51  INFO logger - Appium server stopped successfully
+28 Jul 2022 15:29:34  INFO logger - Appium started on http://0.0.0.0:6973/wd/hub
+28 Jul 2022 15:29:34  INFO logger - Appium server started successfully
+28 Jul 2022 15:29:34  INFO logger - --------------------------------------
+28 Jul 2022 15:29:45  INFO logger - Android driver created
+28 Jul 2022 15:30:26  INFO logger - Shutting down driver
+28 Jul 2022 15:30:27  INFO logger - Appium server stopped
+28 Jul 2022 15:30:27  INFO logger - Appium server stopped successfully
+28 Jul 2022 15:34:57  INFO logger - Appium started on http://0.0.0.0:24540/wd/hub
+28 Jul 2022 15:34:57  INFO logger - Appium server started successfully
+28 Jul 2022 15:34:57  INFO logger - Appium server stopped
+28 Jul 2022 15:34:57  INFO logger - Appium server stopped successfully
+28 Jul 2022 15:35:07  INFO logger - Appium started on http://0.0.0.0:40455/wd/hub
+28 Jul 2022 15:35:07  INFO logger - Appium server started successfully
+28 Jul 2022 15:35:07  INFO logger - --------------------------------------
+28 Jul 2022 15:35:18  INFO logger - Android driver created
+28 Jul 2022 15:35:55  INFO logger - Shutting down driver
+28 Jul 2022 15:35:55  INFO logger - Appium server stopped
+28 Jul 2022 15:35:55  INFO logger - Appium server stopped successfully
+28 Jul 2022 15:43:14  INFO logger - Appium started on http://0.0.0.0:29353/wd/hub
+28 Jul 2022 15:43:14  INFO logger - Appium server started successfully
+28 Jul 2022 15:43:14  INFO logger - --------------------------------------
+28 Jul 2022 15:43:25  INFO logger - Android driver created
+28 Jul 2022 15:55:05  INFO logger - Shutting down driver
+28 Jul 2022 15:55:06  INFO logger - Appium server stopped
+28 Jul 2022 15:55:06  INFO logger - Appium server stopped successfully
+28 Jul 2022 16:04:09  INFO logger - Appium started on http://0.0.0.0:21965/wd/hub
+28 Jul 2022 16:04:09  INFO logger - Appium server started successfully
+28 Jul 2022 16:04:09  INFO logger - --------------------------------------
+28 Jul 2022 16:04:22  INFO logger - Android driver created
+28 Jul 2022 16:05:14  INFO logger - Shutting down driver
+28 Jul 2022 16:05:15  INFO logger - Appium server stopped
+28 Jul 2022 16:05:15  INFO logger - Appium server stopped successfully
+28 Jul 2022 16:11:18  INFO logger - Appium started on http://0.0.0.0:4423/wd/hub
+28 Jul 2022 16:11:18  INFO logger - Appium server started successfully
+28 Jul 2022 16:11:18  INFO logger - --------------------------------------
+28 Jul 2022 16:11:29  INFO logger - Android driver created
+28 Jul 2022 16:11:53  INFO logger - Shutting down driver
+28 Jul 2022 16:11:54  INFO logger - Appium server stopped
+28 Jul 2022 16:11:54  INFO logger - Appium server stopped successfully
+28 Jul 2022 16:13:11  INFO logger - Appium started on http://0.0.0.0:26640/wd/hub
+28 Jul 2022 16:13:11  INFO logger - Appium server started successfully
+28 Jul 2022 16:13:11  INFO logger - --------------------------------------
+28 Jul 2022 16:13:22  INFO logger - Android driver created
+28 Jul 2022 16:14:15  INFO logger - Shutting down driver
+28 Jul 2022 16:14:16  INFO logger - Appium server stopped
+28 Jul 2022 16:14:16  INFO logger - Appium server stopped successfully
+28 Jul 2022 16:14:47  INFO logger - Appium started on http://0.0.0.0:34315/wd/hub
+28 Jul 2022 16:14:47  INFO logger - Appium server started successfully
+28 Jul 2022 16:14:48  INFO logger - --------------------------------------
+28 Jul 2022 16:14:59  INFO logger - Android driver created
+28 Jul 2022 16:15:51  INFO logger - Shutting down driver
+28 Jul 2022 16:15:52  INFO logger - Appium server stopped
+28 Jul 2022 16:15:52  INFO logger - Appium server stopped successfully
+28 Jul 2022 16:29:13  INFO logger - Appium started on http://0.0.0.0:28562/wd/hub
+28 Jul 2022 16:29:13  INFO logger - Appium server started successfully
+28 Jul 2022 16:29:13  INFO logger - --------------------------------------
+28 Jul 2022 16:29:24  INFO logger - Android driver created
+28 Jul 2022 16:29:28  INFO logger - Shutting down driver
+28 Jul 2022 16:29:28  INFO logger - Appium server stopped
+28 Jul 2022 16:29:28  INFO logger - Appium server stopped successfully
+28 Jul 2022 16:30:07  INFO logger - Appium started on http://0.0.0.0:11660/wd/hub
+28 Jul 2022 16:30:07  INFO logger - Appium server started successfully
+28 Jul 2022 16:30:07  INFO logger - --------------------------------------
+28 Jul 2022 16:30:18  INFO logger - Android driver created
+28 Jul 2022 16:31:12  INFO logger - Shutting down driver
+28 Jul 2022 16:31:12  INFO logger - Appium server stopped
+28 Jul 2022 16:31:12  INFO logger - Appium server stopped successfully
+28 Jul 2022 16:32:03  INFO logger - Appium started on http://0.0.0.0:6773/wd/hub
+28 Jul 2022 16:32:03  INFO logger - Appium server started successfully
+28 Jul 2022 16:32:03  INFO logger - --------------------------------------
+28 Jul 2022 16:32:14  INFO logger - Android driver created
+28 Jul 2022 16:32:17  INFO logger - Shutting down driver
+28 Jul 2022 16:32:17  INFO logger - Appium server stopped
+28 Jul 2022 16:32:17  INFO logger - Appium server stopped successfully
+28 Jul 2022 16:32:25  INFO logger - Appium started on http://0.0.0.0:2595/wd/hub
+28 Jul 2022 16:32:25  INFO logger - Appium server started successfully
+28 Jul 2022 16:32:26  INFO logger - --------------------------------------
+28 Jul 2022 16:32:36  INFO logger - Android driver created
+28 Jul 2022 16:32:39  INFO logger - Shutting down driver
+28 Jul 2022 16:32:39  INFO logger - Appium server stopped
+28 Jul 2022 16:32:39  INFO logger - Appium server stopped successfully
+28 Jul 2022 16:34:21  INFO logger - Appium started on http://0.0.0.0:12497/wd/hub
+28 Jul 2022 16:34:21  INFO logger - Appium server started successfully
+28 Jul 2022 16:34:21  INFO logger - --------------------------------------
+28 Jul 2022 16:34:32  INFO logger - Android driver created
+28 Jul 2022 16:39:29  INFO logger - Shutting down driver
+28 Jul 2022 16:39:29  INFO logger - Appium server stopped
+28 Jul 2022 16:39:29  INFO logger - Appium server stopped successfully
+28 Jul 2022 16:46:52  INFO logger - Appium started on http://0.0.0.0:39782/wd/hub
+28 Jul 2022 16:46:52  INFO logger - Appium server started successfully
+28 Jul 2022 16:46:52  INFO logger - --------------------------------------
+28 Jul 2022 16:47:03  INFO logger - Android driver created
+28 Jul 2022 16:49:24  INFO logger - Shutting down driver
+28 Jul 2022 16:49:25  INFO logger - Appium server stopped
+28 Jul 2022 16:49:25  INFO logger - Appium server stopped successfully
+28 Jul 2022 16:51:01  INFO logger - Appium started on http://0.0.0.0:31502/wd/hub
+28 Jul 2022 16:51:01  INFO logger - Appium server started successfully
+28 Jul 2022 16:51:01  INFO logger - --------------------------------------
+28 Jul 2022 16:51:11  INFO logger - Android driver created
+28 Jul 2022 16:56:32  INFO logger - Shutting down driver
+28 Jul 2022 16:56:32  INFO logger - Appium server stopped
+28 Jul 2022 16:56:32  INFO logger - Appium server stopped successfully
+28 Jul 2022 17:06:12  INFO logger - Appium started on http://0.0.0.0:10177/wd/hub
+28 Jul 2022 17:06:12  INFO logger - Appium server started successfully
+28 Jul 2022 17:06:12  INFO logger - --------------------------------------
+28 Jul 2022 17:06:23  INFO logger - Android driver created
+28 Jul 2022 17:11:54  INFO logger - Shutting down driver
+28 Jul 2022 17:11:55  INFO logger - Appium server stopped
+28 Jul 2022 17:11:55  INFO logger - Appium server stopped successfully
+28 Jul 2022 17:14:48  INFO logger - Appium started on http://0.0.0.0:10181/wd/hub
+28 Jul 2022 17:14:48  INFO logger - Appium server started successfully
+28 Jul 2022 17:14:48  INFO logger - --------------------------------------
+28 Jul 2022 17:14:59  INFO logger - Android driver created
+28 Jul 2022 17:15:55  INFO logger - Shutting down driver
+28 Jul 2022 17:15:56  INFO logger - Appium server stopped
+28 Jul 2022 17:15:56  INFO logger - Appium server stopped successfully
+28 Jul 2022 17:16:03  INFO logger - Appium started on http://0.0.0.0:10958/wd/hub
+28 Jul 2022 17:16:03  INFO logger - Appium server started successfully
+28 Jul 2022 17:16:03  INFO logger - --------------------------------------
+28 Jul 2022 17:16:14  INFO logger - Android driver created
+28 Jul 2022 17:16:18  INFO logger - Shutting down driver
+28 Jul 2022 17:16:18  INFO logger - Appium server stopped
+28 Jul 2022 17:16:18  INFO logger - Appium server stopped successfully
+28 Jul 2022 17:16:33  INFO logger - Appium started on http://0.0.0.0:20538/wd/hub
+28 Jul 2022 17:16:33  INFO logger - Appium server started successfully
+28 Jul 2022 17:16:33  INFO logger - --------------------------------------
+28 Jul 2022 17:16:44  INFO logger - Android driver created
+28 Jul 2022 17:17:41  INFO logger - Shutting down driver
+28 Jul 2022 17:17:42  INFO logger - Appium server stopped
+28 Jul 2022 17:17:42  INFO logger - Appium server stopped successfully
+28 Jul 2022 17:18:05  INFO logger - Appium started on http://0.0.0.0:39470/wd/hub
+28 Jul 2022 17:18:05  INFO logger - Appium server started successfully
+28 Jul 2022 17:18:05  INFO logger - Appium server stopped
+28 Jul 2022 17:18:05  INFO logger - Appium server stopped successfully
+28 Jul 2022 17:18:25  INFO logger - Appium started on http://0.0.0.0:33174/wd/hub
+28 Jul 2022 17:18:25  INFO logger - Appium server started successfully
+28 Jul 2022 17:18:25  INFO logger - --------------------------------------
+28 Jul 2022 17:18:35  INFO logger - Android driver created
+28 Jul 2022 17:23:33  INFO logger - Shutting down driver
+28 Jul 2022 17:23:34  INFO logger - Appium server stopped
+28 Jul 2022 17:23:34  INFO logger - Appium server stopped successfully
+28 Jul 2022 17:29:32  INFO logger - Appium started on http://0.0.0.0:35668/wd/hub
+28 Jul 2022 17:29:32  INFO logger - Appium server started successfully
+28 Jul 2022 17:29:32  INFO logger - --------------------------------------
+28 Jul 2022 17:29:43  INFO logger - Android driver created
+28 Jul 2022 17:29:46  INFO logger - Shutting down driver
+28 Jul 2022 17:29:46  INFO logger - Appium server stopped
+28 Jul 2022 17:29:46  INFO logger - Appium server stopped successfully
+28 Jul 2022 17:30:00  INFO logger - Appium started on http://0.0.0.0:26961/wd/hub
+28 Jul 2022 17:30:00  INFO logger - Appium server started successfully
+28 Jul 2022 17:30:00  INFO logger - --------------------------------------
+28 Jul 2022 17:30:11  INFO logger - Android driver created
+28 Jul 2022 17:30:14  INFO logger - Shutting down driver
+28 Jul 2022 17:30:14  INFO logger - Appium server stopped
+28 Jul 2022 17:30:14  INFO logger - Appium server stopped successfully
+28 Jul 2022 17:30:21  INFO logger - Appium started on http://0.0.0.0:31697/wd/hub
+28 Jul 2022 17:30:21  INFO logger - Appium server started successfully
+28 Jul 2022 17:30:21  INFO logger - --------------------------------------
+28 Jul 2022 17:30:33  INFO logger - Android driver created
+28 Jul 2022 17:31:49  INFO logger - Shutting down driver
+28 Jul 2022 17:31:50  INFO logger - Appium server stopped
+28 Jul 2022 17:31:50  INFO logger - Appium server stopped successfully
+28 Jul 2022 17:33:09  INFO logger - Appium started on http://0.0.0.0:9444/wd/hub
+28 Jul 2022 17:33:09  INFO logger - Appium server started successfully
+28 Jul 2022 17:33:09  INFO logger - --------------------------------------
+28 Jul 2022 17:33:22  INFO logger - Android driver created
+28 Jul 2022 17:48:44  INFO logger - Shutting down driver
+28 Jul 2022 17:48:45  INFO logger - Appium server stopped
+28 Jul 2022 17:48:45  INFO logger - Appium server stopped successfully
+28 Jul 2022 18:02:32  INFO logger - Appium started on http://0.0.0.0:43711/wd/hub
+28 Jul 2022 18:02:32  INFO logger - Appium server started successfully
+28 Jul 2022 18:02:32  INFO logger - --------------------------------------
+28 Jul 2022 18:02:41  INFO logger - Android driver created
+28 Jul 2022 18:03:16  INFO logger - Shutting down driver
+28 Jul 2022 18:03:17  INFO logger - Appium server stopped
+28 Jul 2022 18:03:17  INFO logger - Appium server stopped successfully
+28 Jul 2022 18:03:21  INFO logger - Appium started on http://0.0.0.0:26431/wd/hub
+28 Jul 2022 18:03:21  INFO logger - Appium server started successfully
+28 Jul 2022 18:03:21  INFO logger - --------------------------------------
+28 Jul 2022 18:03:30  INFO logger - Android driver created
+28 Jul 2022 18:04:01  INFO logger - Shutting down driver
+28 Jul 2022 18:04:02  INFO logger - Appium server stopped
+28 Jul 2022 18:04:02  INFO logger - Appium server stopped successfully
+28 Jul 2022 18:04:35  INFO logger - Appium started on http://0.0.0.0:18951/wd/hub
+28 Jul 2022 18:04:35  INFO logger - Appium server started successfully
+28 Jul 2022 18:04:35  INFO logger - --------------------------------------
+28 Jul 2022 18:04:44  INFO logger - Android driver created
+28 Jul 2022 18:05:00  INFO logger - Appium started on http://0.0.0.0:19518/wd/hub
+28 Jul 2022 18:05:00  INFO logger - Appium server started successfully
+28 Jul 2022 18:05:00  INFO logger - --------------------------------------
+28 Jul 2022 18:05:06  INFO logger - Shutting down driver
+28 Jul 2022 18:05:06  INFO logger - Appium server stopped
+28 Jul 2022 18:05:06  INFO logger - Appium server stopped successfully
+28 Jul 2022 18:05:11  INFO logger - Android driver created
+28 Jul 2022 18:12:32  INFO logger - Shutting down driver
+28 Jul 2022 18:12:33  INFO logger - Appium server stopped
+28 Jul 2022 18:12:33  INFO logger - Appium server stopped successfully
+28 Jul 2022 18:17:04  INFO logger - Appium started on http://0.0.0.0:40316/wd/hub
+28 Jul 2022 18:17:04  INFO logger - Appium server started successfully
+28 Jul 2022 18:17:04  INFO logger - --------------------------------------
+28 Jul 2022 18:17:14  INFO logger - Android driver created
+28 Jul 2022 18:17:16  INFO logger - Shutting down driver
+28 Jul 2022 18:17:17  INFO logger - Appium server stopped
+28 Jul 2022 18:17:17  INFO logger - Appium server stopped successfully
+28 Jul 2022 18:17:25  INFO logger - Appium started on http://0.0.0.0:44667/wd/hub
+28 Jul 2022 18:17:25  INFO logger - Appium server started successfully
+28 Jul 2022 18:17:25  INFO logger - --------------------------------------
+28 Jul 2022 18:17:34  INFO logger - Android driver created
+28 Jul 2022 18:17:37  INFO logger - Shutting down driver
+28 Jul 2022 18:17:38  INFO logger - Appium server stopped
+28 Jul 2022 18:17:38  INFO logger - Appium server stopped successfully
+28 Jul 2022 18:20:06  INFO logger - Appium started on http://0.0.0.0:28407/wd/hub
+28 Jul 2022 18:20:06  INFO logger - Appium server started successfully
+28 Jul 2022 18:20:06  INFO logger - --------------------------------------
+28 Jul 2022 18:20:16  INFO logger - Android driver created
+28 Jul 2022 18:39:08  INFO logger - Shutting down driver
+28 Jul 2022 18:39:08  INFO logger - Appium server stopped
+28 Jul 2022 18:39:08  INFO logger - Appium server stopped successfully
+28 Jul 2022 18:40:00  INFO logger - Appium started on http://0.0.0.0:2106/wd/hub
+28 Jul 2022 18:40:00  INFO logger - Appium server started successfully
+28 Jul 2022 18:40:00  INFO logger - --------------------------------------
+28 Jul 2022 18:40:11  INFO logger - Android driver created
+28 Jul 2022 18:40:42  INFO logger - Appium started on http://0.0.0.0:39565/wd/hub
+28 Jul 2022 18:40:42  INFO logger - Appium server started successfully
+28 Jul 2022 18:40:42  INFO logger - --------------------------------------
+28 Jul 2022 18:40:45  INFO logger - Shutting down driver
+28 Jul 2022 18:40:46  INFO logger - Appium server stopped
+28 Jul 2022 18:40:46  INFO logger - Appium server stopped successfully
+28 Jul 2022 18:40:53  INFO logger - Android driver created
+28 Jul 2022 18:45:16  INFO logger - Shutting down driver
+28 Jul 2022 18:45:17  INFO logger - Appium server stopped
+28 Jul 2022 18:45:17  INFO logger - Appium server stopped successfully
+28 Jul 2022 18:57:11  INFO logger - Appium started on http://0.0.0.0:17662/wd/hub
+28 Jul 2022 18:57:11  INFO logger - Appium server started successfully
+28 Jul 2022 18:57:11  INFO logger - --------------------------------------
+28 Jul 2022 18:57:22  INFO logger - Android driver created
+28 Jul 2022 18:57:24  INFO logger - Shutting down driver
+28 Jul 2022 18:57:25  INFO logger - Appium server stopped
+28 Jul 2022 18:57:25  INFO logger - Appium server stopped successfully
+28 Jul 2022 18:57:31  INFO logger - Appium started on http://0.0.0.0:40720/wd/hub
+28 Jul 2022 18:57:31  INFO logger - Appium server started successfully
+28 Jul 2022 18:57:31  INFO logger - --------------------------------------
+28 Jul 2022 18:57:41  INFO logger - Android driver created
+28 Jul 2022 19:02:43  INFO logger - Shutting down driver
+28 Jul 2022 19:02:43  INFO logger - Appium server stopped
+28 Jul 2022 19:02:43  INFO logger - Appium server stopped successfully
+29 Jul 2022 10:48:26  INFO logger - Appium started on http://0.0.0.0:48516/wd/hub
+29 Jul 2022 10:48:26  INFO logger - Appium server started successfully
+29 Jul 2022 10:48:26  INFO logger - --------------------------------------
+29 Jul 2022 10:48:38  INFO logger - Android driver created
+29 Jul 2022 10:48:42  INFO logger - Shutting down driver
+29 Jul 2022 10:48:42  INFO logger - Appium server stopped
+29 Jul 2022 10:48:42  INFO logger - Appium server stopped successfully
+29 Jul 2022 10:49:35  INFO logger - Appium started on http://0.0.0.0:5246/wd/hub
+29 Jul 2022 10:49:35  INFO logger - Appium server started successfully
+29 Jul 2022 10:49:35  INFO logger - --------------------------------------
+29 Jul 2022 10:49:48  INFO logger - Android driver created
+29 Jul 2022 10:50:42  INFO logger - Appium started on http://0.0.0.0:23517/wd/hub
+29 Jul 2022 10:50:42  INFO logger - Appium server started successfully
+29 Jul 2022 10:50:43  INFO logger - --------------------------------------
+29 Jul 2022 10:50:49  INFO logger - Shutting down driver
+29 Jul 2022 10:50:50  INFO logger - Appium server stopped
+29 Jul 2022 10:50:50  INFO logger - Appium server stopped successfully
+29 Jul 2022 10:50:54  INFO logger - Android driver created
+29 Jul 2022 10:59:20  INFO logger - Shutting down driver
+29 Jul 2022 10:59:21  INFO logger - Appium server stopped
+29 Jul 2022 10:59:21  INFO logger - Appium server stopped successfully
+29 Jul 2022 11:24:16  INFO logger - Appium started on http://0.0.0.0:21701/wd/hub
+29 Jul 2022 11:24:16  INFO logger - Appium server started successfully
+29 Jul 2022 11:24:16  INFO logger - --------------------------------------
+29 Jul 2022 11:24:28  INFO logger - Android driver created
+29 Jul 2022 11:25:19  INFO logger - Shutting down driver
+29 Jul 2022 11:25:20  INFO logger - Appium server stopped
+29 Jul 2022 11:25:20  INFO logger - Appium server stopped successfully
+29 Jul 2022 11:25:29  INFO logger - Appium started on http://0.0.0.0:41648/wd/hub
+29 Jul 2022 11:25:29  INFO logger - Appium server started successfully
+29 Jul 2022 11:25:29  INFO logger - --------------------------------------
+29 Jul 2022 11:25:40  INFO logger - Android driver created
+29 Jul 2022 11:25:44  INFO logger - Shutting down driver
+29 Jul 2022 11:25:44  INFO logger - Appium server stopped
+29 Jul 2022 11:25:44  INFO logger - Appium server stopped successfully
+29 Jul 2022 11:25:54  INFO logger - Appium started on http://0.0.0.0:20630/wd/hub
+29 Jul 2022 11:25:54  INFO logger - Appium server started successfully
+29 Jul 2022 11:25:54  INFO logger - --------------------------------------
+29 Jul 2022 11:26:05  INFO logger - Android driver created
+29 Jul 2022 11:26:08  INFO logger - Shutting down driver
+29 Jul 2022 11:26:09  INFO logger - Appium server stopped
+29 Jul 2022 11:26:09  INFO logger - Appium server stopped successfully
+29 Jul 2022 11:26:22  INFO logger - Appium started on http://0.0.0.0:34662/wd/hub
+29 Jul 2022 11:26:22  INFO logger - Appium server started successfully
+29 Jul 2022 11:26:22  INFO logger - --------------------------------------
+29 Jul 2022 11:26:33  INFO logger - Android driver created
+29 Jul 2022 11:26:41  INFO logger - Shutting down driver
+29 Jul 2022 11:26:41  INFO logger - Appium server stopped
+29 Jul 2022 11:26:41  INFO logger - Appium server stopped successfully
+29 Jul 2022 11:28:01  INFO logger - Appium started on http://0.0.0.0:28553/wd/hub
+29 Jul 2022 11:28:01  INFO logger - Appium server started successfully
+29 Jul 2022 11:28:01  INFO logger - --------------------------------------
+29 Jul 2022 11:28:14  INFO logger - Android driver created
+29 Jul 2022 11:28:38  INFO logger - Shutting down driver
+29 Jul 2022 11:28:39  INFO logger - Appium server stopped
+29 Jul 2022 11:28:39  INFO logger - Appium server stopped successfully
+29 Jul 2022 11:28:40  INFO logger - Appium started on http://0.0.0.0:9063/wd/hub
+29 Jul 2022 11:28:40  INFO logger - Appium server started successfully
+29 Jul 2022 11:28:40  INFO logger - --------------------------------------
+29 Jul 2022 11:28:51  INFO logger - Android driver created
+29 Jul 2022 11:31:32  INFO logger - Shutting down driver
+29 Jul 2022 11:31:33  INFO logger - Appium server stopped
+29 Jul 2022 11:31:33  INFO logger - Appium server stopped successfully
+29 Jul 2022 11:33:37  INFO logger - Appium started on http://0.0.0.0:27973/wd/hub
+29 Jul 2022 11:33:37  INFO logger - Appium server started successfully
+29 Jul 2022 11:33:37  INFO logger - --------------------------------------
+29 Jul 2022 11:33:48  INFO logger - Android driver created
+29 Jul 2022 11:33:50  INFO logger - Shutting down driver
+29 Jul 2022 11:33:51  INFO logger - Appium server stopped
+29 Jul 2022 11:33:51  INFO logger - Appium server stopped successfully
+29 Jul 2022 11:34:29  INFO logger - Appium started on http://0.0.0.0:44919/wd/hub
+29 Jul 2022 11:34:29  INFO logger - Appium server started successfully
+29 Jul 2022 11:34:29  INFO logger - --------------------------------------
+29 Jul 2022 11:34:40  INFO logger - Android driver created
+29 Jul 2022 11:34:59  INFO logger - Shutting down driver
+29 Jul 2022 11:35:00  INFO logger - Appium server stopped
+29 Jul 2022 11:35:00  INFO logger - Appium server stopped successfully
+29 Jul 2022 11:35:33  INFO logger - Appium started on http://0.0.0.0:6666/wd/hub
+29 Jul 2022 11:35:33  INFO logger - Appium server started successfully
+29 Jul 2022 11:35:33  INFO logger - --------------------------------------
+29 Jul 2022 11:35:44  INFO logger - Android driver created
+29 Jul 2022 11:43:37  INFO logger - Shutting down driver
+29 Jul 2022 11:43:38  INFO logger - Appium server stopped
+29 Jul 2022 11:43:38  INFO logger - Appium server stopped successfully
+29 Jul 2022 11:46:56  INFO logger - Appium started on http://0.0.0.0:13680/wd/hub
+29 Jul 2022 11:46:56  INFO logger - Appium server started successfully
+29 Jul 2022 11:46:56  INFO logger - --------------------------------------
+29 Jul 2022 11:47:08  INFO logger - Android driver created
+29 Jul 2022 11:47:10  INFO logger - Shutting down driver
+29 Jul 2022 11:47:11  INFO logger - Appium server stopped
+29 Jul 2022 11:47:11  INFO logger - Appium server stopped successfully
+29 Jul 2022 11:48:53  INFO logger - Appium started on http://0.0.0.0:16890/wd/hub
+29 Jul 2022 11:48:53  INFO logger - Appium server started successfully
+29 Jul 2022 11:48:54  INFO logger - --------------------------------------
+29 Jul 2022 11:49:05  INFO logger - Android driver created
+29 Jul 2022 11:54:48  INFO logger - Shutting down driver
+29 Jul 2022 11:54:49  INFO logger - Appium server stopped
+29 Jul 2022 11:54:49  INFO logger - Appium server stopped successfully
+29 Jul 2022 12:01:04  INFO logger - Appium started on http://0.0.0.0:9018/wd/hub
+29 Jul 2022 12:01:04  INFO logger - Appium server started successfully
+29 Jul 2022 12:01:04  INFO logger - --------------------------------------
+29 Jul 2022 12:01:15  INFO logger - Android driver created
+29 Jul 2022 12:01:18  INFO logger - Shutting down driver
+29 Jul 2022 12:01:19  INFO logger - Appium server stopped
+29 Jul 2022 12:01:19  INFO logger - Appium server stopped successfully
+29 Jul 2022 12:01:27  INFO logger - Appium started on http://0.0.0.0:27734/wd/hub
+29 Jul 2022 12:01:27  INFO logger - Appium server started successfully
+29 Jul 2022 12:01:27  INFO logger - --------------------------------------
+29 Jul 2022 12:01:38  INFO logger - Android driver created
+29 Jul 2022 12:07:28  INFO logger - Shutting down driver
+29 Jul 2022 12:07:29  INFO logger - Appium server stopped
+29 Jul 2022 12:07:29  INFO logger - Appium server stopped successfully
+29 Jul 2022 12:08:33  INFO logger - Appium started on http://0.0.0.0:20250/wd/hub
+29 Jul 2022 12:08:33  INFO logger - Appium server started successfully
+29 Jul 2022 12:08:33  INFO logger - --------------------------------------
+29 Jul 2022 12:08:44  INFO logger - Android driver created
+29 Jul 2022 12:09:05  INFO logger - Shutting down driver
+29 Jul 2022 12:09:06  INFO logger - Appium server stopped
+29 Jul 2022 12:09:06  INFO logger - Appium server stopped successfully
+29 Jul 2022 12:11:19  INFO logger - Appium started on http://0.0.0.0:25987/wd/hub
+29 Jul 2022 12:11:19  INFO logger - Appium server started successfully
+29 Jul 2022 12:11:19  INFO logger - --------------------------------------
+29 Jul 2022 12:11:30  INFO logger - Android driver created
+29 Jul 2022 12:11:33  INFO logger - Shutting down driver
+29 Jul 2022 12:11:34  INFO logger - Appium server stopped
+29 Jul 2022 12:11:34  INFO logger - Appium server stopped successfully
+29 Jul 2022 12:11:43  INFO logger - Appium started on http://0.0.0.0:46323/wd/hub
+29 Jul 2022 12:11:43  INFO logger - Appium server started successfully
+29 Jul 2022 12:11:43  INFO logger - --------------------------------------
+29 Jul 2022 12:11:55  INFO logger - Android driver created
+29 Jul 2022 12:12:16  INFO logger - Shutting down driver
+29 Jul 2022 12:12:17  INFO logger - Appium server stopped
+29 Jul 2022 12:12:17  INFO logger - Appium server stopped successfully
+29 Jul 2022 12:18:23  INFO logger - Appium started on http://0.0.0.0:29153/wd/hub
+29 Jul 2022 12:18:23  INFO logger - Appium server started successfully
+29 Jul 2022 12:18:23  INFO logger - --------------------------------------
+29 Jul 2022 12:18:35  INFO logger - Android driver created
+29 Jul 2022 12:18:59  INFO logger - Shutting down driver
+29 Jul 2022 12:19:00  INFO logger - Appium server stopped
+29 Jul 2022 12:19:00  INFO logger - Appium server stopped successfully
+29 Jul 2022 12:22:25  INFO logger - Appium started on http://0.0.0.0:30711/wd/hub
+29 Jul 2022 12:22:25  INFO logger - Appium server started successfully
+29 Jul 2022 12:22:25  INFO logger - --------------------------------------
+29 Jul 2022 12:22:37  INFO logger - Android driver created
+29 Jul 2022 12:23:01  INFO logger - Shutting down driver
+29 Jul 2022 12:23:02  INFO logger - Appium server stopped
+29 Jul 2022 12:23:02  INFO logger - Appium server stopped successfully
+29 Jul 2022 12:26:13  INFO logger - Appium started on http://0.0.0.0:42305/wd/hub
+29 Jul 2022 12:26:13  INFO logger - Appium server started successfully
+29 Jul 2022 12:26:13  INFO logger - Appium server stopped
+29 Jul 2022 12:26:13  INFO logger - Appium server stopped successfully
+29 Jul 2022 12:26:22  INFO logger - Appium started on http://0.0.0.0:42231/wd/hub
+29 Jul 2022 12:26:22  INFO logger - Appium server started successfully
+29 Jul 2022 12:26:22  INFO logger - --------------------------------------
+29 Jul 2022 12:26:33  INFO logger - Android driver created
+29 Jul 2022 12:26:59  INFO logger - Shutting down driver
+29 Jul 2022 12:27:00  INFO logger - Appium server stopped
+29 Jul 2022 12:27:00  INFO logger - Appium server stopped successfully
+29 Jul 2022 15:06:14  INFO logger - Appium started on http://0.0.0.0:10094/wd/hub
+29 Jul 2022 15:06:14  INFO logger - Appium server started successfully
+29 Jul 2022 15:06:14  INFO logger - --------------------------------------
+29 Jul 2022 15:06:25  INFO logger - Android driver created
+29 Jul 2022 15:13:44  INFO logger - Shutting down driver
+29 Jul 2022 15:13:45  INFO logger - Appium server stopped
+29 Jul 2022 15:13:45  INFO logger - Appium server stopped successfully
+29 Jul 2022 15:15:04  INFO logger - Appium started on http://0.0.0.0:18440/wd/hub
+29 Jul 2022 15:15:04  INFO logger - Appium server started successfully
+29 Jul 2022 15:15:04  INFO logger - Appium server stopped
+29 Jul 2022 15:15:04  INFO logger - Appium server stopped successfully
+29 Jul 2022 15:15:18  INFO logger - Appium started on http://0.0.0.0:30251/wd/hub
+29 Jul 2022 15:15:18  INFO logger - Appium server started successfully
+29 Jul 2022 15:15:18  INFO logger - --------------------------------------
+29 Jul 2022 15:15:30  INFO logger - Android driver created
+29 Jul 2022 15:18:15  INFO logger - Shutting down driver
+29 Jul 2022 15:18:16  INFO logger - Appium server stopped
+29 Jul 2022 15:18:16  INFO logger - Appium server stopped successfully
+29 Jul 2022 16:37:39  INFO logger - Appium started on http://0.0.0.0:40018/wd/hub
+29 Jul 2022 16:37:39  INFO logger - Appium server started successfully
+29 Jul 2022 16:37:39  INFO logger - Appium server stopped
+29 Jul 2022 16:37:39  INFO logger - Appium server stopped successfully
+29 Jul 2022 16:38:00  INFO logger - Appium started on http://0.0.0.0:30862/wd/hub
+29 Jul 2022 16:38:00  INFO logger - Appium server started successfully
+29 Jul 2022 16:38:00  INFO logger - Appium server stopped
+29 Jul 2022 16:38:00  INFO logger - Appium server stopped successfully
+29 Jul 2022 16:38:15  INFO logger - Appium started on http://0.0.0.0:15024/wd/hub
+29 Jul 2022 16:38:15  INFO logger - Appium server started successfully
+29 Jul 2022 16:38:15  INFO logger - --------------------------------------
+29 Jul 2022 16:38:25  INFO logger - Android driver created
+29 Jul 2022 16:38:43  INFO logger - Shutting down driver
+29 Jul 2022 16:38:43  INFO logger - Appium server stopped
+29 Jul 2022 16:38:43  INFO logger - Appium server stopped successfully
+29 Jul 2022 16:38:49  INFO logger - Appium started on http://0.0.0.0:38029/wd/hub
+29 Jul 2022 16:38:49  INFO logger - Appium server started successfully
+29 Jul 2022 16:38:49  INFO logger - --------------------------------------
+29 Jul 2022 16:38:59  INFO logger - Android driver created
+29 Jul 2022 16:39:15  INFO logger - Shutting down driver
+29 Jul 2022 16:39:15  INFO logger - Appium server stopped
+29 Jul 2022 16:39:15  INFO logger - Appium server stopped successfully
+29 Jul 2022 16:39:24  INFO logger - Appium started on http://0.0.0.0:32787/wd/hub
+29 Jul 2022 16:39:24  INFO logger - Appium server started successfully
+29 Jul 2022 16:39:24  INFO logger - --------------------------------------
+29 Jul 2022 16:39:35  INFO logger - Android driver created
+29 Jul 2022 16:40:32  INFO logger - Appium started on http://0.0.0.0:13432/wd/hub
+29 Jul 2022 16:40:32  INFO logger - Appium server started successfully
+29 Jul 2022 16:40:32  INFO logger - --------------------------------------
+29 Jul 2022 16:40:35  INFO logger - Shutting down driver
+29 Jul 2022 16:40:36  INFO logger - Appium server stopped
+29 Jul 2022 16:40:36  INFO logger - Appium server stopped successfully
+29 Jul 2022 16:40:43  INFO logger - Android driver created
+29 Jul 2022 16:49:48  INFO logger - Shutting down driver
+29 Jul 2022 16:49:48  INFO logger - Appium server stopped
+29 Jul 2022 16:49:48  INFO logger - Appium server stopped successfully
+29 Jul 2022 16:53:34  INFO logger - Appium started on http://0.0.0.0:23482/wd/hub
+29 Jul 2022 16:53:34  INFO logger - Appium server started successfully
+29 Jul 2022 16:53:34  INFO logger - --------------------------------------
+29 Jul 2022 16:53:43  INFO logger - Android driver created
+29 Jul 2022 16:58:24  INFO logger - Shutting down driver
+29 Jul 2022 16:58:24  INFO logger - Appium server stopped
+29 Jul 2022 16:58:24  INFO logger - Appium server stopped successfully
+29 Jul 2022 17:02:52  INFO logger - Appium started on http://0.0.0.0:43508/wd/hub
+29 Jul 2022 17:02:52  INFO logger - Appium server started successfully
+29 Jul 2022 17:02:52  INFO logger - --------------------------------------
+29 Jul 2022 17:03:02  INFO logger - Android driver created
+29 Jul 2022 17:03:55  INFO logger - Shutting down driver
+29 Jul 2022 17:03:55  INFO logger - Appium server stopped
+29 Jul 2022 17:03:55  INFO logger - Appium server stopped successfully
+29 Jul 2022 17:04:17  INFO logger - Appium started on http://0.0.0.0:44217/wd/hub
+29 Jul 2022 17:04:17  INFO logger - Appium server started successfully
+29 Jul 2022 17:04:18  INFO logger - --------------------------------------
+29 Jul 2022 17:04:27  INFO logger - Android driver created
+29 Jul 2022 17:05:46  INFO logger - Shutting down driver
+29 Jul 2022 17:05:46  INFO logger - Appium server stopped
+29 Jul 2022 17:05:46  INFO logger - Appium server stopped successfully
+29 Jul 2022 17:06:21  INFO logger - Appium started on http://0.0.0.0:41174/wd/hub
+29 Jul 2022 17:06:21  INFO logger - Appium server started successfully
+29 Jul 2022 17:06:21  INFO logger - --------------------------------------
+29 Jul 2022 17:06:32  INFO logger - Android driver created
+29 Jul 2022 17:07:16  INFO logger - Shutting down driver
+29 Jul 2022 17:07:16  INFO logger - Appium server stopped
+29 Jul 2022 17:07:16  INFO logger - Appium server stopped successfully
+29 Jul 2022 17:07:51  INFO logger - Appium started on http://0.0.0.0:3530/wd/hub
+29 Jul 2022 17:07:51  INFO logger - Appium server started successfully
+29 Jul 2022 17:07:51  INFO logger - --------------------------------------
+29 Jul 2022 17:08:00  INFO logger - Android driver created
+29 Jul 2022 17:08:52  INFO logger - Appium started on http://0.0.0.0:28127/wd/hub
+29 Jul 2022 17:08:52  INFO logger - Appium server started successfully
+29 Jul 2022 17:08:52  INFO logger - --------------------------------------
+29 Jul 2022 17:08:58  INFO logger - Shutting down driver
+29 Jul 2022 17:08:59  INFO logger - Appium server stopped
+29 Jul 2022 17:08:59  INFO logger - Appium server stopped successfully
+29 Jul 2022 17:09:05  INFO logger - Android driver created
+29 Jul 2022 17:09:34  INFO logger - Shutting down driver
+29 Jul 2022 17:09:35  INFO logger - Appium server stopped
+29 Jul 2022 17:09:35  INFO logger - Appium server stopped successfully
+29 Jul 2022 17:09:57  INFO logger - Appium started on http://0.0.0.0:8474/wd/hub
+29 Jul 2022 17:09:57  INFO logger - Appium server started successfully
+29 Jul 2022 17:09:57  INFO logger - --------------------------------------
+29 Jul 2022 17:10:07  INFO logger - Android driver created
+29 Jul 2022 17:11:21  INFO logger - Shutting down driver
+29 Jul 2022 17:11:21  INFO logger - Appium server stopped
+29 Jul 2022 17:11:21  INFO logger - Appium server stopped successfully
+29 Jul 2022 18:11:25  INFO logger - Appium started on http://0.0.0.0:19695/wd/hub
+29 Jul 2022 18:11:25  INFO logger - Appium server started successfully
+29 Jul 2022 18:11:25  INFO logger - --------------------------------------
+29 Jul 2022 18:11:26  INFO logger - Appium server stopped
+29 Jul 2022 18:11:26  INFO logger - Appium server stopped successfully
+29 Jul 2022 18:11:58  INFO logger - Appium started on http://0.0.0.0:21307/wd/hub
+29 Jul 2022 18:11:58  INFO logger - Appium server started successfully
+29 Jul 2022 18:11:58  INFO logger - --------------------------------------
+29 Jul 2022 18:11:58  INFO logger - Appium server stopped
+29 Jul 2022 18:11:58  INFO logger - Appium server stopped successfully
+29 Jul 2022 18:13:51  INFO logger - Appium started on http://0.0.0.0:47400/wd/hub
+29 Jul 2022 18:13:51  INFO logger - Appium server started successfully
+29 Jul 2022 18:13:51  INFO logger - --------------------------------------
+29 Jul 2022 18:13:51  INFO logger - Appium server stopped
+29 Jul 2022 18:13:51  INFO logger - Appium server stopped successfully
+29 Jul 2022 18:14:43  INFO logger - Appium started on http://0.0.0.0:36788/wd/hub
+29 Jul 2022 18:14:43  INFO logger - Appium server started successfully
+29 Jul 2022 18:14:43  INFO logger - Appium server stopped
+29 Jul 2022 18:14:43  INFO logger - Appium server stopped successfully
+29 Jul 2022 18:15:26  INFO logger - Appium started on http://0.0.0.0:18431/wd/hub
+29 Jul 2022 18:15:26  INFO logger - Appium server started successfully
+29 Jul 2022 18:15:26  INFO logger - --------------------------------------
+29 Jul 2022 18:15:27  INFO logger - Appium server stopped
+29 Jul 2022 18:15:27  INFO logger - Appium server stopped successfully
+29 Jul 2022 18:16:14  INFO logger - Appium started on http://0.0.0.0:1541/wd/hub
+29 Jul 2022 18:16:14  INFO logger - Appium server started successfully
+29 Jul 2022 18:16:14  INFO logger - --------------------------------------
+29 Jul 2022 18:16:26  INFO logger - Android driver created
+29 Jul 2022 18:16:28  INFO logger - Shutting down driver
+29 Jul 2022 18:16:28  INFO logger - Appium server stopped
+29 Jul 2022 18:16:28  INFO logger - Appium server stopped successfully
+29 Jul 2022 18:16:38  INFO logger - Appium started on http://0.0.0.0:48900/wd/hub
+29 Jul 2022 18:16:38  INFO logger - Appium server started successfully
+29 Jul 2022 18:16:38  INFO logger - --------------------------------------
+29 Jul 2022 18:16:47  INFO logger - Android driver created
+29 Jul 2022 18:16:48  INFO logger - Shutting down driver
+29 Jul 2022 18:16:48  INFO logger - Appium server stopped
+29 Jul 2022 18:16:48  INFO logger - Appium server stopped successfully
+29 Jul 2022 18:17:25  INFO logger - Appium started on http://0.0.0.0:28807/wd/hub
+29 Jul 2022 18:17:25  INFO logger - Appium server started successfully
+29 Jul 2022 18:17:25  INFO logger - --------------------------------------
+29 Jul 2022 18:17:34  INFO logger - Android driver created
+29 Jul 2022 18:17:40  INFO logger - Shutting down driver
+29 Jul 2022 18:17:40  INFO logger - Appium server stopped
+29 Jul 2022 18:17:40  INFO logger - Appium server stopped successfully
+29 Jul 2022 18:20:15  INFO logger - Appium started on http://0.0.0.0:4444/wd/hub
+29 Jul 2022 18:20:15  INFO logger - Appium server started successfully
+29 Jul 2022 18:20:15  INFO logger - --------------------------------------
+29 Jul 2022 18:20:24  INFO logger - Android driver created
+29 Jul 2022 18:20:42  INFO logger - Shutting down driver
+29 Jul 2022 18:20:42  INFO logger - Appium server stopped
+29 Jul 2022 18:20:42  INFO logger - Appium server stopped successfully
+29 Jul 2022 18:21:43  INFO logger - Appium started on http://0.0.0.0:32659/wd/hub
+29 Jul 2022 18:21:43  INFO logger - Appium server started successfully
+29 Jul 2022 18:21:43  INFO logger - --------------------------------------
+29 Jul 2022 18:21:53  INFO logger - Android driver created
+29 Jul 2022 18:22:20  INFO logger - Shutting down driver
+29 Jul 2022 18:22:21  INFO logger - Appium server stopped
+29 Jul 2022 18:22:21  INFO logger - Appium server stopped successfully
+29 Jul 2022 18:23:23  INFO logger - Appium started on http://0.0.0.0:23896/wd/hub
+29 Jul 2022 18:23:23  INFO logger - Appium server started successfully
+29 Jul 2022 18:23:24  INFO logger - --------------------------------------
+29 Jul 2022 18:23:33  INFO logger - Android driver created
+29 Jul 2022 18:23:49  INFO logger - Shutting down driver
+29 Jul 2022 18:23:49  INFO logger - Appium server stopped
+29 Jul 2022 18:23:49  INFO logger - Appium server stopped successfully
+29 Jul 2022 18:54:49  INFO logger - Appium started on http://0.0.0.0:19170/wd/hub
+29 Jul 2022 18:54:49  INFO logger - Appium server started successfully
+29 Jul 2022 18:54:49  INFO logger - --------------------------------------
+29 Jul 2022 18:55:01  INFO logger - Android driver created
+29 Jul 2022 18:55:18  INFO logger - Shutting down driver
+29 Jul 2022 18:55:18  INFO logger - Appium server stopped
+29 Jul 2022 18:55:18  INFO logger - Appium server stopped successfully
+29 Jul 2022 18:58:38  INFO logger - Appium started on http://0.0.0.0:30418/wd/hub
+29 Jul 2022 18:58:38  INFO logger - Appium server started successfully
+29 Jul 2022 18:58:38  INFO logger - --------------------------------------
+29 Jul 2022 18:58:49  INFO logger - Android driver created
+29 Jul 2022 18:59:10  INFO logger - Shutting down driver
+29 Jul 2022 18:59:11  INFO logger - Appium server stopped
+29 Jul 2022 18:59:11  INFO logger - Appium server stopped successfully
+31 Jul 2022 11:55:24  INFO logger - Appium started on http://0.0.0.0:36221/wd/hub
+31 Jul 2022 11:55:24  INFO logger - Appium server started successfully
+31 Jul 2022 11:55:24  INFO logger - --------------------------------------
+31 Jul 2022 11:55:25  INFO logger - Appium server stopped
+31 Jul 2022 11:55:25  INFO logger - Appium server stopped successfully
+31 Jul 2022 11:57:12  INFO logger - Appium started on http://0.0.0.0:16170/wd/hub
+31 Jul 2022 11:57:12  INFO logger - Appium server started successfully
+31 Jul 2022 11:57:12  INFO logger - --------------------------------------
+31 Jul 2022 11:57:13  INFO logger - Appium server stopped
+31 Jul 2022 11:57:13  INFO logger - Appium server stopped successfully
+31 Jul 2022 11:57:54  INFO logger - Appium started on http://0.0.0.0:13642/wd/hub
+31 Jul 2022 11:57:54  INFO logger - Appium server started successfully
+31 Jul 2022 11:57:54  INFO logger - Appium server stopped
+31 Jul 2022 11:57:54  INFO logger - Appium server stopped successfully
+31 Jul 2022 11:58:36  INFO logger - Appium started on http://0.0.0.0:22856/wd/hub
+31 Jul 2022 11:58:36  INFO logger - Appium server started successfully
+31 Jul 2022 11:58:36  INFO logger - --------------------------------------
+31 Jul 2022 11:58:37  INFO logger - Appium server stopped
+31 Jul 2022 11:58:37  INFO logger - Appium server stopped successfully
+31 Jul 2022 11:59:25  INFO logger - Appium started on http://0.0.0.0:38720/wd/hub
+31 Jul 2022 11:59:25  INFO logger - Appium server started successfully
+31 Jul 2022 11:59:25  INFO logger - --------------------------------------
+31 Jul 2022 11:59:26  INFO logger - Appium server stopped
+31 Jul 2022 11:59:26  INFO logger - Appium server stopped successfully
+31 Jul 2022 12:01:02  INFO logger - Appium started on http://0.0.0.0:28061/wd/hub
+31 Jul 2022 12:01:02  INFO logger - Appium server started successfully
+31 Jul 2022 12:01:02  INFO logger - Appium server stopped
+31 Jul 2022 12:01:02  INFO logger - Appium server stopped successfully
+31 Jul 2022 12:01:23  INFO logger - Appium started on http://0.0.0.0:13127/wd/hub
+31 Jul 2022 12:01:23  INFO logger - Appium server started successfully
+31 Jul 2022 12:01:23  INFO logger - --------------------------------------
+31 Jul 2022 12:01:24  INFO logger - Appium server stopped
+31 Jul 2022 12:01:24  INFO logger - Appium server stopped successfully
+31 Jul 2022 12:02:51  INFO logger - Appium started on http://0.0.0.0:29548/wd/hub
+31 Jul 2022 12:02:51  INFO logger - Appium server started successfully
+31 Jul 2022 12:02:51  INFO logger - --------------------------------------
+31 Jul 2022 12:03:05  INFO logger - Android driver created
+31 Jul 2022 12:05:01  INFO logger - Appium started on http://0.0.0.0:37525/wd/hub
+31 Jul 2022 12:05:01  INFO logger - Appium server started successfully
+31 Jul 2022 12:05:02  INFO logger - --------------------------------------
+31 Jul 2022 12:05:07  INFO logger - Shutting down driver
+31 Jul 2022 12:05:08  INFO logger - Appium server stopped
+31 Jul 2022 12:05:08  INFO logger - Appium server stopped successfully
+31 Jul 2022 12:05:15  INFO logger - Android driver created
+31 Jul 2022 12:11:45  INFO logger - Shutting down driver
+31 Jul 2022 12:11:46  INFO logger - Appium server stopped
+31 Jul 2022 12:11:46  INFO logger - Appium server stopped successfully
+31 Jul 2022 12:19:12  INFO logger - Appium started on http://0.0.0.0:29910/wd/hub
+31 Jul 2022 12:19:12  INFO logger - Appium server started successfully
+31 Jul 2022 12:19:12  INFO logger - --------------------------------------
+31 Jul 2022 12:19:24  INFO logger - Android driver created
+31 Jul 2022 12:25:55  INFO logger - Shutting down driver
+31 Jul 2022 12:25:56  INFO logger - Appium server stopped
+31 Jul 2022 12:25:56  INFO logger - Appium server stopped successfully
+31 Jul 2022 12:27:01  INFO logger - Appium started on http://0.0.0.0:22826/wd/hub
+31 Jul 2022 12:27:01  INFO logger - Appium server started successfully
+31 Jul 2022 12:27:01  INFO logger - --------------------------------------
+31 Jul 2022 12:27:11  INFO logger - Android driver created
+31 Jul 2022 12:40:15  INFO logger - Shutting down driver
+31 Jul 2022 12:40:15  INFO logger - Appium server stopped
+31 Jul 2022 12:40:15  INFO logger - Appium server stopped successfully
+31 Jul 2022 12:49:54  INFO logger - Appium started on http://0.0.0.0:17956/wd/hub
+31 Jul 2022 12:49:54  INFO logger - Appium server started successfully
+31 Jul 2022 12:49:54  INFO logger - --------------------------------------
+31 Jul 2022 12:50:04  INFO logger - Android driver created
+31 Jul 2022 12:50:18  INFO logger - Shutting down driver
+31 Jul 2022 12:50:18  INFO logger - Appium server stopped
+31 Jul 2022 12:50:18  INFO logger - Appium server stopped successfully
+31 Jul 2022 13:00:26  INFO logger - Appium started on http://0.0.0.0:42397/wd/hub
+31 Jul 2022 13:00:26  INFO logger - Appium server started successfully
+31 Jul 2022 13:00:26  INFO logger - --------------------------------------
+31 Jul 2022 13:00:38  INFO logger - Android driver created
+31 Jul 2022 13:02:36  INFO logger - Appium started on http://0.0.0.0:8676/wd/hub
+31 Jul 2022 13:02:36  INFO logger - Appium server started successfully
+31 Jul 2022 13:02:36  INFO logger - --------------------------------------
+31 Jul 2022 13:02:41  INFO logger - Shutting down driver
+31 Jul 2022 13:02:41  INFO logger - Appium server stopped
+31 Jul 2022 13:02:41  INFO logger - Appium server stopped successfully
+31 Jul 2022 13:02:47  INFO logger - Android driver created
+31 Jul 2022 13:03:59  INFO logger - Appium started on http://0.0.0.0:39216/wd/hub
+31 Jul 2022 13:03:59  INFO logger - Appium server started successfully
+31 Jul 2022 13:03:59  INFO logger - --------------------------------------
+31 Jul 2022 13:04:04  INFO logger - Shutting down driver
+31 Jul 2022 13:04:04  INFO logger - Appium server stopped
+31 Jul 2022 13:04:04  INFO logger - Appium server stopped successfully
+31 Jul 2022 13:04:10  INFO logger - Android driver created
+31 Jul 2022 13:17:12  INFO logger - Shutting down driver
+31 Jul 2022 13:17:13  INFO logger - Appium server stopped
+31 Jul 2022 13:17:13  INFO logger - Appium server stopped successfully
+31 Jul 2022 13:19:15  INFO logger - Appium started on http://0.0.0.0:46754/wd/hub
+31 Jul 2022 13:19:15  INFO logger - Appium server started successfully
+31 Jul 2022 13:19:15  INFO logger - --------------------------------------
+31 Jul 2022 13:19:26  INFO logger - Android driver created
+31 Jul 2022 13:19:39  INFO logger - Shutting down driver
+31 Jul 2022 13:19:39  INFO logger - Appium server stopped
+31 Jul 2022 13:19:39  INFO logger - Appium server stopped successfully
+31 Jul 2022 13:31:47  INFO logger - Appium started on http://0.0.0.0:45506/wd/hub
+31 Jul 2022 13:31:47  INFO logger - Appium server started successfully
+31 Jul 2022 13:31:47  INFO logger - --------------------------------------
+31 Jul 2022 13:31:59  INFO logger - Android driver created
+31 Jul 2022 13:41:19  INFO logger - Shutting down driver
+31 Jul 2022 13:41:20  INFO logger - Appium server stopped
+31 Jul 2022 13:41:20  INFO logger - Appium server stopped successfully
+31 Jul 2022 13:46:05  INFO logger - Appium started on http://0.0.0.0:12966/wd/hub
+31 Jul 2022 13:46:05  INFO logger - Appium server started successfully
+31 Jul 2022 13:46:05  INFO logger - --------------------------------------
+31 Jul 2022 13:46:16  INFO logger - Android driver created
+31 Jul 2022 13:46:30  INFO logger - Shutting down driver
+31 Jul 2022 13:46:30  INFO logger - Appium server stopped
+31 Jul 2022 13:46:30  INFO logger - Appium server stopped successfully
+31 Jul 2022 13:47:14  INFO logger - Appium started on http://0.0.0.0:32835/wd/hub
+31 Jul 2022 13:47:14  INFO logger - Appium server started successfully
+31 Jul 2022 13:47:14  INFO logger - --------------------------------------
+31 Jul 2022 13:47:25  INFO logger - Android driver created
+31 Jul 2022 14:17:14  INFO logger - Shutting down driver
+31 Jul 2022 18:49:29  INFO logger - Appium server stopped
+31 Jul 2022 18:49:29  INFO logger - Appium server stopped successfully
+31 Jul 2022 19:58:46  INFO logger - Appium started on http://0.0.0.0:46663/wd/hub
+31 Jul 2022 19:58:46  INFO logger - Appium server started successfully
+31 Jul 2022 19:58:46  INFO logger - --------------------------------------
+31 Jul 2022 19:58:58  INFO logger - Android driver created
+31 Jul 2022 20:11:59  INFO logger - Shutting down driver
+31 Jul 2022 20:12:00  INFO logger - Appium server stopped
+31 Jul 2022 20:12:00  INFO logger - Appium server stopped successfully
+31 Jul 2022 20:29:37  INFO logger - Appium started on http://0.0.0.0:2352/wd/hub
+31 Jul 2022 20:29:37  INFO logger - Appium server started successfully
+31 Jul 2022 20:29:37  INFO logger - --------------------------------------
+31 Jul 2022 20:29:50  INFO logger - Android driver created
+31 Jul 2022 20:31:14  INFO logger - Shutting down driver
+31 Jul 2022 20:31:15  INFO logger - Appium server stopped
+31 Jul 2022 20:31:15  INFO logger - Appium server stopped successfully
+31 Jul 2022 20:31:33  INFO logger - Appium started on http://0.0.0.0:2737/wd/hub
+31 Jul 2022 20:31:33  INFO logger - Appium server started successfully
+31 Jul 2022 20:31:33  INFO logger - --------------------------------------
+31 Jul 2022 20:31:44  INFO logger - Android driver created
+31 Jul 2022 20:40:45  INFO logger - Shutting down driver
+31 Jul 2022 20:40:46  INFO logger - Appium server stopped
+31 Jul 2022 20:40:46  INFO logger - Appium server stopped successfully
+31 Jul 2022 20:43:12  INFO logger - Appium started on http://0.0.0.0:36984/wd/hub
+31 Jul 2022 20:43:12  INFO logger - Appium server started successfully
+31 Jul 2022 20:43:12  INFO logger - --------------------------------------
+31 Jul 2022 20:43:23  INFO logger - Android driver created
+31 Jul 2022 21:01:26  INFO logger - Shutting down driver
+31 Jul 2022 21:01:52  INFO logger - Appium server stopped
+31 Jul 2022 21:01:52  INFO logger - Appium server stopped successfully
+31 Jul 2022 21:16:59  INFO logger - Appium started on http://0.0.0.0:35926/wd/hub
+31 Jul 2022 21:16:59  INFO logger - Appium server started successfully
+31 Jul 2022 21:16:59  INFO logger - --------------------------------------
+31 Jul 2022 21:17:20  INFO logger - Appium server stopped
+31 Jul 2022 21:17:20  INFO logger - Appium server stopped successfully
+01 Aug 2022 11:03:05  INFO logger - Appium started on http://0.0.0.0:29340/wd/hub
+01 Aug 2022 11:03:05  INFO logger - Appium server started successfully
+01 Aug 2022 11:03:05  INFO logger - --------------------------------------
+01 Aug 2022 11:03:06  INFO logger - Appium server stopped
+01 Aug 2022 11:03:06  INFO logger - Appium server stopped successfully
+01 Aug 2022 11:04:12  INFO logger - Appium started on http://0.0.0.0:31664/wd/hub
+01 Aug 2022 11:04:12  INFO logger - Appium server started successfully
+01 Aug 2022 11:04:12  INFO logger - --------------------------------------
+01 Aug 2022 11:04:13  INFO logger - Appium server stopped
+01 Aug 2022 11:04:13  INFO logger - Appium server stopped successfully
+01 Aug 2022 11:04:38  INFO logger - Appium started on http://0.0.0.0:29381/wd/hub
+01 Aug 2022 11:04:38  INFO logger - Appium server started successfully
+01 Aug 2022 11:04:38  INFO logger - --------------------------------------
+01 Aug 2022 11:04:51  INFO logger - Android driver created
+01 Aug 2022 11:05:09  INFO logger - Shutting down driver
+01 Aug 2022 11:05:10  INFO logger - Appium server stopped
+01 Aug 2022 11:05:10  INFO logger - Appium server stopped successfully
+01 Aug 2022 11:05:23  INFO logger - Appium started on http://0.0.0.0:16144/wd/hub
+01 Aug 2022 11:05:23  INFO logger - Appium server started successfully
+01 Aug 2022 11:05:23  INFO logger - --------------------------------------
+01 Aug 2022 11:05:33  INFO logger - Android driver created
+01 Aug 2022 11:05:53  INFO logger - Shutting down driver
+01 Aug 2022 11:05:53  INFO logger - Appium server stopped
+01 Aug 2022 11:05:53  INFO logger - Appium server stopped successfully
+01 Aug 2022 11:06:28  INFO logger - Appium started on http://0.0.0.0:43827/wd/hub
+01 Aug 2022 11:06:28  INFO logger - Appium server started successfully
+01 Aug 2022 11:06:28  INFO logger - --------------------------------------
+01 Aug 2022 11:06:39  INFO logger - Android driver created
+01 Aug 2022 11:06:53  INFO logger - Shutting down driver
+01 Aug 2022 11:06:54  INFO logger - Appium server stopped
+01 Aug 2022 11:06:54  INFO logger - Appium server stopped successfully
+01 Aug 2022 11:07:23  INFO logger - Appium started on http://0.0.0.0:38491/wd/hub
+01 Aug 2022 11:07:23  INFO logger - Appium server started successfully
+01 Aug 2022 11:07:23  INFO logger - --------------------------------------
+01 Aug 2022 11:07:32  INFO logger - Android driver created
+01 Aug 2022 11:07:55  INFO logger - Shutting down driver
+01 Aug 2022 11:07:56  INFO logger - Appium server stopped
+01 Aug 2022 11:07:56  INFO logger - Appium server stopped successfully
+01 Aug 2022 11:11:34  INFO logger - Appium started on http://0.0.0.0:27212/wd/hub
+01 Aug 2022 11:11:34  INFO logger - Appium server started successfully
+01 Aug 2022 11:11:34  INFO logger - --------------------------------------
+01 Aug 2022 11:11:44  INFO logger - Android driver created
+01 Aug 2022 11:12:19  INFO logger - Shutting down driver
+01 Aug 2022 11:12:19  INFO logger - Appium server stopped
+01 Aug 2022 11:12:19  INFO logger - Appium server stopped successfully
+01 Aug 2022 11:16:17  INFO logger - Appium started on http://0.0.0.0:29385/wd/hub
+01 Aug 2022 11:16:17  INFO logger - Appium server started successfully
+01 Aug 2022 11:16:17  INFO logger - Appium server stopped
+01 Aug 2022 11:16:17  INFO logger - Appium server stopped successfully
+01 Aug 2022 11:16:36  INFO logger - Appium started on http://0.0.0.0:44113/wd/hub
+01 Aug 2022 11:16:36  INFO logger - Appium server started successfully
+01 Aug 2022 11:16:36  INFO logger - --------------------------------------
+01 Aug 2022 11:16:46  INFO logger - Android driver created
+01 Aug 2022 11:18:09  INFO logger - Shutting down driver
+01 Aug 2022 11:18:10  INFO logger - Appium server stopped
+01 Aug 2022 11:18:10  INFO logger - Appium server stopped successfully
+01 Aug 2022 11:18:18  INFO logger - Appium started on http://0.0.0.0:16090/wd/hub
+01 Aug 2022 11:18:18  INFO logger - Appium server started successfully
+01 Aug 2022 11:18:18  INFO logger - --------------------------------------
+01 Aug 2022 11:18:27  INFO logger - Android driver created
+01 Aug 2022 11:19:49  INFO logger - Shutting down driver
+01 Aug 2022 11:19:50  INFO logger - Appium server stopped
+01 Aug 2022 11:19:50  INFO logger - Appium server stopped successfully
+01 Aug 2022 11:21:48  INFO logger - Appium started on http://0.0.0.0:14262/wd/hub
+01 Aug 2022 11:21:48  INFO logger - Appium server started successfully
+01 Aug 2022 11:21:48  INFO logger - --------------------------------------
+01 Aug 2022 11:21:59  INFO logger - Android driver created
+01 Aug 2022 11:22:56  INFO logger - Shutting down driver
+01 Aug 2022 11:22:56  INFO logger - Appium server stopped
+01 Aug 2022 11:22:56  INFO logger - Appium server stopped successfully
+01 Aug 2022 11:24:39  INFO logger - Appium started on http://0.0.0.0:12583/wd/hub
+01 Aug 2022 11:24:39  INFO logger - Appium server started successfully
+01 Aug 2022 11:24:39  INFO logger - --------------------------------------
+01 Aug 2022 11:24:49  INFO logger - Android driver created
+01 Aug 2022 11:25:53  INFO logger - Shutting down driver
+01 Aug 2022 11:25:53  INFO logger - Appium server stopped
+01 Aug 2022 11:25:53  INFO logger - Appium server stopped successfully
+01 Aug 2022 11:33:26  INFO logger - Appium started on http://0.0.0.0:15573/wd/hub
+01 Aug 2022 11:33:26  INFO logger - Appium server started successfully
+01 Aug 2022 11:33:26  INFO logger - --------------------------------------
+01 Aug 2022 11:33:36  INFO logger - Android driver created
+01 Aug 2022 11:34:21  INFO logger - Shutting down driver
+01 Aug 2022 11:34:22  INFO logger - Appium server stopped
+01 Aug 2022 11:34:22  INFO logger - Appium server stopped successfully
+01 Aug 2022 11:36:15  INFO logger - Appium started on http://0.0.0.0:12964/wd/hub
+01 Aug 2022 11:36:15  INFO logger - Appium server started successfully
+01 Aug 2022 11:36:15  INFO logger - --------------------------------------
+01 Aug 2022 11:36:25  INFO logger - Android driver created
+01 Aug 2022 11:37:07  INFO logger - Shutting down driver
+01 Aug 2022 11:37:08  INFO logger - Appium server stopped
+01 Aug 2022 11:37:08  INFO logger - Appium server stopped successfully
+01 Aug 2022 11:37:13  INFO logger - Appium started on http://0.0.0.0:5974/wd/hub
+01 Aug 2022 11:37:13  INFO logger - Appium server started successfully
+01 Aug 2022 11:37:13  INFO logger - --------------------------------------
+01 Aug 2022 11:37:23  INFO logger - Android driver created
+01 Aug 2022 11:40:24  INFO logger - Shutting down driver
+01 Aug 2022 11:40:25  INFO logger - Appium server stopped
+01 Aug 2022 11:40:25  INFO logger - Appium server stopped successfully
+01 Aug 2022 11:41:36  INFO logger - Appium started on http://0.0.0.0:11334/wd/hub
+01 Aug 2022 11:41:36  INFO logger - Appium server started successfully
+01 Aug 2022 11:41:36  INFO logger - Appium server stopped
+01 Aug 2022 11:41:36  INFO logger - Appium server stopped successfully
+01 Aug 2022 11:41:44  INFO logger - Appium started on http://0.0.0.0:32800/wd/hub
+01 Aug 2022 11:41:44  INFO logger - Appium server started successfully
+01 Aug 2022 11:41:44  INFO logger - --------------------------------------
+01 Aug 2022 11:41:55  INFO logger - Android driver created
+01 Aug 2022 11:43:19  INFO logger - Shutting down driver
+01 Aug 2022 11:43:19  INFO logger - Appium server stopped
+01 Aug 2022 11:43:19  INFO logger - Appium server stopped successfully
+01 Aug 2022 11:43:53  INFO logger - Appium started on http://0.0.0.0:32562/wd/hub
+01 Aug 2022 11:43:53  INFO logger - Appium server started successfully
+01 Aug 2022 11:43:53  INFO logger - --------------------------------------
+01 Aug 2022 11:44:04  INFO logger - Android driver created
+01 Aug 2022 11:44:41  INFO logger - Shutting down driver
+01 Aug 2022 11:44:41  INFO logger - Appium server stopped
+01 Aug 2022 11:44:41  INFO logger - Appium server stopped successfully
+01 Aug 2022 11:44:56  INFO logger - Appium started on http://0.0.0.0:21059/wd/hub
+01 Aug 2022 11:44:56  INFO logger - Appium server started successfully
+01 Aug 2022 11:44:56  INFO logger - --------------------------------------
+01 Aug 2022 11:45:05  INFO logger - Android driver created
+01 Aug 2022 11:48:24  INFO logger - Shutting down driver
+01 Aug 2022 11:48:24  INFO logger - Appium server stopped
+01 Aug 2022 11:48:24  INFO logger - Appium server stopped successfully
+01 Aug 2022 11:53:05  INFO logger - Appium started on http://0.0.0.0:8617/wd/hub
+01 Aug 2022 11:53:05  INFO logger - Appium server started successfully
+01 Aug 2022 11:53:05  INFO logger - --------------------------------------
+01 Aug 2022 11:53:15  INFO logger - Android driver created
+01 Aug 2022 11:53:40  INFO logger - Shutting down driver
+01 Aug 2022 11:53:41  INFO logger - Appium server stopped
+01 Aug 2022 11:53:41  INFO logger - Appium server stopped successfully
+01 Aug 2022 11:53:47  INFO logger - Appium started on http://0.0.0.0:34532/wd/hub
+01 Aug 2022 11:53:47  INFO logger - Appium server started successfully
+01 Aug 2022 11:53:47  INFO logger - --------------------------------------
+01 Aug 2022 11:53:57  INFO logger - Android driver created
+01 Aug 2022 11:56:33  INFO logger - Shutting down driver
+01 Aug 2022 11:56:33  INFO logger - Appium server stopped
+01 Aug 2022 11:56:33  INFO logger - Appium server stopped successfully
+01 Aug 2022 11:59:03  INFO logger - Appium started on http://0.0.0.0:27302/wd/hub
+01 Aug 2022 11:59:03  INFO logger - Appium server started successfully
+01 Aug 2022 11:59:03  INFO logger - --------------------------------------
+01 Aug 2022 11:59:12  INFO logger - Android driver created
+01 Aug 2022 12:00:03  INFO logger - Shutting down driver
+01 Aug 2022 12:00:04  INFO logger - Appium server stopped
+01 Aug 2022 12:00:04  INFO logger - Appium server stopped successfully
+01 Aug 2022 12:00:10  INFO logger - Appium started on http://0.0.0.0:26455/wd/hub
+01 Aug 2022 12:00:10  INFO logger - Appium server started successfully
+01 Aug 2022 12:00:10  INFO logger - --------------------------------------
+01 Aug 2022 12:00:20  INFO logger - Android driver created
+01 Aug 2022 12:00:56  INFO logger - Shutting down driver
+01 Aug 2022 12:00:56  INFO logger - Appium server stopped
+01 Aug 2022 12:00:56  INFO logger - Appium server stopped successfully
+01 Aug 2022 12:08:55  INFO logger - Appium started on http://0.0.0.0:18281/wd/hub
+01 Aug 2022 12:08:55  INFO logger - Appium server started successfully
+01 Aug 2022 12:08:55  INFO logger - --------------------------------------
+01 Aug 2022 12:09:04  INFO logger - Android driver created
+01 Aug 2022 12:14:39  INFO logger - Shutting down driver
+01 Aug 2022 12:14:39  INFO logger - Appium server stopped
+01 Aug 2022 12:14:39  INFO logger - Appium server stopped successfully
+01 Aug 2022 12:17:22  INFO logger - Appium started on http://0.0.0.0:24291/wd/hub
+01 Aug 2022 12:17:22  INFO logger - Appium server started successfully
+01 Aug 2022 12:17:22  INFO logger - --------------------------------------
+01 Aug 2022 12:17:34  INFO logger - Android driver created
+01 Aug 2022 12:20:03  INFO logger - Appium started on http://0.0.0.0:28905/wd/hub
+01 Aug 2022 12:20:03  INFO logger - Appium server started successfully
+01 Aug 2022 12:20:03  INFO logger - --------------------------------------
+01 Aug 2022 12:20:08  INFO logger - Shutting down driver
+01 Aug 2022 12:20:09  INFO logger - Appium server stopped
+01 Aug 2022 12:20:09  INFO logger - Appium server stopped successfully
+01 Aug 2022 12:20:14  INFO logger - Android driver created
+01 Aug 2022 12:20:57  INFO logger - Appium started on http://0.0.0.0:30698/wd/hub
+01 Aug 2022 12:20:57  INFO logger - Appium server started successfully
+01 Aug 2022 12:20:57  INFO logger - --------------------------------------
+01 Aug 2022 12:21:01  INFO logger - Shutting down driver
+01 Aug 2022 12:21:02  INFO logger - Appium server stopped
+01 Aug 2022 12:21:02  INFO logger - Appium server stopped successfully
+01 Aug 2022 12:21:08  INFO logger - Android driver created
+01 Aug 2022 12:21:24  INFO logger - Appium started on http://0.0.0.0:7726/wd/hub
+01 Aug 2022 12:21:24  INFO logger - Appium server started successfully
+01 Aug 2022 12:21:24  INFO logger - --------------------------------------
+01 Aug 2022 12:21:28  INFO logger - Shutting down driver
+01 Aug 2022 12:21:29  INFO logger - Appium server stopped
+01 Aug 2022 12:21:29  INFO logger - Appium server stopped successfully
+01 Aug 2022 12:21:35  INFO logger - Android driver created
+01 Aug 2022 12:24:47  INFO logger - Shutting down driver
+01 Aug 2022 12:24:47  INFO logger - Appium server stopped
+01 Aug 2022 12:24:47  INFO logger - Appium server stopped successfully
+01 Aug 2022 12:25:33  INFO logger - Appium started on http://0.0.0.0:34440/wd/hub
+01 Aug 2022 12:25:33  INFO logger - Appium server started successfully
+01 Aug 2022 12:25:33  INFO logger - --------------------------------------
+01 Aug 2022 12:25:42  INFO logger - Android driver created
+01 Aug 2022 12:26:20  INFO logger - Shutting down driver
+01 Aug 2022 12:26:20  INFO logger - Appium server stopped
+01 Aug 2022 12:26:20  INFO logger - Appium server stopped successfully
+01 Aug 2022 12:26:32  INFO logger - Appium started on http://0.0.0.0:7918/wd/hub
+01 Aug 2022 12:26:32  INFO logger - Appium server started successfully
+01 Aug 2022 12:26:32  INFO logger - --------------------------------------
+01 Aug 2022 12:26:42  INFO logger - Android driver created
+01 Aug 2022 12:27:53  INFO logger - Shutting down driver
+01 Aug 2022 12:27:54  INFO logger - Appium server stopped
+01 Aug 2022 12:27:54  INFO logger - Appium server stopped successfully
+01 Aug 2022 12:28:48  INFO logger - Appium started on http://0.0.0.0:48248/wd/hub
+01 Aug 2022 12:28:48  INFO logger - Appium server started successfully
+01 Aug 2022 12:28:48  INFO logger - --------------------------------------
+01 Aug 2022 12:28:58  INFO logger - Android driver created
+01 Aug 2022 12:29:17  INFO logger - Shutting down driver
+01 Aug 2022 12:29:17  INFO logger - Appium server stopped
+01 Aug 2022 12:29:17  INFO logger - Appium server stopped successfully
+01 Aug 2022 12:31:28  INFO logger - Appium started on http://0.0.0.0:48603/wd/hub
+01 Aug 2022 12:31:28  INFO logger - Appium server started successfully
+01 Aug 2022 12:31:28  INFO logger - --------------------------------------
+01 Aug 2022 12:31:38  INFO logger - Android driver created
+01 Aug 2022 12:32:10  INFO logger - Shutting down driver
+01 Aug 2022 12:32:11  INFO logger - Appium server stopped
+01 Aug 2022 12:32:11  INFO logger - Appium server stopped successfully
+01 Aug 2022 12:34:35  INFO logger - Appium started on http://0.0.0.0:27250/wd/hub
+01 Aug 2022 12:34:35  INFO logger - Appium server started successfully
+01 Aug 2022 12:34:35  INFO logger - --------------------------------------
+01 Aug 2022 12:34:46  INFO logger - Android driver created
+01 Aug 2022 12:35:19  INFO logger - Shutting down driver
+01 Aug 2022 12:35:19  INFO logger - Appium server stopped
+01 Aug 2022 12:35:19  INFO logger - Appium server stopped successfully
+01 Aug 2022 12:35:35  INFO logger - Appium started on http://0.0.0.0:44334/wd/hub
+01 Aug 2022 12:35:35  INFO logger - Appium server started successfully
+01 Aug 2022 12:35:36  INFO logger - --------------------------------------
+01 Aug 2022 12:35:45  INFO logger - Android driver created
+01 Aug 2022 12:36:38  INFO logger - Shutting down driver
+01 Aug 2022 12:36:39  INFO logger - Appium server stopped
+01 Aug 2022 12:36:39  INFO logger - Appium server stopped successfully
+01 Aug 2022 12:37:11  INFO logger - Appium started on http://0.0.0.0:46273/wd/hub
+01 Aug 2022 12:37:11  INFO logger - Appium server started successfully
+01 Aug 2022 12:37:11  INFO logger - --------------------------------------
+01 Aug 2022 12:37:21  INFO logger - Android driver created
+01 Aug 2022 12:41:00  INFO logger - Shutting down driver
+01 Aug 2022 12:41:01  INFO logger - Appium server stopped
+01 Aug 2022 12:41:01  INFO logger - Appium server stopped successfully
+01 Aug 2022 12:41:19  INFO logger - Appium started on http://0.0.0.0:31624/wd/hub
+01 Aug 2022 12:41:19  INFO logger - Appium server started successfully
+01 Aug 2022 12:41:19  INFO logger - --------------------------------------
+01 Aug 2022 12:41:29  INFO logger - Android driver created
+01 Aug 2022 12:44:06  INFO logger - Shutting down driver
+01 Aug 2022 12:44:06  INFO logger - Appium server stopped
+01 Aug 2022 12:44:06  INFO logger - Appium server stopped successfully
+01 Aug 2022 12:44:22  INFO logger - Appium started on http://0.0.0.0:12865/wd/hub
+01 Aug 2022 12:44:22  INFO logger - Appium server started successfully
+01 Aug 2022 12:44:22  INFO logger - --------------------------------------
+01 Aug 2022 12:44:31  INFO logger - Android driver created
+01 Aug 2022 12:44:40  INFO logger - Shutting down driver
+01 Aug 2022 12:44:40  INFO logger - Appium server stopped
+01 Aug 2022 12:44:40  INFO logger - Appium server stopped successfully
+01 Aug 2022 12:44:47  INFO logger - Appium started on http://0.0.0.0:30248/wd/hub
+01 Aug 2022 12:44:47  INFO logger - Appium server started successfully
+01 Aug 2022 12:44:47  INFO logger - --------------------------------------
+01 Aug 2022 12:44:57  INFO logger - Android driver created
+01 Aug 2022 12:46:40  INFO logger - Shutting down driver
+01 Aug 2022 12:46:41  INFO logger - Appium server stopped
+01 Aug 2022 12:46:41  INFO logger - Appium server stopped successfully
+01 Aug 2022 12:50:02  INFO logger - Appium started on http://0.0.0.0:29413/wd/hub
+01 Aug 2022 12:50:02  INFO logger - Appium server started successfully
+01 Aug 2022 12:50:02  INFO logger - --------------------------------------
+01 Aug 2022 12:50:12  INFO logger - Android driver created
+01 Aug 2022 12:50:30  INFO logger - Appium started on http://0.0.0.0:32724/wd/hub
+01 Aug 2022 12:50:30  INFO logger - Appium server started successfully
+01 Aug 2022 12:50:30  INFO logger - --------------------------------------
+01 Aug 2022 12:50:35  INFO logger - Shutting down driver
+01 Aug 2022 12:50:35  INFO logger - Appium server stopped
+01 Aug 2022 12:50:35  INFO logger - Appium server stopped successfully
+01 Aug 2022 12:50:39  INFO logger - Android driver created
+01 Aug 2022 12:51:02  INFO logger - Appium started on http://0.0.0.0:20505/wd/hub
+01 Aug 2022 12:51:02  INFO logger - Appium server started successfully
+01 Aug 2022 12:51:02  INFO logger - --------------------------------------
+01 Aug 2022 12:51:03  INFO logger - Shutting down driver
+01 Aug 2022 12:51:03  INFO logger - Appium server stopped
+01 Aug 2022 12:51:03  INFO logger - Appium server stopped successfully
+01 Aug 2022 12:51:12  INFO logger - Android driver created
+01 Aug 2022 12:52:32  INFO logger - Shutting down driver
+01 Aug 2022 12:52:33  INFO logger - Appium server stopped
+01 Aug 2022 12:52:33  INFO logger - Appium server stopped successfully
+01 Aug 2022 12:59:35  INFO logger - Appium started on http://0.0.0.0:36798/wd/hub
+01 Aug 2022 12:59:35  INFO logger - Appium server started successfully
+01 Aug 2022 12:59:35  INFO logger - --------------------------------------
+01 Aug 2022 12:59:46  INFO logger - Android driver created
+01 Aug 2022 12:59:49  INFO logger - Shutting down driver
+01 Aug 2022 12:59:50  INFO logger - Appium server stopped
+01 Aug 2022 12:59:50  INFO logger - Appium server stopped successfully
+01 Aug 2022 13:00:28  INFO logger - Appium started on http://0.0.0.0:36211/wd/hub
+01 Aug 2022 13:00:28  INFO logger - Appium server started successfully
+01 Aug 2022 13:00:28  INFO logger - --------------------------------------
+01 Aug 2022 13:00:39  INFO logger - Android driver created
+01 Aug 2022 13:01:25  INFO logger - Shutting down driver
+01 Aug 2022 13:01:25  INFO logger - Appium server stopped
+01 Aug 2022 13:01:25  INFO logger - Appium server stopped successfully
+01 Aug 2022 13:02:22  INFO logger - Appium started on http://0.0.0.0:43263/wd/hub
+01 Aug 2022 13:02:22  INFO logger - Appium server started successfully
+01 Aug 2022 13:02:22  INFO logger - Appium server stopped
+01 Aug 2022 13:02:22  INFO logger - Appium server stopped successfully
+01 Aug 2022 13:02:58  INFO logger - Appium started on http://0.0.0.0:23609/wd/hub
+01 Aug 2022 13:02:58  INFO logger - Appium server started successfully
+01 Aug 2022 13:02:58  INFO logger - --------------------------------------
+01 Aug 2022 13:03:09  INFO logger - Android driver created
+01 Aug 2022 13:03:49  INFO logger - Shutting down driver
+01 Aug 2022 13:03:49  INFO logger - Appium server stopped
+01 Aug 2022 13:03:49  INFO logger - Appium server stopped successfully
+01 Aug 2022 13:07:02  INFO logger - Appium started on http://0.0.0.0:40460/wd/hub
+01 Aug 2022 13:07:02  INFO logger - Appium server started successfully
+01 Aug 2022 13:07:02  INFO logger - --------------------------------------
+01 Aug 2022 13:07:13  INFO logger - Android driver created
+01 Aug 2022 13:07:23  INFO logger - Appium started on http://0.0.0.0:27079/wd/hub
+01 Aug 2022 13:07:23  INFO logger - Appium server started successfully
+01 Aug 2022 13:07:23  INFO logger - --------------------------------------
+01 Aug 2022 13:07:27  INFO logger - Shutting down driver
+01 Aug 2022 13:07:28  INFO logger - Appium server stopped
+01 Aug 2022 13:07:28  INFO logger - Appium server stopped successfully
+01 Aug 2022 13:07:33  INFO logger - Android driver created
+01 Aug 2022 13:09:25  INFO logger - Shutting down driver
+01 Aug 2022 13:09:25  INFO logger - Appium server stopped
+01 Aug 2022 13:09:25  INFO logger - Appium server stopped successfully
+01 Aug 2022 13:51:13  INFO logger - Appium started on http://0.0.0.0:33030/wd/hub
+01 Aug 2022 13:51:13  INFO logger - Appium server started successfully
+01 Aug 2022 13:51:13  INFO logger - --------------------------------------
+01 Aug 2022 13:51:34  INFO logger - Appium server stopped
+01 Aug 2022 13:51:34  INFO logger - Appium server stopped successfully
+01 Aug 2022 13:51:57  INFO logger - Appium started on http://0.0.0.0:43729/wd/hub
+01 Aug 2022 13:51:57  INFO logger - Appium server started successfully
+01 Aug 2022 13:51:57  INFO logger - --------------------------------------
+01 Aug 2022 13:51:58  INFO logger - Appium server stopped
+01 Aug 2022 13:51:58  INFO logger - Appium server stopped successfully
+01 Aug 2022 13:52:13  INFO logger - Appium started on http://0.0.0.0:11043/wd/hub
+01 Aug 2022 13:52:13  INFO logger - Appium server started successfully
+01 Aug 2022 13:52:13  INFO logger - --------------------------------------
+01 Aug 2022 13:52:24  INFO logger - Android driver created
+01 Aug 2022 13:53:55  INFO logger - Shutting down driver
+01 Aug 2022 13:53:56  INFO logger - Appium server stopped
+01 Aug 2022 13:53:56  INFO logger - Appium server stopped successfully
+01 Aug 2022 13:57:12  INFO logger - Appium started on http://0.0.0.0:4989/wd/hub
+01 Aug 2022 13:57:12  INFO logger - Appium server started successfully
+01 Aug 2022 13:57:12  INFO logger - --------------------------------------
+01 Aug 2022 13:57:23  INFO logger - Android driver created
+01 Aug 2022 14:03:07  INFO logger - Shutting down driver
+01 Aug 2022 14:03:08  INFO logger - Appium server stopped
+01 Aug 2022 14:03:08  INFO logger - Appium server stopped successfully
+01 Aug 2022 14:03:36  INFO logger - Appium started on http://0.0.0.0:48566/wd/hub
+01 Aug 2022 14:03:36  INFO logger - Appium server started successfully
+01 Aug 2022 14:03:36  INFO logger - --------------------------------------
+01 Aug 2022 14:03:47  INFO logger - Android driver created
+01 Aug 2022 14:11:39  INFO logger - Shutting down driver
+01 Aug 2022 14:11:40  INFO logger - Appium server stopped
+01 Aug 2022 14:11:40  INFO logger - Appium server stopped successfully
+01 Aug 2022 14:13:44  INFO logger - Appium started on http://0.0.0.0:36586/wd/hub
+01 Aug 2022 14:13:44  INFO logger - Appium server started successfully
+01 Aug 2022 14:13:44  INFO logger - --------------------------------------
+01 Aug 2022 14:13:56  INFO logger - Android driver created
+01 Aug 2022 14:14:42  INFO logger - Shutting down driver
+01 Aug 2022 14:14:42  INFO logger - Appium started on http://0.0.0.0:26052/wd/hub
+01 Aug 2022 14:14:42  INFO logger - Appium server started successfully
+01 Aug 2022 14:14:42  INFO logger - --------------------------------------
+01 Aug 2022 14:14:43  INFO logger - Appium server stopped
+01 Aug 2022 14:14:43  INFO logger - Appium server stopped successfully
+01 Aug 2022 14:14:54  INFO logger - Android driver created
+01 Aug 2022 14:16:09  INFO logger - Appium started on http://0.0.0.0:43251/wd/hub
+01 Aug 2022 14:16:09  INFO logger - Appium server started successfully
+01 Aug 2022 14:16:09  INFO logger - --------------------------------------
+01 Aug 2022 14:16:14  INFO logger - Shutting down driver
+01 Aug 2022 14:16:15  INFO logger - Appium server stopped
+01 Aug 2022 14:16:15  INFO logger - Appium server stopped successfully
+01 Aug 2022 14:16:22  INFO logger - Android driver created
+01 Aug 2022 14:17:14  INFO logger - Shutting down driver
+01 Aug 2022 14:17:14  INFO logger - Appium server stopped
+01 Aug 2022 14:17:14  INFO logger - Appium server stopped successfully
+01 Aug 2022 14:17:16  INFO logger - Appium started on http://0.0.0.0:1201/wd/hub
+01 Aug 2022 14:17:16  INFO logger - Appium server started successfully
+01 Aug 2022 14:17:16  INFO logger - --------------------------------------
+01 Aug 2022 14:17:28  INFO logger - Android driver created
+01 Aug 2022 14:18:32  INFO logger - Shutting down driver
+01 Aug 2022 14:18:32  INFO logger - Appium server stopped
+01 Aug 2022 14:18:32  INFO logger - Appium server stopped successfully
+01 Aug 2022 14:19:12  INFO logger - Appium started on http://0.0.0.0:21873/wd/hub
+01 Aug 2022 14:19:12  INFO logger - Appium server started successfully
+01 Aug 2022 14:19:12  INFO logger - --------------------------------------
+01 Aug 2022 14:19:22  INFO logger - Android driver created
+01 Aug 2022 14:19:33  INFO logger - Appium started on http://0.0.0.0:9748/wd/hub
+01 Aug 2022 14:19:33  INFO logger - Appium server started successfully
+01 Aug 2022 14:19:33  INFO logger - --------------------------------------
+01 Aug 2022 14:19:39  INFO logger - Shutting down driver
+01 Aug 2022 14:19:40  INFO logger - Appium server stopped
+01 Aug 2022 14:19:40  INFO logger - Appium server stopped successfully
+01 Aug 2022 14:19:45  INFO logger - Android driver created
+01 Aug 2022 14:27:45  INFO logger - Shutting down driver
+01 Aug 2022 14:27:45  INFO logger - Appium server stopped
+01 Aug 2022 14:27:45  INFO logger - Appium server stopped successfully
+01 Aug 2022 14:29:08  INFO logger - Appium started on http://0.0.0.0:4510/wd/hub
+01 Aug 2022 14:29:08  INFO logger - Appium server started successfully
+01 Aug 2022 14:29:08  INFO logger - --------------------------------------
+01 Aug 2022 14:29:18  INFO logger - Android driver created
+01 Aug 2022 14:29:18  INFO logger - Shutting down driver
+01 Aug 2022 14:29:19  INFO logger - Appium server stopped
+01 Aug 2022 14:29:19  INFO logger - Appium server stopped successfully
+01 Aug 2022 14:29:23  INFO logger - Appium started on http://0.0.0.0:27379/wd/hub
+01 Aug 2022 14:29:23  INFO logger - Appium server started successfully
+01 Aug 2022 14:29:23  INFO logger - --------------------------------------
+01 Aug 2022 14:29:35  INFO logger - Android driver created
+01 Aug 2022 14:29:35  INFO logger - Shutting down driver
+01 Aug 2022 14:29:36  INFO logger - Appium server stopped
+01 Aug 2022 14:29:36  INFO logger - Appium server stopped successfully
+01 Aug 2022 14:29:42  INFO logger - Appium started on http://0.0.0.0:37662/wd/hub
+01 Aug 2022 14:29:42  INFO logger - Appium server started successfully
+01 Aug 2022 14:29:42  INFO logger - --------------------------------------
+01 Aug 2022 14:29:52  INFO logger - Android driver created
+01 Aug 2022 14:29:52  INFO logger - Shutting down driver
+01 Aug 2022 14:29:52  INFO logger - Appium server stopped
+01 Aug 2022 14:29:52  INFO logger - Appium server stopped successfully
+01 Aug 2022 14:30:21  INFO logger - Appium started on http://0.0.0.0:42662/wd/hub
+01 Aug 2022 14:30:21  INFO logger - Appium server started successfully
+01 Aug 2022 14:30:21  INFO logger - --------------------------------------
+01 Aug 2022 14:30:33  INFO logger - Android driver created
+01 Aug 2022 14:31:30  INFO logger - Shutting down driver
+01 Aug 2022 14:31:30  INFO logger - Appium server stopped
+01 Aug 2022 14:31:30  INFO logger - Appium server stopped successfully
+01 Aug 2022 14:44:12  INFO logger - Appium started on http://0.0.0.0:9342/wd/hub
+01 Aug 2022 14:44:12  INFO logger - Appium server started successfully
+01 Aug 2022 14:44:12  INFO logger - --------------------------------------
+01 Aug 2022 14:44:23  INFO logger - Android driver created
+01 Aug 2022 14:46:02  INFO logger - Shutting down driver
+01 Aug 2022 14:46:02  INFO logger - Appium server stopped
+01 Aug 2022 14:46:02  INFO logger - Appium server stopped successfully
+01 Aug 2022 14:46:42  INFO logger - Appium started on http://0.0.0.0:7789/wd/hub
+01 Aug 2022 14:46:42  INFO logger - Appium server started successfully
+01 Aug 2022 14:46:42  INFO logger - --------------------------------------
+01 Aug 2022 14:46:52  INFO logger - Android driver created
+01 Aug 2022 14:47:17  INFO logger - Shutting down driver
+01 Aug 2022 14:47:17  INFO logger - Appium server stopped
+01 Aug 2022 14:47:17  INFO logger - Appium server stopped successfully
+01 Aug 2022 14:47:50  INFO logger - Appium started on http://0.0.0.0:7638/wd/hub
+01 Aug 2022 14:47:50  INFO logger - Appium server started successfully
+01 Aug 2022 14:47:50  INFO logger - --------------------------------------
+01 Aug 2022 14:48:01  INFO logger - Android driver created
+01 Aug 2022 14:48:55  INFO logger - Shutting down driver
+01 Aug 2022 14:48:56  INFO logger - Appium server stopped
+01 Aug 2022 14:48:56  INFO logger - Appium server stopped successfully
+01 Aug 2022 14:49:06  INFO logger - Appium started on http://0.0.0.0:27816/wd/hub
+01 Aug 2022 14:49:06  INFO logger - Appium server started successfully
+01 Aug 2022 14:49:06  INFO logger - --------------------------------------
+01 Aug 2022 14:49:16  INFO logger - Android driver created
+01 Aug 2022 14:49:43  INFO logger - Shutting down driver
+01 Aug 2022 14:49:44  INFO logger - Appium server stopped
+01 Aug 2022 14:49:44  INFO logger - Appium server stopped successfully
+01 Aug 2022 14:50:13  INFO logger - Appium started on http://0.0.0.0:12539/wd/hub
+01 Aug 2022 14:50:13  INFO logger - Appium server started successfully
+01 Aug 2022 14:50:13  INFO logger - --------------------------------------
+01 Aug 2022 14:50:24  INFO logger - Android driver created
+01 Aug 2022 14:53:18  INFO logger - Shutting down driver
+01 Aug 2022 14:53:19  INFO logger - Appium server stopped
+01 Aug 2022 14:53:19  INFO logger - Appium server stopped successfully
+01 Aug 2022 14:53:33  INFO logger - Appium started on http://0.0.0.0:40840/wd/hub
+01 Aug 2022 14:53:33  INFO logger - Appium server started successfully
+01 Aug 2022 14:53:33  INFO logger - --------------------------------------
+01 Aug 2022 14:53:44  INFO logger - Android driver created
+01 Aug 2022 14:54:52  INFO logger - Shutting down driver
+01 Aug 2022 14:54:52  INFO logger - Appium server stopped
+01 Aug 2022 14:54:52  INFO logger - Appium server stopped successfully
+01 Aug 2022 14:55:34  INFO logger - Appium started on http://0.0.0.0:23995/wd/hub
+01 Aug 2022 14:55:34  INFO logger - Appium server started successfully
+01 Aug 2022 14:55:34  INFO logger - --------------------------------------
+01 Aug 2022 14:55:45  INFO logger - Android driver created
+01 Aug 2022 15:01:27  INFO logger - Shutting down driver
+01 Aug 2022 15:01:28  INFO logger - Appium server stopped
+01 Aug 2022 15:01:28  INFO logger - Appium server stopped successfully
+01 Aug 2022 15:01:51  INFO logger - Appium started on http://0.0.0.0:21418/wd/hub
+01 Aug 2022 15:01:51  INFO logger - Appium server started successfully
+01 Aug 2022 15:01:51  INFO logger - --------------------------------------
+01 Aug 2022 15:02:03  INFO logger - Android driver created
+01 Aug 2022 15:02:05  INFO logger - Appium started on http://0.0.0.0:46540/wd/hub
+01 Aug 2022 15:02:05  INFO logger - Appium server started successfully
+01 Aug 2022 15:02:05  INFO logger - --------------------------------------
+01 Aug 2022 15:02:11  INFO logger - Shutting down driver
+01 Aug 2022 15:02:12  INFO logger - Appium server stopped
+01 Aug 2022 15:02:12  INFO logger - Appium server stopped successfully
+01 Aug 2022 15:02:17  INFO logger - Android driver created
+01 Aug 2022 15:03:02  INFO logger - Shutting down driver
+01 Aug 2022 15:03:03  INFO logger - Appium server stopped
+01 Aug 2022 15:03:03  INFO logger - Appium server stopped successfully
+01 Aug 2022 15:03:22  INFO logger - Appium started on http://0.0.0.0:7934/wd/hub
+01 Aug 2022 15:03:22  INFO logger - Appium server started successfully
+01 Aug 2022 15:03:22  INFO logger - --------------------------------------
+01 Aug 2022 15:03:34  INFO logger - Android driver created
+01 Aug 2022 15:04:44  INFO logger - Shutting down driver
+01 Aug 2022 15:04:45  INFO logger - Appium server stopped
+01 Aug 2022 15:04:45  INFO logger - Appium server stopped successfully
+01 Aug 2022 15:05:43  INFO logger - Appium started on http://0.0.0.0:13392/wd/hub
+01 Aug 2022 15:05:43  INFO logger - Appium server started successfully
+01 Aug 2022 15:05:43  INFO logger - --------------------------------------
+01 Aug 2022 15:05:54  INFO logger - Android driver created
+01 Aug 2022 15:07:18  INFO logger - Shutting down driver
+01 Aug 2022 15:07:18  INFO logger - Appium server stopped
+01 Aug 2022 15:07:18  INFO logger - Appium server stopped successfully
+01 Aug 2022 15:08:19  INFO logger - Appium started on http://0.0.0.0:24124/wd/hub
+01 Aug 2022 15:08:19  INFO logger - Appium server started successfully
+01 Aug 2022 15:08:19  INFO logger - --------------------------------------
+01 Aug 2022 15:08:30  INFO logger - Android driver created
+01 Aug 2022 15:08:55  INFO logger - Shutting down driver
+01 Aug 2022 15:08:56  INFO logger - Appium server stopped
+01 Aug 2022 15:08:56  INFO logger - Appium server stopped successfully
+01 Aug 2022 15:09:05  INFO logger - Appium started on http://0.0.0.0:37672/wd/hub
+01 Aug 2022 15:09:05  INFO logger - Appium server started successfully
+01 Aug 2022 15:09:05  INFO logger - --------------------------------------
+01 Aug 2022 15:09:16  INFO logger - Android driver created
+01 Aug 2022 15:10:23  INFO logger - Shutting down driver
+01 Aug 2022 15:10:24  INFO logger - Appium server stopped
+01 Aug 2022 15:10:24  INFO logger - Appium server stopped successfully
+01 Aug 2022 15:19:19  INFO logger - Appium started on http://0.0.0.0:42728/wd/hub
+01 Aug 2022 15:19:19  INFO logger - Appium server started successfully
+01 Aug 2022 15:19:19  INFO logger - --------------------------------------
+01 Aug 2022 15:19:31  INFO logger - Android driver created
+01 Aug 2022 15:20:01  INFO logger - Shutting down driver
+01 Aug 2022 15:20:01  INFO logger - Appium server stopped
+01 Aug 2022 15:20:01  INFO logger - Appium server stopped successfully
+01 Aug 2022 15:20:11  INFO logger - Appium started on http://0.0.0.0:41954/wd/hub
+01 Aug 2022 15:20:11  INFO logger - Appium server started successfully
+01 Aug 2022 15:20:11  INFO logger - --------------------------------------
+01 Aug 2022 15:20:22  INFO logger - Android driver created
+01 Aug 2022 15:20:50  INFO logger - Shutting down driver
+01 Aug 2022 15:20:51  INFO logger - Appium server stopped
+01 Aug 2022 15:20:51  INFO logger - Appium server stopped successfully
+01 Aug 2022 15:22:34  INFO logger - Appium started on http://0.0.0.0:7663/wd/hub
+01 Aug 2022 15:22:34  INFO logger - Appium server started successfully
+01 Aug 2022 15:22:34  INFO logger - --------------------------------------
+01 Aug 2022 15:22:45  INFO logger - Android driver created
+01 Aug 2022 15:23:17  INFO logger - Shutting down driver
+01 Aug 2022 15:23:18  INFO logger - Appium server stopped
+01 Aug 2022 15:23:18  INFO logger - Appium server stopped successfully
+01 Aug 2022 15:24:24  INFO logger - Appium started on http://0.0.0.0:34816/wd/hub
+01 Aug 2022 15:24:24  INFO logger - Appium server started successfully
+01 Aug 2022 15:24:24  INFO logger - --------------------------------------
+01 Aug 2022 15:24:35  INFO logger - Android driver created
+01 Aug 2022 15:25:07  INFO logger - Shutting down driver
+01 Aug 2022 15:25:07  INFO logger - Appium server stopped
+01 Aug 2022 15:25:07  INFO logger - Appium server stopped successfully
+01 Aug 2022 15:25:23  INFO logger - Appium started on http://0.0.0.0:31818/wd/hub
+01 Aug 2022 15:25:23  INFO logger - Appium server started successfully
+01 Aug 2022 15:25:23  INFO logger - --------------------------------------
+01 Aug 2022 15:25:35  INFO logger - Android driver created
+01 Aug 2022 15:26:06  INFO logger - Shutting down driver
+01 Aug 2022 15:26:06  INFO logger - Appium server stopped
+01 Aug 2022 15:26:06  INFO logger - Appium server stopped successfully
+01 Aug 2022 15:26:39  INFO logger - Appium started on http://0.0.0.0:7979/wd/hub
+01 Aug 2022 15:26:39  INFO logger - Appium server started successfully
+01 Aug 2022 15:26:39  INFO logger - --------------------------------------
+01 Aug 2022 15:26:49  INFO logger - Android driver created
+01 Aug 2022 15:27:52  INFO logger - Shutting down driver
+01 Aug 2022 15:27:53  INFO logger - Appium server stopped
+01 Aug 2022 15:27:53  INFO logger - Appium server stopped successfully
+01 Aug 2022 15:28:05  INFO logger - Appium started on http://0.0.0.0:7055/wd/hub
+01 Aug 2022 15:28:05  INFO logger - Appium server started successfully
+01 Aug 2022 15:28:05  INFO logger - --------------------------------------
+01 Aug 2022 15:28:17  INFO logger - Android driver created
+01 Aug 2022 15:29:13  INFO logger - Shutting down driver
+01 Aug 2022 15:29:13  INFO logger - Appium server stopped
+01 Aug 2022 15:29:13  INFO logger - Appium server stopped successfully
+01 Aug 2022 15:31:51  INFO logger - Appium started on http://0.0.0.0:17943/wd/hub
+01 Aug 2022 15:31:51  INFO logger - Appium server started successfully
+01 Aug 2022 15:31:51  INFO logger - --------------------------------------
+01 Aug 2022 15:32:03  INFO logger - Android driver created
+01 Aug 2022 15:33:01  INFO logger - Shutting down driver
+01 Aug 2022 15:33:02  INFO logger - Appium server stopped
+01 Aug 2022 15:33:02  INFO logger - Appium server stopped successfully
+01 Aug 2022 15:33:05  INFO logger - Appium started on http://0.0.0.0:26694/wd/hub
+01 Aug 2022 15:33:05  INFO logger - Appium server started successfully
+01 Aug 2022 15:33:05  INFO logger - --------------------------------------
+01 Aug 2022 15:33:15  INFO logger - Android driver created
+01 Aug 2022 15:37:05  INFO logger - Shutting down driver
+01 Aug 2022 15:37:05  INFO logger - Appium server stopped
+01 Aug 2022 15:37:05  INFO logger - Appium server stopped successfully
+01 Aug 2022 15:37:15  INFO logger - Appium started on http://0.0.0.0:27351/wd/hub
+01 Aug 2022 15:37:15  INFO logger - Appium server started successfully
+01 Aug 2022 15:37:15  INFO logger - --------------------------------------
+01 Aug 2022 15:37:26  INFO logger - Android driver created
+01 Aug 2022 15:40:44  INFO logger - Appium started on http://0.0.0.0:38214/wd/hub
+01 Aug 2022 15:40:44  INFO logger - Appium server started successfully
+01 Aug 2022 15:40:44  INFO logger - --------------------------------------
+01 Aug 2022 15:40:50  INFO logger - Shutting down driver
+01 Aug 2022 15:40:50  INFO logger - Appium server stopped
+01 Aug 2022 15:40:50  INFO logger - Appium server stopped successfully
+01 Aug 2022 15:40:56  INFO logger - Android driver created
+01 Aug 2022 15:41:34  INFO logger - Shutting down driver
+01 Aug 2022 15:41:35  INFO logger - Appium server stopped
+01 Aug 2022 15:41:35  INFO logger - Appium server stopped successfully
+01 Aug 2022 15:42:02  INFO logger - Appium started on http://0.0.0.0:43513/wd/hub
+01 Aug 2022 15:42:02  INFO logger - Appium server started successfully
+01 Aug 2022 15:42:02  INFO logger - --------------------------------------
+01 Aug 2022 15:42:13  INFO logger - Android driver created
+01 Aug 2022 15:42:59  INFO logger - Shutting down driver
+01 Aug 2022 15:43:00  INFO logger - Appium server stopped
+01 Aug 2022 15:43:00  INFO logger - Appium server stopped successfully
+01 Aug 2022 15:43:14  INFO logger - Appium started on http://0.0.0.0:30674/wd/hub
+01 Aug 2022 15:43:14  INFO logger - Appium server started successfully
+01 Aug 2022 15:43:14  INFO logger - --------------------------------------
+01 Aug 2022 15:43:25  INFO logger - Android driver created
+01 Aug 2022 15:44:15  INFO logger - Shutting down driver
+01 Aug 2022 15:44:15  INFO logger - Appium server stopped
+01 Aug 2022 15:44:15  INFO logger - Appium server stopped successfully
+01 Aug 2022 15:47:00  INFO logger - Appium started on http://0.0.0.0:48872/wd/hub
+01 Aug 2022 15:47:00  INFO logger - Appium server started successfully
+01 Aug 2022 15:47:00  INFO logger - --------------------------------------
+01 Aug 2022 15:47:11  INFO logger - Android driver created
+01 Aug 2022 15:47:47  INFO logger - Shutting down driver
+01 Aug 2022 15:47:47  INFO logger - Appium server stopped
+01 Aug 2022 15:47:47  INFO logger - Appium server stopped successfully
+01 Aug 2022 15:48:06  INFO logger - Appium started on http://0.0.0.0:7372/wd/hub
+01 Aug 2022 15:48:06  INFO logger - Appium server started successfully
+01 Aug 2022 15:48:06  INFO logger - --------------------------------------
+01 Aug 2022 15:48:17  INFO logger - Android driver created
+01 Aug 2022 15:48:55  INFO logger - Shutting down driver
+01 Aug 2022 15:48:55  INFO logger - Appium server stopped
+01 Aug 2022 15:48:55  INFO logger - Appium server stopped successfully
+01 Aug 2022 15:49:17  INFO logger - Appium started on http://0.0.0.0:18961/wd/hub
+01 Aug 2022 15:49:17  INFO logger - Appium server started successfully
+01 Aug 2022 15:49:17  INFO logger - --------------------------------------
+01 Aug 2022 15:49:29  INFO logger - Android driver created
+01 Aug 2022 15:50:15  INFO logger - Shutting down driver
+01 Aug 2022 15:50:15  INFO logger - Appium server stopped
+01 Aug 2022 15:50:15  INFO logger - Appium server stopped successfully
+01 Aug 2022 15:51:23  INFO logger - Appium started on http://0.0.0.0:38887/wd/hub
+01 Aug 2022 15:51:23  INFO logger - Appium server started successfully
+01 Aug 2022 15:51:23  INFO logger - --------------------------------------
+01 Aug 2022 15:51:34  INFO logger - Android driver created
+01 Aug 2022 15:52:43  INFO logger - Shutting down driver
+01 Aug 2022 15:52:43  INFO logger - Appium server stopped
+01 Aug 2022 15:52:43  INFO logger - Appium server stopped successfully
+01 Aug 2022 15:52:51  INFO logger - Appium started on http://0.0.0.0:10981/wd/hub
+01 Aug 2022 15:52:51  INFO logger - Appium server started successfully
+01 Aug 2022 15:52:51  INFO logger - --------------------------------------
+01 Aug 2022 15:53:02  INFO logger - Android driver created
+01 Aug 2022 15:53:21  INFO logger - Shutting down driver
+01 Aug 2022 15:53:21  INFO logger - Appium server stopped
+01 Aug 2022 15:53:21  INFO logger - Appium server stopped successfully
+01 Aug 2022 15:56:15  INFO logger - Appium started on http://0.0.0.0:5737/wd/hub
+01 Aug 2022 15:56:15  INFO logger - Appium server started successfully
+01 Aug 2022 15:56:15  INFO logger - --------------------------------------
+01 Aug 2022 15:56:26  INFO logger - Android driver created
+01 Aug 2022 16:02:07  INFO logger - Shutting down driver
+01 Aug 2022 16:02:07  INFO logger - Appium server stopped
+01 Aug 2022 16:02:07  INFO logger - Appium server stopped successfully
+01 Aug 2022 16:20:48  INFO logger - Appium started on http://0.0.0.0:23645/wd/hub
+01 Aug 2022 16:20:48  INFO logger - Appium server started successfully
+01 Aug 2022 16:20:48  INFO logger - --------------------------------------
+01 Aug 2022 16:21:01  INFO logger - Android driver created
+01 Aug 2022 16:22:00  INFO logger - Shutting down driver
+01 Aug 2022 16:22:01  INFO logger - Appium server stopped
+01 Aug 2022 16:22:01  INFO logger - Appium server stopped successfully
+01 Aug 2022 16:23:45  INFO logger - Appium started on http://0.0.0.0:3939/wd/hub
+01 Aug 2022 16:23:45  INFO logger - Appium server started successfully
+01 Aug 2022 16:23:45  INFO logger - --------------------------------------
+01 Aug 2022 16:23:57  INFO logger - Android driver created
+01 Aug 2022 16:24:32  INFO logger - Shutting down driver
+01 Aug 2022 16:24:32  INFO logger - Appium server stopped
+01 Aug 2022 16:24:32  INFO logger - Appium server stopped successfully
+01 Aug 2022 16:25:07  INFO logger - Appium started on http://0.0.0.0:6174/wd/hub
+01 Aug 2022 16:25:07  INFO logger - Appium server started successfully
+01 Aug 2022 16:25:08  INFO logger - --------------------------------------
+01 Aug 2022 16:25:18  INFO logger - Android driver created
+01 Aug 2022 16:25:54  INFO logger - Shutting down driver
+01 Aug 2022 16:25:54  INFO logger - Appium server stopped
+01 Aug 2022 16:25:54  INFO logger - Appium server stopped successfully
+01 Aug 2022 16:26:41  INFO logger - Appium started on http://0.0.0.0:44355/wd/hub
+01 Aug 2022 16:26:41  INFO logger - Appium server started successfully
+01 Aug 2022 16:26:41  INFO logger - --------------------------------------
+01 Aug 2022 16:26:51  INFO logger - Android driver created
+01 Aug 2022 16:27:32  INFO logger - Shutting down driver
+01 Aug 2022 16:27:32  INFO logger - Appium server stopped
+01 Aug 2022 16:27:32  INFO logger - Appium server stopped successfully
+01 Aug 2022 16:27:40  INFO logger - Appium started on http://0.0.0.0:44901/wd/hub
+01 Aug 2022 16:27:40  INFO logger - Appium server started successfully
+01 Aug 2022 16:27:40  INFO logger - --------------------------------------
+01 Aug 2022 16:27:51  INFO logger - Android driver created
+01 Aug 2022 16:28:34  INFO logger - Shutting down driver
+01 Aug 2022 16:28:35  INFO logger - Appium server stopped
+01 Aug 2022 16:28:35  INFO logger - Appium server stopped successfully
+01 Aug 2022 16:32:22  INFO logger - Appium started on http://0.0.0.0:26080/wd/hub
+01 Aug 2022 16:32:22  INFO logger - Appium server started successfully
+01 Aug 2022 16:32:22  INFO logger - --------------------------------------
+01 Aug 2022 16:32:34  INFO logger - Android driver created
+01 Aug 2022 16:33:14  INFO logger - Shutting down driver
+01 Aug 2022 16:33:15  INFO logger - Appium server stopped
+01 Aug 2022 16:33:15  INFO logger - Appium server stopped successfully
+01 Aug 2022 16:34:34  INFO logger - Appium started on http://0.0.0.0:2605/wd/hub
+01 Aug 2022 16:34:34  INFO logger - Appium server started successfully
+01 Aug 2022 16:34:34  INFO logger - --------------------------------------
+01 Aug 2022 16:34:44  INFO logger - Android driver created
+01 Aug 2022 16:35:45  INFO logger - Shutting down driver
+01 Aug 2022 16:35:46  INFO logger - Appium server stopped
+01 Aug 2022 16:35:46  INFO logger - Appium server stopped successfully
+01 Aug 2022 16:36:16  INFO logger - Appium started on http://0.0.0.0:41977/wd/hub
+01 Aug 2022 16:36:16  INFO logger - Appium server started successfully
+01 Aug 2022 16:36:16  INFO logger - --------------------------------------
+01 Aug 2022 16:36:27  INFO logger - Android driver created
+01 Aug 2022 16:36:56  INFO logger - Shutting down driver
+01 Aug 2022 16:36:57  INFO logger - Appium server stopped
+01 Aug 2022 16:36:57  INFO logger - Appium server stopped successfully
+01 Aug 2022 16:37:07  INFO logger - Appium started on http://0.0.0.0:20217/wd/hub
+01 Aug 2022 16:37:07  INFO logger - Appium server started successfully
+01 Aug 2022 16:37:07  INFO logger - --------------------------------------
+01 Aug 2022 16:37:17  INFO logger - Android driver created
+01 Aug 2022 16:38:25  INFO logger - Shutting down driver
+01 Aug 2022 16:38:26  INFO logger - Appium server stopped
+01 Aug 2022 16:38:26  INFO logger - Appium server stopped successfully
+01 Aug 2022 16:39:14  INFO logger - Appium started on http://0.0.0.0:24106/wd/hub
+01 Aug 2022 16:39:14  INFO logger - Appium server started successfully
+01 Aug 2022 16:39:14  INFO logger - --------------------------------------
+01 Aug 2022 16:39:24  INFO logger - Android driver created
+01 Aug 2022 16:40:07  INFO logger - Appium started on http://0.0.0.0:5030/wd/hub
+01 Aug 2022 16:40:07  INFO logger - Appium server started successfully
+01 Aug 2022 16:40:07  INFO logger - --------------------------------------
+01 Aug 2022 16:40:13  INFO logger - Shutting down driver
+01 Aug 2022 16:40:14  INFO logger - Appium server stopped
+01 Aug 2022 16:40:14  INFO logger - Appium server stopped successfully
+01 Aug 2022 16:40:19  INFO logger - Android driver created
+01 Aug 2022 16:51:08  INFO logger - Shutting down driver
+01 Aug 2022 16:51:09  INFO logger - Appium server stopped
+01 Aug 2022 16:51:09  INFO logger - Appium server stopped successfully
+01 Aug 2022 16:52:08  INFO logger - Appium started on http://0.0.0.0:1563/wd/hub
+01 Aug 2022 16:52:08  INFO logger - Appium server started successfully
+01 Aug 2022 16:52:08  INFO logger - --------------------------------------
+01 Aug 2022 16:52:18  INFO logger - Android driver created
+01 Aug 2022 16:57:58  INFO logger - Shutting down driver
+01 Aug 2022 16:57:59  INFO logger - Appium server stopped
+01 Aug 2022 16:57:59  INFO logger - Appium server stopped successfully
+01 Aug 2022 17:05:11  INFO logger - Appium started on http://0.0.0.0:48504/wd/hub
+01 Aug 2022 17:05:11  INFO logger - Appium server started successfully
+01 Aug 2022 17:05:11  INFO logger - --------------------------------------
+01 Aug 2022 17:05:22  INFO logger - Android driver created
+01 Aug 2022 17:09:27  INFO logger - Shutting down driver
+01 Aug 2022 17:09:28  INFO logger - Appium server stopped
+01 Aug 2022 17:09:28  INFO logger - Appium server stopped successfully
+01 Aug 2022 17:09:54  INFO logger - Appium started on http://0.0.0.0:39438/wd/hub
+01 Aug 2022 17:09:54  INFO logger - Appium server started successfully
+01 Aug 2022 17:09:54  INFO logger - --------------------------------------
+01 Aug 2022 17:10:06  INFO logger - Android driver created
+01 Aug 2022 17:10:52  INFO logger - Shutting down driver
+01 Aug 2022 17:10:52  INFO logger - Appium server stopped
+01 Aug 2022 17:10:52  INFO logger - Appium server stopped successfully
+01 Aug 2022 17:11:06  INFO logger - Appium started on http://0.0.0.0:20353/wd/hub
+01 Aug 2022 17:11:06  INFO logger - Appium server started successfully
+01 Aug 2022 17:11:06  INFO logger - --------------------------------------
+01 Aug 2022 17:11:15  INFO logger - Android driver created
+01 Aug 2022 17:12:31  INFO logger - Shutting down driver
+01 Aug 2022 17:12:31  INFO logger - Appium server stopped
+01 Aug 2022 17:12:31  INFO logger - Appium server stopped successfully
+01 Aug 2022 17:12:49  INFO logger - Appium started on http://0.0.0.0:22668/wd/hub
+01 Aug 2022 17:12:49  INFO logger - Appium server started successfully
+01 Aug 2022 17:12:49  INFO logger - --------------------------------------
+01 Aug 2022 17:12:59  INFO logger - Android driver created
+01 Aug 2022 17:16:50  INFO logger - Shutting down driver
+01 Aug 2022 17:16:50  INFO logger - Appium server stopped
+01 Aug 2022 17:16:50  INFO logger - Appium server stopped successfully
+01 Aug 2022 17:19:42  INFO logger - Appium started on http://0.0.0.0:41204/wd/hub
+01 Aug 2022 17:19:42  INFO logger - Appium server started successfully
+01 Aug 2022 17:19:42  INFO logger - --------------------------------------
+01 Aug 2022 17:19:51  INFO logger - Android driver created
+01 Aug 2022 17:20:35  INFO logger - Shutting down driver
+01 Aug 2022 17:20:35  INFO logger - Appium server stopped
+01 Aug 2022 17:20:35  INFO logger - Appium server stopped successfully
+01 Aug 2022 17:21:07  INFO logger - Appium started on http://0.0.0.0:3393/wd/hub
+01 Aug 2022 17:21:07  INFO logger - Appium server started successfully
+01 Aug 2022 17:21:07  INFO logger - --------------------------------------
+01 Aug 2022 17:21:17  INFO logger - Android driver created
+01 Aug 2022 17:23:04  INFO logger - Shutting down driver
+01 Aug 2022 17:23:05  INFO logger - Appium server stopped
+01 Aug 2022 17:23:05  INFO logger - Appium server stopped successfully
+01 Aug 2022 17:23:19  INFO logger - Appium started on http://0.0.0.0:26407/wd/hub
+01 Aug 2022 17:23:19  INFO logger - Appium server started successfully
+01 Aug 2022 17:23:19  INFO logger - --------------------------------------
+01 Aug 2022 17:23:30  INFO logger - Android driver created
+01 Aug 2022 17:24:15  INFO logger - Shutting down driver
+01 Aug 2022 17:24:15  INFO logger - Appium server stopped
+01 Aug 2022 17:24:15  INFO logger - Appium server stopped successfully
+01 Aug 2022 17:27:04  INFO logger - Appium started on http://0.0.0.0:40773/wd/hub
+01 Aug 2022 17:27:04  INFO logger - Appium server started successfully
+01 Aug 2022 17:27:04  INFO logger - --------------------------------------
+01 Aug 2022 17:27:15  INFO logger - Android driver created
+01 Aug 2022 17:33:01  INFO logger - Shutting down driver
+01 Aug 2022 17:33:02  INFO logger - Appium server stopped
+01 Aug 2022 17:33:02  INFO logger - Appium server stopped successfully
+01 Aug 2022 17:33:28  INFO logger - Appium started on http://0.0.0.0:3609/wd/hub
+01 Aug 2022 17:33:28  INFO logger - Appium server started successfully
+01 Aug 2022 17:33:28  INFO logger - --------------------------------------
+01 Aug 2022 17:33:37  INFO logger - Android driver created
+01 Aug 2022 17:34:42  INFO logger - Shutting down driver
+01 Aug 2022 17:34:42  INFO logger - Appium server stopped
+01 Aug 2022 17:34:42  INFO logger - Appium server stopped successfully
+01 Aug 2022 17:37:11  INFO logger - Appium started on http://0.0.0.0:36700/wd/hub
+01 Aug 2022 17:37:11  INFO logger - Appium server started successfully
+01 Aug 2022 17:37:11  INFO logger - --------------------------------------
+01 Aug 2022 17:37:23  INFO logger - Android driver created
+01 Aug 2022 17:37:50  INFO logger - Shutting down driver
+01 Aug 2022 17:37:50  INFO logger - Appium server stopped
+01 Aug 2022 17:37:50  INFO logger - Appium server stopped successfully
+01 Aug 2022 17:38:00  INFO logger - Appium started on http://0.0.0.0:18475/wd/hub
+01 Aug 2022 17:38:00  INFO logger - Appium server started successfully
+01 Aug 2022 17:38:00  INFO logger - --------------------------------------
+01 Aug 2022 17:38:11  INFO logger - Android driver created
+01 Aug 2022 17:38:52  INFO logger - Shutting down driver
+01 Aug 2022 17:38:53  INFO logger - Appium server stopped
+01 Aug 2022 17:38:53  INFO logger - Appium server stopped successfully
+01 Aug 2022 17:40:34  INFO logger - Appium started on http://0.0.0.0:23563/wd/hub
+01 Aug 2022 17:40:34  INFO logger - Appium server started successfully
+01 Aug 2022 17:40:34  INFO logger - --------------------------------------
+01 Aug 2022 17:40:44  INFO logger - Android driver created
+01 Aug 2022 17:41:24  INFO logger - Shutting down driver
+01 Aug 2022 17:41:25  INFO logger - Appium server stopped
+01 Aug 2022 17:41:25  INFO logger - Appium server stopped successfully
+01 Aug 2022 17:47:42  INFO logger - Appium started on http://0.0.0.0:7369/wd/hub
+01 Aug 2022 17:47:42  INFO logger - Appium server started successfully
+01 Aug 2022 17:47:42  INFO logger - --------------------------------------
+01 Aug 2022 17:47:53  INFO logger - Android driver created
+01 Aug 2022 17:52:07  INFO logger - Shutting down driver
+01 Aug 2022 17:52:08  INFO logger - Appium server stopped
+01 Aug 2022 17:52:08  INFO logger - Appium server stopped successfully
+01 Aug 2022 18:00:09  INFO logger - Appium started on http://0.0.0.0:25920/wd/hub
+01 Aug 2022 18:00:09  INFO logger - Appium server started successfully
+01 Aug 2022 18:00:09  INFO logger - --------------------------------------
+01 Aug 2022 18:00:19  INFO logger - Android driver created
+01 Aug 2022 18:01:23  INFO logger - Shutting down driver
+01 Aug 2022 18:01:23  INFO logger - Appium server stopped
+01 Aug 2022 18:01:23  INFO logger - Appium server stopped successfully
+01 Aug 2022 18:03:07  INFO logger - Appium started on http://0.0.0.0:1414/wd/hub
+01 Aug 2022 18:03:07  INFO logger - Appium server started successfully
+01 Aug 2022 18:03:07  INFO logger - --------------------------------------
+01 Aug 2022 18:03:16  INFO logger - Android driver created
+01 Aug 2022 18:04:31  INFO logger - Shutting down driver
+01 Aug 2022 18:04:31  INFO logger - Appium server stopped
+01 Aug 2022 18:04:31  INFO logger - Appium server stopped successfully
+01 Aug 2022 18:05:26  INFO logger - Appium started on http://0.0.0.0:24197/wd/hub
+01 Aug 2022 18:05:26  INFO logger - Appium server started successfully
+01 Aug 2022 18:05:26  INFO logger - --------------------------------------
+01 Aug 2022 18:05:36  INFO logger - Android driver created
+01 Aug 2022 18:14:53  INFO logger - Shutting down driver
+01 Aug 2022 18:14:54  INFO logger - Appium server stopped
+01 Aug 2022 18:14:54  INFO logger - Appium server stopped successfully
+01 Aug 2022 18:27:59  INFO logger - Appium started on http://0.0.0.0:44349/wd/hub
+01 Aug 2022 18:27:59  INFO logger - Appium server started successfully
+01 Aug 2022 18:27:59  INFO logger - --------------------------------------
+01 Aug 2022 18:28:09  INFO logger - Android driver created
+01 Aug 2022 18:28:58  INFO logger - Shutting down driver
+01 Aug 2022 18:28:59  INFO logger - Appium server stopped
+01 Aug 2022 18:28:59  INFO logger - Appium server stopped successfully
+01 Aug 2022 18:29:08  INFO logger - Appium started on http://0.0.0.0:31174/wd/hub
+01 Aug 2022 18:29:08  INFO logger - Appium server started successfully
+01 Aug 2022 18:29:08  INFO logger - --------------------------------------
+01 Aug 2022 18:29:17  INFO logger - Android driver created
+01 Aug 2022 18:30:02  INFO logger - Shutting down driver
+01 Aug 2022 18:30:03  INFO logger - Appium server stopped
+01 Aug 2022 18:30:03  INFO logger - Appium server stopped successfully
+01 Aug 2022 18:57:37  INFO logger - Appium started on http://0.0.0.0:47196/wd/hub
+01 Aug 2022 18:57:37  INFO logger - Appium server started successfully
+01 Aug 2022 18:57:37  INFO logger - --------------------------------------
+01 Aug 2022 18:57:48  INFO logger - Android driver created
+01 Aug 2022 19:00:05  INFO logger - Shutting down driver
+01 Aug 2022 19:00:05  INFO logger - Appium server stopped
+01 Aug 2022 19:00:05  INFO logger - Appium server stopped successfully
+01 Aug 2022 19:03:29  INFO logger - Appium started on http://0.0.0.0:21153/wd/hub
+01 Aug 2022 19:03:29  INFO logger - Appium server started successfully
+01 Aug 2022 19:03:29  INFO logger - --------------------------------------
+01 Aug 2022 19:03:38  INFO logger - Android driver created
+01 Aug 2022 19:04:48  INFO logger - Shutting down driver
+01 Aug 2022 19:04:49  INFO logger - Appium server stopped
+01 Aug 2022 19:04:49  INFO logger - Appium server stopped successfully
+01 Aug 2022 19:06:26  INFO logger - Appium started on http://0.0.0.0:14234/wd/hub
+01 Aug 2022 19:06:26  INFO logger - Appium server started successfully
+01 Aug 2022 19:06:26  INFO logger - --------------------------------------
+01 Aug 2022 19:06:37  INFO logger - Android driver created
+01 Aug 2022 19:09:05  INFO logger - Appium started on http://0.0.0.0:29218/wd/hub
+01 Aug 2022 19:09:05  INFO logger - Appium server started successfully
+01 Aug 2022 19:09:05  INFO logger - --------------------------------------
+01 Aug 2022 19:09:10  INFO logger - Shutting down driver
+01 Aug 2022 19:09:11  INFO logger - Appium server stopped
+01 Aug 2022 19:09:11  INFO logger - Appium server stopped successfully
+01 Aug 2022 19:09:16  INFO logger - Android driver created
+01 Aug 2022 19:10:25  INFO logger - Shutting down driver
+01 Aug 2022 19:10:26  INFO logger - Appium server stopped
+01 Aug 2022 19:10:26  INFO logger - Appium server stopped successfully
+01 Aug 2022 19:13:19  INFO logger - Appium started on http://0.0.0.0:38491/wd/hub
+01 Aug 2022 19:13:19  INFO logger - Appium server started successfully
+01 Aug 2022 19:13:19  INFO logger - --------------------------------------
+01 Aug 2022 19:13:29  INFO logger - Android driver created
+01 Aug 2022 19:14:38  INFO logger - Shutting down driver
+01 Aug 2022 19:14:39  INFO logger - Appium server stopped
+01 Aug 2022 19:14:39  INFO logger - Appium server stopped successfully
+02 Aug 2022 19:28:50  INFO logger - Appium started on http://0.0.0.0:47989/wd/hub
+02 Aug 2022 19:28:50  INFO logger - Appium server started successfully
+02 Aug 2022 19:28:50  INFO logger - --------------------------------------
+02 Aug 2022 19:28:51  INFO logger - Appium server stopped
+02 Aug 2022 19:28:51  INFO logger - Appium server stopped successfully
+02 Aug 2022 19:29:31  INFO logger - Appium started on http://0.0.0.0:21958/wd/hub
+02 Aug 2022 19:29:31  INFO logger - Appium server started successfully
+02 Aug 2022 19:29:31  INFO logger - --------------------------------------
+02 Aug 2022 19:29:44  INFO logger - Android driver created
+02 Aug 2022 19:40:11  INFO logger - Shutting down driver
+02 Aug 2022 19:40:11  INFO logger - Appium server stopped
+02 Aug 2022 19:40:11  INFO logger - Appium server stopped successfully
+03 Aug 2022 11:05:32  INFO logger - Appium started on http://0.0.0.0:48699/wd/hub
+03 Aug 2022 11:05:32  INFO logger - Appium server started successfully
+03 Aug 2022 11:05:32  INFO logger - --------------------------------------
+03 Aug 2022 11:05:52  INFO logger - Appium started on http://0.0.0.0:26493/wd/hub
+03 Aug 2022 11:05:52  INFO logger - Appium server started successfully
+03 Aug 2022 11:05:52  INFO logger - --------------------------------------
+03 Aug 2022 11:06:13  INFO logger - Appium server stopped
+03 Aug 2022 11:06:13  INFO logger - Appium server stopped successfully
+03 Aug 2022 11:06:17  INFO logger - Appium server stopped
+03 Aug 2022 11:06:17  INFO logger - Appium server stopped successfully
+03 Aug 2022 11:06:56  INFO logger - Appium started on http://0.0.0.0:14989/wd/hub
+03 Aug 2022 11:06:56  INFO logger - Appium server started successfully
+03 Aug 2022 11:06:56  INFO logger - --------------------------------------
+03 Aug 2022 11:07:05  INFO logger - Appium server stopped
+03 Aug 2022 11:07:05  INFO logger - Appium server stopped successfully
+03 Aug 2022 11:08:07  INFO logger - Appium started on http://0.0.0.0:9126/wd/hub
+03 Aug 2022 11:08:07  INFO logger - Appium server started successfully
+03 Aug 2022 11:08:07  INFO logger - --------------------------------------
+03 Aug 2022 11:08:17  INFO logger - Appium server stopped
+03 Aug 2022 11:08:17  INFO logger - Appium server stopped successfully
+03 Aug 2022 11:09:06  INFO logger - Appium started on http://0.0.0.0:23840/wd/hub
+03 Aug 2022 11:09:06  INFO logger - Appium server started successfully
+03 Aug 2022 11:09:06  INFO logger - --------------------------------------
+03 Aug 2022 11:09:16  INFO logger - Appium server stopped
+03 Aug 2022 11:09:16  INFO logger - Appium server stopped successfully
+03 Aug 2022 11:10:36  INFO logger - Appium started on http://0.0.0.0:27660/wd/hub
+03 Aug 2022 11:10:36  INFO logger - Appium server started successfully
+03 Aug 2022 11:10:36  INFO logger - --------------------------------------
+03 Aug 2022 11:10:46  INFO logger - Appium server stopped
+03 Aug 2022 11:10:46  INFO logger - Appium server stopped successfully
+03 Aug 2022 11:11:33  INFO logger - Appium started on http://0.0.0.0:38189/wd/hub
+03 Aug 2022 11:11:33  INFO logger - Appium server started successfully
+03 Aug 2022 11:11:33  INFO logger - --------------------------------------
+03 Aug 2022 11:11:42  INFO logger - Appium server stopped
+03 Aug 2022 11:11:42  INFO logger - Appium server stopped successfully
+03 Aug 2022 11:13:14  INFO logger - Appium started on http://0.0.0.0:15847/wd/hub
+03 Aug 2022 11:13:14  INFO logger - Appium server started successfully
+03 Aug 2022 11:13:14  INFO logger - --------------------------------------
+03 Aug 2022 11:13:24  INFO logger - Appium server stopped
+03 Aug 2022 11:13:24  INFO logger - Appium server stopped successfully
+03 Aug 2022 11:14:26  INFO logger - Appium started on http://0.0.0.0:35616/wd/hub
+03 Aug 2022 11:14:26  INFO logger - Appium server started successfully
+03 Aug 2022 11:14:26  INFO logger - Appium server stopped
+03 Aug 2022 11:14:26  INFO logger - Appium server stopped successfully
+03 Aug 2022 11:14:56  INFO logger - Appium started on http://0.0.0.0:7785/wd/hub
+03 Aug 2022 11:14:56  INFO logger - Appium server started successfully
+03 Aug 2022 11:14:56  INFO logger - --------------------------------------
+03 Aug 2022 11:15:05  INFO logger - Appium server stopped
+03 Aug 2022 11:15:05  INFO logger - Appium server stopped successfully
+03 Aug 2022 11:15:44  INFO logger - Appium started on http://0.0.0.0:45342/wd/hub
+03 Aug 2022 11:15:44  INFO logger - Appium server started successfully
+03 Aug 2022 11:15:44  INFO logger - --------------------------------------
+03 Aug 2022 11:15:53  INFO logger - Appium server stopped
+03 Aug 2022 11:15:53  INFO logger - Appium server stopped successfully
+03 Aug 2022 11:16:49  INFO logger - Appium started on http://0.0.0.0:37980/wd/hub
+03 Aug 2022 11:16:49  INFO logger - Appium server started successfully
+03 Aug 2022 11:16:49  INFO logger - --------------------------------------
+03 Aug 2022 11:16:49  INFO logger - Appium server stopped
+03 Aug 2022 11:16:49  INFO logger - Appium server stopped successfully
+03 Aug 2022 11:17:32  INFO logger - Appium started on http://0.0.0.0:4623/wd/hub
+03 Aug 2022 11:17:32  INFO logger - Appium server started successfully
+03 Aug 2022 11:17:32  INFO logger - --------------------------------------
+03 Aug 2022 11:17:33  INFO logger - Appium server stopped
+03 Aug 2022 11:17:33  INFO logger - Appium server stopped successfully
+03 Aug 2022 11:18:41  INFO logger - Appium started on http://0.0.0.0:42431/wd/hub
+03 Aug 2022 11:18:41  INFO logger - Appium server started successfully
+03 Aug 2022 11:18:41  INFO logger - --------------------------------------
+03 Aug 2022 11:18:41  INFO logger - Appium server stopped
+03 Aug 2022 11:18:41  INFO logger - Appium server stopped successfully
+03 Aug 2022 11:20:02  INFO logger - Appium started on http://0.0.0.0:9177/wd/hub
+03 Aug 2022 11:20:02  INFO logger - Appium server started successfully
+03 Aug 2022 11:20:02  INFO logger - --------------------------------------
+03 Aug 2022 11:20:03  INFO logger - Appium server stopped
+03 Aug 2022 11:20:03  INFO logger - Appium server stopped successfully
+03 Aug 2022 11:22:44  INFO logger - Appium started on http://0.0.0.0:6443/wd/hub
+03 Aug 2022 11:22:44  INFO logger - Appium server started successfully
+03 Aug 2022 11:22:44  INFO logger - --------------------------------------
+03 Aug 2022 11:22:45  INFO logger - Appium server stopped
+03 Aug 2022 11:22:45  INFO logger - Appium server stopped successfully
+03 Aug 2022 11:24:07  INFO logger - Appium started on http://0.0.0.0:5054/wd/hub
+03 Aug 2022 11:24:07  INFO logger - Appium server started successfully
+03 Aug 2022 11:24:07  INFO logger - --------------------------------------
+03 Aug 2022 11:24:23  INFO logger - Android driver created
+03 Aug 2022 11:24:35  INFO logger - Shutting down driver
+03 Aug 2022 11:24:45  INFO logger - Appium server stopped
+03 Aug 2022 11:24:45  INFO logger - Appium server stopped successfully
+03 Aug 2022 11:24:55  INFO logger - Appium started on http://0.0.0.0:28044/wd/hub
+03 Aug 2022 11:24:55  INFO logger - Appium server started successfully
+03 Aug 2022 11:24:55  INFO logger - --------------------------------------
+03 Aug 2022 11:24:56  INFO logger - Appium server stopped
+03 Aug 2022 11:24:56  INFO logger - Appium server stopped successfully
+03 Aug 2022 11:26:00  INFO logger - Appium started on http://0.0.0.0:2527/wd/hub
+03 Aug 2022 11:26:00  INFO logger - Appium server started successfully
+03 Aug 2022 11:26:00  INFO logger - --------------------------------------
+03 Aug 2022 11:26:10  INFO logger - Appium server stopped
+03 Aug 2022 11:26:10  INFO logger - Appium server stopped successfully
+03 Aug 2022 11:27:38  INFO logger - Appium started on http://0.0.0.0:30680/wd/hub
+03 Aug 2022 11:27:38  INFO logger - Appium server started successfully
+03 Aug 2022 11:27:38  INFO logger - --------------------------------------
+03 Aug 2022 11:27:49  INFO logger - Appium server stopped
+03 Aug 2022 11:27:49  INFO logger - Appium server stopped successfully
+03 Aug 2022 11:28:41  INFO logger - Appium started on http://0.0.0.0:40052/wd/hub
+03 Aug 2022 11:28:41  INFO logger - Appium server started successfully
+03 Aug 2022 11:28:41  INFO logger - --------------------------------------
+03 Aug 2022 11:28:50  INFO logger - Appium server stopped
+03 Aug 2022 11:28:50  INFO logger - Appium server stopped successfully
+03 Aug 2022 11:32:29  INFO logger - Appium started on http://0.0.0.0:33010/wd/hub
+03 Aug 2022 11:32:29  INFO logger - Appium server started successfully
+03 Aug 2022 11:32:29  INFO logger - Appium server stopped
+03 Aug 2022 11:32:29  INFO logger - Appium server stopped successfully
+03 Aug 2022 11:32:45  INFO logger - Appium started on http://0.0.0.0:45222/wd/hub
+03 Aug 2022 11:32:45  INFO logger - Appium server started successfully
+03 Aug 2022 11:32:45  INFO logger - --------------------------------------
+03 Aug 2022 11:33:47  INFO logger - iOS driver created
+03 Aug 2022 11:34:28  INFO logger - Appium started on http://0.0.0.0:24247/wd/hub
+03 Aug 2022 11:34:28  INFO logger - Appium server started successfully
+03 Aug 2022 11:34:28  INFO logger - --------------------------------------
+03 Aug 2022 11:34:38  INFO logger - Appium server stopped
+03 Aug 2022 11:34:38  INFO logger - Appium server stopped successfully
+03 Aug 2022 11:34:43  INFO logger - Shutting down driver
+03 Aug 2022 11:34:44  INFO logger - Appium server stopped
+03 Aug 2022 11:34:44  INFO logger - Appium server stopped successfully
+03 Aug 2022 11:36:07  INFO logger - Appium started on http://0.0.0.0:25759/wd/hub
+03 Aug 2022 11:36:07  INFO logger - Appium server started successfully
+03 Aug 2022 11:36:07  INFO logger - --------------------------------------
+03 Aug 2022 11:36:17  INFO logger - Appium server stopped
+03 Aug 2022 11:36:17  INFO logger - Appium server stopped successfully
+03 Aug 2022 11:37:36  INFO logger - Appium started on http://0.0.0.0:43213/wd/hub
+03 Aug 2022 11:37:36  INFO logger - Appium server started successfully
+03 Aug 2022 11:37:36  INFO logger - --------------------------------------
+03 Aug 2022 11:37:37  INFO logger - Appium server stopped
+03 Aug 2022 11:37:37  INFO logger - Appium server stopped successfully
+03 Aug 2022 11:37:50  INFO logger - Appium started on http://0.0.0.0:32051/wd/hub
+03 Aug 2022 11:37:50  INFO logger - Appium server started successfully
+03 Aug 2022 11:37:50  INFO logger - --------------------------------------
+03 Aug 2022 11:37:50  INFO logger - Appium server stopped
+03 Aug 2022 11:37:50  INFO logger - Appium server stopped successfully
+03 Aug 2022 11:38:18  INFO logger - Appium started on http://0.0.0.0:11895/wd/hub
+03 Aug 2022 11:38:18  INFO logger - Appium server started successfully
+03 Aug 2022 11:38:18  INFO logger - --------------------------------------
+03 Aug 2022 11:38:18  INFO logger - Appium server stopped
+03 Aug 2022 11:38:18  INFO logger - Appium server stopped successfully
+03 Aug 2022 11:40:34  INFO logger - Appium started on http://0.0.0.0:15710/wd/hub
+03 Aug 2022 11:40:34  INFO logger - Appium server started successfully
+03 Aug 2022 11:40:34  INFO logger - --------------------------------------
+03 Aug 2022 11:40:35  INFO logger - Appium server stopped
+03 Aug 2022 11:40:35  INFO logger - Appium server stopped successfully
+03 Aug 2022 11:44:46  INFO logger - Appium started on http://0.0.0.0:17779/wd/hub
+03 Aug 2022 11:44:46  INFO logger - Appium server started successfully
+03 Aug 2022 11:44:46  INFO logger - --------------------------------------
+03 Aug 2022 11:45:06  INFO logger - Appium server stopped
+03 Aug 2022 11:45:06  INFO logger - Appium server stopped successfully
+03 Aug 2022 11:45:07  INFO logger - Appium started on http://0.0.0.0:14394/wd/hub
+03 Aug 2022 11:45:07  INFO logger - Appium server started successfully
+03 Aug 2022 11:45:07  INFO logger - --------------------------------------
+03 Aug 2022 11:45:16  INFO logger - Appium server stopped
+03 Aug 2022 11:45:16  INFO logger - Appium server stopped successfully
+03 Aug 2022 11:45:53  INFO logger - Appium started on http://0.0.0.0:3678/wd/hub
+03 Aug 2022 11:45:53  INFO logger - Appium server started successfully
+03 Aug 2022 11:45:53  INFO logger - --------------------------------------
+03 Aug 2022 11:46:03  INFO logger - Appium server stopped
+03 Aug 2022 11:46:03  INFO logger - Appium server stopped successfully
+03 Aug 2022 11:47:52  INFO logger - Appium started on http://0.0.0.0:21683/wd/hub
+03 Aug 2022 11:47:52  INFO logger - Appium server started successfully
+03 Aug 2022 11:47:52  INFO logger - --------------------------------------
+03 Aug 2022 11:48:01  INFO logger - Appium server stopped
+03 Aug 2022 11:48:01  INFO logger - Appium server stopped successfully
+03 Aug 2022 11:50:02  INFO logger - Appium started on http://0.0.0.0:3578/wd/hub
+03 Aug 2022 11:50:02  INFO logger - Appium server started successfully
+03 Aug 2022 11:50:02  INFO logger - --------------------------------------
+03 Aug 2022 11:50:13  INFO logger - Android driver created
+03 Aug 2022 11:52:35  INFO logger - Shutting down driver
+03 Aug 2022 11:52:43  INFO logger - Appium server stopped
+03 Aug 2022 11:52:43  INFO logger - Appium server stopped successfully
+03 Aug 2022 11:53:41  INFO logger - Appium started on http://0.0.0.0:18738/wd/hub
+03 Aug 2022 11:53:41  INFO logger - Appium server started successfully
+03 Aug 2022 11:53:41  INFO logger - --------------------------------------
+03 Aug 2022 11:53:51  INFO logger - Appium server stopped
+03 Aug 2022 11:53:51  INFO logger - Appium server stopped successfully
+03 Aug 2022 11:55:36  INFO logger - Appium started on http://0.0.0.0:1436/wd/hub
+03 Aug 2022 11:55:36  INFO logger - Appium server started successfully
+03 Aug 2022 11:55:37  INFO logger - --------------------------------------
+03 Aug 2022 11:55:46  INFO logger - Appium server stopped
+03 Aug 2022 11:55:46  INFO logger - Appium server stopped successfully
+03 Aug 2022 11:56:45  INFO logger - Appium started on http://0.0.0.0:46353/wd/hub
+03 Aug 2022 11:56:45  INFO logger - Appium server started successfully
+03 Aug 2022 11:56:45  INFO logger - --------------------------------------
+03 Aug 2022 11:56:54  INFO logger - Appium server stopped
+03 Aug 2022 11:56:54  INFO logger - Appium server stopped successfully
+03 Aug 2022 11:58:13  INFO logger - Appium started on http://0.0.0.0:10839/wd/hub
+03 Aug 2022 11:58:13  INFO logger - Appium server started successfully
+03 Aug 2022 11:58:13  INFO logger - --------------------------------------
+03 Aug 2022 11:58:23  INFO logger - Appium server stopped
+03 Aug 2022 11:58:23  INFO logger - Appium server stopped successfully
+03 Aug 2022 11:59:15  INFO logger - Appium started on http://0.0.0.0:46346/wd/hub
+03 Aug 2022 11:59:15  INFO logger - Appium server started successfully
+03 Aug 2022 11:59:15  INFO logger - --------------------------------------
+03 Aug 2022 11:59:25  INFO logger - Appium server stopped
+03 Aug 2022 11:59:25  INFO logger - Appium server stopped successfully
+03 Aug 2022 11:59:45  INFO logger - Appium started on http://0.0.0.0:49099/wd/hub
+03 Aug 2022 11:59:45  INFO logger - Appium server started successfully
+03 Aug 2022 11:59:45  INFO logger - --------------------------------------
+03 Aug 2022 11:59:45  INFO logger - Appium server stopped
+03 Aug 2022 11:59:45  INFO logger - Appium server stopped successfully
+03 Aug 2022 12:00:43  INFO logger - Appium started on http://0.0.0.0:1377/wd/hub
+03 Aug 2022 12:00:43  INFO logger - Appium server started successfully
+03 Aug 2022 12:00:43  INFO logger - --------------------------------------
+03 Aug 2022 12:00:43  INFO logger - Appium server stopped
+03 Aug 2022 12:00:43  INFO logger - Appium server stopped successfully
+03 Aug 2022 12:00:56  INFO logger - Appium started on http://0.0.0.0:9043/wd/hub
+03 Aug 2022 12:00:56  INFO logger - Appium server started successfully
+03 Aug 2022 12:00:56  INFO logger - --------------------------------------
+03 Aug 2022 12:00:57  INFO logger - Appium server stopped
+03 Aug 2022 12:00:57  INFO logger - Appium server stopped successfully
+03 Aug 2022 12:01:43  INFO logger - Appium started on http://0.0.0.0:30065/wd/hub
+03 Aug 2022 12:01:43  INFO logger - Appium server started successfully
+03 Aug 2022 12:01:43  INFO logger - --------------------------------------
+03 Aug 2022 12:01:50  INFO logger - Appium server stopped
+03 Aug 2022 12:01:50  INFO logger - Appium server stopped successfully
+03 Aug 2022 12:02:44  INFO logger - Appium started on http://0.0.0.0:14225/wd/hub
+03 Aug 2022 12:02:44  INFO logger - Appium server started successfully
+03 Aug 2022 12:02:44  INFO logger - --------------------------------------
+03 Aug 2022 12:02:51  INFO logger - Appium server stopped
+03 Aug 2022 12:02:51  INFO logger - Appium server stopped successfully
+03 Aug 2022 12:04:12  INFO logger - Appium started on http://0.0.0.0:20055/wd/hub
+03 Aug 2022 12:04:12  INFO logger - Appium server started successfully
+03 Aug 2022 12:04:12  INFO logger - --------------------------------------
+03 Aug 2022 12:04:19  INFO logger - Appium server stopped
+03 Aug 2022 12:04:19  INFO logger - Appium server stopped successfully
+03 Aug 2022 12:04:44  INFO logger - Appium started on http://0.0.0.0:33939/wd/hub
+03 Aug 2022 12:04:44  INFO logger - Appium server started successfully
+03 Aug 2022 12:04:44  INFO logger - --------------------------------------
+03 Aug 2022 12:04:51  INFO logger - Appium server stopped
+03 Aug 2022 12:04:51  INFO logger - Appium server stopped successfully
+03 Aug 2022 12:05:16  INFO logger - Appium started on http://0.0.0.0:22169/wd/hub
+03 Aug 2022 12:05:16  INFO logger - Appium server started successfully
+03 Aug 2022 12:05:16  INFO logger - --------------------------------------
+03 Aug 2022 12:05:23  INFO logger - Appium server stopped
+03 Aug 2022 12:05:23  INFO logger - Appium server stopped successfully
+03 Aug 2022 12:06:35  INFO logger - Appium started on http://0.0.0.0:43354/wd/hub
+03 Aug 2022 12:06:35  INFO logger - Appium server started successfully
+03 Aug 2022 12:06:35  INFO logger - --------------------------------------
+03 Aug 2022 12:06:42  INFO logger - Appium server stopped
+03 Aug 2022 12:06:42  INFO logger - Appium server stopped successfully
+03 Aug 2022 12:08:22  INFO logger - Appium started on http://0.0.0.0:41413/wd/hub
+03 Aug 2022 12:08:22  INFO logger - Appium server started successfully
+03 Aug 2022 12:08:22  INFO logger - --------------------------------------
+03 Aug 2022 12:08:32  INFO logger - Android driver created
+03 Aug 2022 12:11:36  INFO logger - Shutting down driver
+03 Aug 2022 12:11:46  INFO logger - Appium server stopped
+03 Aug 2022 12:11:46  INFO logger - Appium server stopped successfully
+03 Aug 2022 12:15:51  INFO logger - Appium started on http://0.0.0.0:44492/wd/hub
+03 Aug 2022 12:15:51  INFO logger - Appium server started successfully
+03 Aug 2022 12:15:51  INFO logger - --------------------------------------
+03 Aug 2022 12:16:01  INFO logger - Android driver created
+03 Aug 2022 12:18:24  INFO logger - Shutting down driver
+03 Aug 2022 12:18:25  INFO logger - Appium server stopped
+03 Aug 2022 12:18:25  INFO logger - Appium server stopped successfully
+03 Aug 2022 12:20:23  INFO logger - Appium started on http://0.0.0.0:40332/wd/hub
+03 Aug 2022 12:20:23  INFO logger - Appium server started successfully
+03 Aug 2022 12:20:24  INFO logger - --------------------------------------
+03 Aug 2022 12:20:33  INFO logger - Android driver created
+03 Aug 2022 12:21:06  INFO logger - Shutting down driver
+03 Aug 2022 12:21:07  INFO logger - Appium server stopped
+03 Aug 2022 12:21:07  INFO logger - Appium server stopped successfully
+03 Aug 2022 12:21:18  INFO logger - Appium started on http://0.0.0.0:40275/wd/hub
+03 Aug 2022 12:21:18  INFO logger - Appium server started successfully
+03 Aug 2022 12:21:18  INFO logger - --------------------------------------
+03 Aug 2022 12:21:28  INFO logger - Android driver created
+03 Aug 2022 12:21:56  INFO logger - Shutting down driver
+03 Aug 2022 12:21:57  INFO logger - Appium server stopped
+03 Aug 2022 12:21:57  INFO logger - Appium server stopped successfully
+03 Aug 2022 12:22:37  INFO logger - Appium started on http://0.0.0.0:39264/wd/hub
+03 Aug 2022 12:22:37  INFO logger - Appium server started successfully
+03 Aug 2022 12:22:37  INFO logger - --------------------------------------
+03 Aug 2022 12:22:46  INFO logger - Android driver created
+03 Aug 2022 12:23:14  INFO logger - Shutting down driver
+03 Aug 2022 12:23:15  INFO logger - Appium server stopped
+03 Aug 2022 12:23:15  INFO logger - Appium server stopped successfully
+03 Aug 2022 12:23:31  INFO logger - Appium started on http://0.0.0.0:11756/wd/hub
+03 Aug 2022 12:23:31  INFO logger - Appium server started successfully
+03 Aug 2022 12:23:31  INFO logger - --------------------------------------
+03 Aug 2022 12:23:40  INFO logger - Android driver created
+03 Aug 2022 12:24:11  INFO logger - Shutting down driver
+03 Aug 2022 12:24:12  INFO logger - Appium server stopped
+03 Aug 2022 12:24:12  INFO logger - Appium server stopped successfully
+03 Aug 2022 14:34:53  INFO logger - Appium started on http://0.0.0.0:5129/wd/hub
+03 Aug 2022 14:34:53  INFO logger - Appium server started successfully
+03 Aug 2022 14:34:53  INFO logger - --------------------------------------
+03 Aug 2022 14:35:05  INFO logger - Android driver created
+03 Aug 2022 14:35:38  INFO logger - Shutting down driver
+03 Aug 2022 14:35:39  INFO logger - Appium server stopped
+03 Aug 2022 14:35:39  INFO logger - Appium server stopped successfully
+03 Aug 2022 14:56:07  INFO logger - Appium started on http://0.0.0.0:24196/wd/hub
+03 Aug 2022 14:56:07  INFO logger - Appium server started successfully
+03 Aug 2022 14:56:07  INFO logger - --------------------------------------
+03 Aug 2022 14:56:19  INFO logger - Android driver created
+03 Aug 2022 14:56:50  INFO logger - Shutting down driver
+03 Aug 2022 14:56:51  INFO logger - Appium server stopped
+03 Aug 2022 14:56:51  INFO logger - Appium server stopped successfully
+03 Aug 2022 14:57:39  INFO logger - Appium started on http://0.0.0.0:47362/wd/hub
+03 Aug 2022 14:57:39  INFO logger - Appium server started successfully
+03 Aug 2022 14:57:39  INFO logger - --------------------------------------
+03 Aug 2022 14:57:50  INFO logger - Android driver created
+03 Aug 2022 14:58:24  INFO logger - Shutting down driver
+03 Aug 2022 14:58:25  INFO logger - Appium server stopped
+03 Aug 2022 14:58:25  INFO logger - Appium server stopped successfully
+03 Aug 2022 14:59:34  INFO logger - Appium started on http://0.0.0.0:38984/wd/hub
+03 Aug 2022 14:59:34  INFO logger - Appium server started successfully
+03 Aug 2022 14:59:34  INFO logger - --------------------------------------
+03 Aug 2022 14:59:44  INFO logger - Android driver created
+03 Aug 2022 15:00:34  INFO logger - Shutting down driver
+03 Aug 2022 15:00:35  INFO logger - Appium server stopped
+03 Aug 2022 15:00:35  INFO logger - Appium server stopped successfully
+03 Aug 2022 15:01:34  INFO logger - Appium started on http://0.0.0.0:44924/wd/hub
+03 Aug 2022 15:01:34  INFO logger - Appium server started successfully
+03 Aug 2022 15:01:34  INFO logger - --------------------------------------
+03 Aug 2022 15:01:45  INFO logger - Android driver created
+03 Aug 2022 15:02:38  INFO logger - Shutting down driver
+03 Aug 2022 15:02:39  INFO logger - Appium server stopped
+03 Aug 2022 15:02:39  INFO logger - Appium server stopped successfully
+03 Aug 2022 15:04:37  INFO logger - Appium started on http://0.0.0.0:27489/wd/hub
+03 Aug 2022 15:04:37  INFO logger - Appium server started successfully
+03 Aug 2022 15:04:37  INFO logger - --------------------------------------
+03 Aug 2022 15:04:46  INFO logger - Android driver created
+03 Aug 2022 15:05:22  INFO logger - Shutting down driver
+03 Aug 2022 15:05:22  INFO logger - Appium server stopped
+03 Aug 2022 15:05:22  INFO logger - Appium server stopped successfully
+03 Aug 2022 15:05:39  INFO logger - Appium started on http://0.0.0.0:48088/wd/hub
+03 Aug 2022 15:05:39  INFO logger - Appium server started successfully
+03 Aug 2022 15:05:39  INFO logger - --------------------------------------
+03 Aug 2022 15:05:49  INFO logger - Android driver created
+03 Aug 2022 15:06:34  INFO logger - Shutting down driver
+03 Aug 2022 15:06:34  INFO logger - Appium server stopped
+03 Aug 2022 15:06:34  INFO logger - Appium server stopped successfully
+03 Aug 2022 15:07:04  INFO logger - Appium started on http://0.0.0.0:28352/wd/hub
+03 Aug 2022 15:07:04  INFO logger - Appium server started successfully
+03 Aug 2022 15:07:04  INFO logger - --------------------------------------
+03 Aug 2022 15:07:13  INFO logger - Android driver created
+03 Aug 2022 15:07:46  INFO logger - Shutting down driver
+03 Aug 2022 15:07:47  INFO logger - Appium server stopped
+03 Aug 2022 15:07:47  INFO logger - Appium server stopped successfully
+03 Aug 2022 15:09:23  INFO logger - Appium started on http://0.0.0.0:31950/wd/hub
+03 Aug 2022 15:09:23  INFO logger - Appium server started successfully
+03 Aug 2022 15:09:23  INFO logger - --------------------------------------
+03 Aug 2022 15:09:32  INFO logger - Android driver created
+03 Aug 2022 15:10:12  INFO logger - Shutting down driver
+03 Aug 2022 15:10:13  INFO logger - Appium server stopped
+03 Aug 2022 15:10:13  INFO logger - Appium server stopped successfully
+03 Aug 2022 15:10:29  INFO logger - Appium started on http://0.0.0.0:37111/wd/hub
+03 Aug 2022 15:10:29  INFO logger - Appium server started successfully
+03 Aug 2022 15:10:29  INFO logger - --------------------------------------
+03 Aug 2022 15:10:39  INFO logger - Android driver created
+03 Aug 2022 15:11:18  INFO logger - Shutting down driver
+03 Aug 2022 15:11:19  INFO logger - Appium server stopped
+03 Aug 2022 15:11:19  INFO logger - Appium server stopped successfully
+03 Aug 2022 15:14:08  INFO logger - Appium started on http://0.0.0.0:46605/wd/hub
+03 Aug 2022 15:14:08  INFO logger - Appium server started successfully
+03 Aug 2022 15:14:08  INFO logger - --------------------------------------
+03 Aug 2022 15:14:17  INFO logger - Android driver created
+03 Aug 2022 15:14:56  INFO logger - Shutting down driver
+03 Aug 2022 15:14:57  INFO logger - Appium server stopped
+03 Aug 2022 15:14:57  INFO logger - Appium server stopped successfully
+03 Aug 2022 15:15:40  INFO logger - Appium started on http://0.0.0.0:21742/wd/hub
+03 Aug 2022 15:15:40  INFO logger - Appium server started successfully
+03 Aug 2022 15:15:40  INFO logger - --------------------------------------
+03 Aug 2022 15:15:49  INFO logger - Android driver created
+03 Aug 2022 15:16:22  INFO logger - Shutting down driver
+03 Aug 2022 15:16:23  INFO logger - Appium server stopped
+03 Aug 2022 15:16:23  INFO logger - Appium server stopped successfully
+03 Aug 2022 15:18:02  INFO logger - Appium started on http://0.0.0.0:3938/wd/hub
+03 Aug 2022 15:18:02  INFO logger - Appium server started successfully
+03 Aug 2022 15:18:02  INFO logger - --------------------------------------
+03 Aug 2022 15:18:12  INFO logger - Android driver created
+03 Aug 2022 15:19:06  INFO logger - Shutting down driver
+03 Aug 2022 15:19:07  INFO logger - Appium server stopped
+03 Aug 2022 15:19:07  INFO logger - Appium server stopped successfully
+03 Aug 2022 15:22:35  INFO logger - Appium started on http://0.0.0.0:34827/wd/hub
+03 Aug 2022 15:22:35  INFO logger - Appium server started successfully
+03 Aug 2022 15:22:35  INFO logger - --------------------------------------
+03 Aug 2022 15:22:45  INFO logger - Android driver created
+03 Aug 2022 15:23:23  INFO logger - Shutting down driver
+03 Aug 2022 15:23:23  INFO logger - Appium server stopped
+03 Aug 2022 15:23:23  INFO logger - Appium server stopped successfully
+03 Aug 2022 15:25:25  INFO logger - Appium started on http://0.0.0.0:32356/wd/hub
+03 Aug 2022 15:25:25  INFO logger - Appium server started successfully
+03 Aug 2022 15:25:25  INFO logger - --------------------------------------
+03 Aug 2022 15:25:36  INFO logger - Android driver created
+03 Aug 2022 15:26:42  INFO logger - Shutting down driver
+03 Aug 2022 15:26:43  INFO logger - Appium server stopped
+03 Aug 2022 15:26:43  INFO logger - Appium server stopped successfully
+03 Aug 2022 15:27:23  INFO logger - Appium started on http://0.0.0.0:9155/wd/hub
+03 Aug 2022 15:27:23  INFO logger - Appium server started successfully
+03 Aug 2022 15:27:23  INFO logger - --------------------------------------
+03 Aug 2022 15:27:34  INFO logger - Android driver created
+03 Aug 2022 15:28:09  INFO logger - Shutting down driver
+03 Aug 2022 15:28:10  INFO logger - Appium server stopped
+03 Aug 2022 15:28:10  INFO logger - Appium server stopped successfully
+03 Aug 2022 15:28:42  INFO logger - Appium started on http://0.0.0.0:33883/wd/hub
+03 Aug 2022 15:28:42  INFO logger - Appium server started successfully
+03 Aug 2022 15:28:42  INFO logger - --------------------------------------
+03 Aug 2022 15:28:52  INFO logger - Android driver created
+03 Aug 2022 15:29:25  INFO logger - Shutting down driver
+03 Aug 2022 15:29:26  INFO logger - Appium server stopped
+03 Aug 2022 15:29:26  INFO logger - Appium server stopped successfully
+03 Aug 2022 15:29:52  INFO logger - Appium started on http://0.0.0.0:30744/wd/hub
+03 Aug 2022 15:29:52  INFO logger - Appium server started successfully
+03 Aug 2022 15:29:52  INFO logger - --------------------------------------
+03 Aug 2022 15:30:03  INFO logger - Android driver created
+03 Aug 2022 15:30:56  INFO logger - Shutting down driver
+03 Aug 2022 15:30:57  INFO logger - Appium server stopped
+03 Aug 2022 15:30:57  INFO logger - Appium server stopped successfully
+03 Aug 2022 15:49:03  INFO logger - Appium started on http://0.0.0.0:36466/wd/hub
+03 Aug 2022 15:49:03  INFO logger - Appium server started successfully
+03 Aug 2022 15:49:03  INFO logger - --------------------------------------
+03 Aug 2022 15:49:14  INFO logger - Android driver created
+03 Aug 2022 15:49:54  INFO logger - Shutting down driver
+03 Aug 2022 15:49:55  INFO logger - Appium server stopped
+03 Aug 2022 15:49:55  INFO logger - Appium server stopped successfully
+03 Aug 2022 15:51:00  INFO logger - Appium started on http://0.0.0.0:8130/wd/hub
+03 Aug 2022 15:51:00  INFO logger - Appium server started successfully
+03 Aug 2022 15:51:00  INFO logger - --------------------------------------
+03 Aug 2022 15:51:11  INFO logger - Android driver created
+03 Aug 2022 15:51:59  INFO logger - Shutting down driver
+03 Aug 2022 15:52:00  INFO logger - Appium server stopped
+03 Aug 2022 15:52:00  INFO logger - Appium server stopped successfully
+03 Aug 2022 15:54:52  INFO logger - Appium started on http://0.0.0.0:47011/wd/hub
+03 Aug 2022 15:54:52  INFO logger - Appium server started successfully
+03 Aug 2022 15:54:52  INFO logger - --------------------------------------
+03 Aug 2022 15:55:02  INFO logger - Android driver created
+03 Aug 2022 15:55:41  INFO logger - Shutting down driver
+03 Aug 2022 15:55:42  INFO logger - Appium server stopped
+03 Aug 2022 15:55:42  INFO logger - Appium server stopped successfully
+03 Aug 2022 15:55:55  INFO logger - Appium started on http://0.0.0.0:41793/wd/hub
+03 Aug 2022 15:55:55  INFO logger - Appium server started successfully
+03 Aug 2022 15:55:55  INFO logger - --------------------------------------
+03 Aug 2022 15:56:06  INFO logger - Android driver created
+03 Aug 2022 15:56:46  INFO logger - Shutting down driver
+03 Aug 2022 15:56:47  INFO logger - Appium server stopped
+03 Aug 2022 15:56:47  INFO logger - Appium server stopped successfully
+03 Aug 2022 15:57:16  INFO logger - Appium started on http://0.0.0.0:46379/wd/hub
+03 Aug 2022 15:57:16  INFO logger - Appium server started successfully
+03 Aug 2022 15:57:16  INFO logger - --------------------------------------
+03 Aug 2022 15:57:25  INFO logger - Android driver created
+03 Aug 2022 15:58:08  INFO logger - Shutting down driver
+03 Aug 2022 15:58:09  INFO logger - Appium server stopped
+03 Aug 2022 15:58:09  INFO logger - Appium server stopped successfully
+03 Aug 2022 16:04:41  INFO logger - Appium started on http://0.0.0.0:41832/wd/hub
+03 Aug 2022 16:04:41  INFO logger - Appium server started successfully
+03 Aug 2022 16:04:41  INFO logger - --------------------------------------
+03 Aug 2022 16:04:52  INFO logger - Android driver created
+03 Aug 2022 16:05:53  INFO logger - Shutting down driver
+03 Aug 2022 16:05:54  INFO logger - Appium server stopped
+03 Aug 2022 16:05:54  INFO logger - Appium server stopped successfully
+03 Aug 2022 16:26:30  INFO logger - Appium started on http://0.0.0.0:41099/wd/hub
+03 Aug 2022 16:26:30  INFO logger - Appium server started successfully
+03 Aug 2022 16:26:30  INFO logger - --------------------------------------
+03 Aug 2022 16:26:42  INFO logger - Android driver created
+03 Aug 2022 16:27:45  INFO logger - Shutting down driver
+03 Aug 2022 16:27:46  INFO logger - Appium server stopped
+03 Aug 2022 16:27:46  INFO logger - Appium server stopped successfully
+03 Aug 2022 16:28:01  INFO logger - Appium started on http://0.0.0.0:9530/wd/hub
+03 Aug 2022 16:28:01  INFO logger - Appium server started successfully
+03 Aug 2022 16:28:01  INFO logger - --------------------------------------
+03 Aug 2022 16:28:12  INFO logger - Android driver created
+03 Aug 2022 16:29:24  INFO logger - Shutting down driver
+03 Aug 2022 16:29:25  INFO logger - Appium server stopped
+03 Aug 2022 16:29:25  INFO logger - Appium server stopped successfully
+03 Aug 2022 16:30:14  INFO logger - Appium started on http://0.0.0.0:4177/wd/hub
+03 Aug 2022 16:30:14  INFO logger - Appium server started successfully
+03 Aug 2022 16:30:14  INFO logger - --------------------------------------
+03 Aug 2022 16:30:25  INFO logger - Android driver created
+03 Aug 2022 16:31:19  INFO logger - Shutting down driver
+03 Aug 2022 16:31:20  INFO logger - Appium server stopped
+03 Aug 2022 16:31:20  INFO logger - Appium server stopped successfully
+03 Aug 2022 17:55:11  INFO logger - Appium started on http://0.0.0.0:5561/wd/hub
+03 Aug 2022 17:55:11  INFO logger - Appium server started successfully
+03 Aug 2022 17:55:11  INFO logger - --------------------------------------
+03 Aug 2022 17:55:22  INFO logger - Android driver created
+03 Aug 2022 17:56:21  INFO logger - Shutting down driver
+03 Aug 2022 17:56:21  INFO logger - Appium server stopped
+03 Aug 2022 17:56:21  INFO logger - Appium server stopped successfully
+03 Aug 2022 17:57:07  INFO logger - Appium started on http://0.0.0.0:12873/wd/hub
+03 Aug 2022 17:57:07  INFO logger - Appium server started successfully
+03 Aug 2022 17:57:07  INFO logger - --------------------------------------
+03 Aug 2022 17:57:16  INFO logger - Android driver created
+03 Aug 2022 17:58:27  INFO logger - Shutting down driver
+03 Aug 2022 17:58:27  INFO logger - Appium server stopped
+03 Aug 2022 17:58:27  INFO logger - Appium server stopped successfully
+03 Aug 2022 17:59:13  INFO logger - Appium started on http://0.0.0.0:25534/wd/hub
+03 Aug 2022 17:59:13  INFO logger - Appium server started successfully
+03 Aug 2022 17:59:13  INFO logger - --------------------------------------
+03 Aug 2022 17:59:22  INFO logger - Android driver created
+03 Aug 2022 18:00:22  INFO logger - Shutting down driver
+03 Aug 2022 18:00:22  INFO logger - Appium server stopped
+03 Aug 2022 18:00:22  INFO logger - Appium server stopped successfully
+03 Aug 2022 18:00:49  INFO logger - Appium started on http://0.0.0.0:33100/wd/hub
+03 Aug 2022 18:00:49  INFO logger - Appium server started successfully
+03 Aug 2022 18:00:49  INFO logger - --------------------------------------
+03 Aug 2022 18:00:59  INFO logger - Android driver created
+03 Aug 2022 18:02:08  INFO logger - Shutting down driver
+03 Aug 2022 18:02:08  INFO logger - Appium server stopped
+03 Aug 2022 18:02:08  INFO logger - Appium server stopped successfully
+03 Aug 2022 18:06:56  INFO logger - Appium started on http://0.0.0.0:19053/wd/hub
+03 Aug 2022 18:06:56  INFO logger - Appium server started successfully
+03 Aug 2022 18:06:56  INFO logger - --------------------------------------
+03 Aug 2022 18:07:09  INFO logger - Android driver created
+03 Aug 2022 18:07:32  INFO logger - Shutting down driver
+03 Aug 2022 18:07:32  INFO logger - Appium server stopped
+03 Aug 2022 18:07:32  INFO logger - Appium server stopped successfully
+03 Aug 2022 18:07:41  INFO logger - Appium started on http://0.0.0.0:46207/wd/hub
+03 Aug 2022 18:07:41  INFO logger - Appium server started successfully
+03 Aug 2022 18:07:41  INFO logger - --------------------------------------
+03 Aug 2022 18:07:52  INFO logger - Android driver created
+03 Aug 2022 18:08:59  INFO logger - Shutting down driver
+03 Aug 2022 18:08:59  INFO logger - Appium server stopped
+03 Aug 2022 18:08:59  INFO logger - Appium server stopped successfully
+03 Aug 2022 18:09:12  INFO logger - Appium started on http://0.0.0.0:39987/wd/hub
+03 Aug 2022 18:09:12  INFO logger - Appium server started successfully
+03 Aug 2022 18:09:12  INFO logger - --------------------------------------
+03 Aug 2022 18:09:23  INFO logger - Android driver created
+03 Aug 2022 18:10:41  INFO logger - Shutting down driver
+03 Aug 2022 18:10:42  INFO logger - Appium server stopped
+03 Aug 2022 18:10:42  INFO logger - Appium server stopped successfully
+03 Aug 2022 18:16:03  INFO logger - Appium started on http://0.0.0.0:22976/wd/hub
+03 Aug 2022 18:16:03  INFO logger - Appium server started successfully
+03 Aug 2022 18:16:03  INFO logger - --------------------------------------
+03 Aug 2022 18:16:14  INFO logger - Android driver created
+03 Aug 2022 18:17:27  INFO logger - Shutting down driver
+03 Aug 2022 18:17:27  INFO logger - Appium server stopped
+03 Aug 2022 18:17:27  INFO logger - Appium server stopped successfully
+03 Aug 2022 18:23:04  INFO logger - Appium started on http://0.0.0.0:12669/wd/hub
+03 Aug 2022 18:23:04  INFO logger - Appium server started successfully
+03 Aug 2022 18:23:04  INFO logger - --------------------------------------
+03 Aug 2022 18:23:16  INFO logger - Android driver created
+03 Aug 2022 18:24:58  INFO logger - Shutting down driver
+03 Aug 2022 18:24:59  INFO logger - Appium server stopped
+03 Aug 2022 18:24:59  INFO logger - Appium server stopped successfully
+03 Aug 2022 18:25:41  INFO logger - Appium started on http://0.0.0.0:2018/wd/hub
+03 Aug 2022 18:25:41  INFO logger - Appium server started successfully
+03 Aug 2022 18:25:41  INFO logger - --------------------------------------
+03 Aug 2022 18:25:52  INFO logger - Android driver created
+03 Aug 2022 18:27:32  INFO logger - Shutting down driver
+03 Aug 2022 18:27:32  INFO logger - Appium server stopped
+03 Aug 2022 18:27:32  INFO logger - Appium server stopped successfully
+03 Aug 2022 18:33:23  INFO logger - Appium started on http://0.0.0.0:41771/wd/hub
+03 Aug 2022 18:33:23  INFO logger - Appium server started successfully
+03 Aug 2022 18:33:23  INFO logger - --------------------------------------
+03 Aug 2022 18:33:35  INFO logger - Android driver created
+03 Aug 2022 18:34:54  INFO logger - Shutting down driver
+03 Aug 2022 18:34:55  INFO logger - Appium server stopped
+03 Aug 2022 18:34:55  INFO logger - Appium server stopped successfully
+03 Aug 2022 18:35:34  INFO logger - Appium started on http://0.0.0.0:29838/wd/hub
+03 Aug 2022 18:35:34  INFO logger - Appium server started successfully
+03 Aug 2022 18:35:34  INFO logger - --------------------------------------
+03 Aug 2022 18:35:46  INFO logger - Android driver created
+03 Aug 2022 18:36:26  INFO logger - Shutting down driver
+03 Aug 2022 18:36:26  INFO logger - Appium server stopped
+03 Aug 2022 18:36:26  INFO logger - Appium server stopped successfully
+03 Aug 2022 18:39:07  INFO logger - Appium started on http://0.0.0.0:7597/wd/hub
+03 Aug 2022 18:39:07  INFO logger - Appium server started successfully
+03 Aug 2022 18:39:07  INFO logger - --------------------------------------
+03 Aug 2022 18:39:19  INFO logger - Android driver created
+03 Aug 2022 18:42:18  INFO logger - Shutting down driver
+03 Aug 2022 18:42:19  INFO logger - Appium server stopped
+03 Aug 2022 18:42:19  INFO logger - Appium server stopped successfully
+03 Aug 2022 18:43:03  INFO logger - Appium started on http://0.0.0.0:45008/wd/hub
+03 Aug 2022 18:43:03  INFO logger - Appium server started successfully
+03 Aug 2022 18:43:03  INFO logger - --------------------------------------
+03 Aug 2022 18:43:14  INFO logger - Android driver created
+03 Aug 2022 18:43:21  INFO logger - Shutting down driver
+03 Aug 2022 18:43:22  INFO logger - Appium server stopped
+03 Aug 2022 18:43:22  INFO logger - Appium server stopped successfully
+03 Aug 2022 18:44:07  INFO logger - Appium started on http://0.0.0.0:17738/wd/hub
+03 Aug 2022 18:44:07  INFO logger - Appium server started successfully
+03 Aug 2022 18:44:07  INFO logger - --------------------------------------
+03 Aug 2022 18:44:17  INFO logger - Android driver created
+03 Aug 2022 18:45:22  INFO logger - Shutting down driver
+03 Aug 2022 18:45:23  INFO logger - Appium server stopped
+03 Aug 2022 18:45:23  INFO logger - Appium server stopped successfully
+03 Aug 2022 18:45:35  INFO logger - Appium started on http://0.0.0.0:31491/wd/hub
+03 Aug 2022 18:45:35  INFO logger - Appium server started successfully
+03 Aug 2022 18:45:35  INFO logger - --------------------------------------
+03 Aug 2022 18:45:45  INFO logger - Android driver created
+03 Aug 2022 18:46:52  INFO logger - Shutting down driver
+03 Aug 2022 18:46:53  INFO logger - Appium server stopped
+03 Aug 2022 18:46:53  INFO logger - Appium server stopped successfully
+03 Aug 2022 18:48:28  INFO logger - Appium started on http://0.0.0.0:29951/wd/hub
+03 Aug 2022 18:48:28  INFO logger - Appium server started successfully
+03 Aug 2022 18:48:28  INFO logger - --------------------------------------
+03 Aug 2022 18:48:37  INFO logger - Android driver created
+03 Aug 2022 18:49:46  INFO logger - Shutting down driver
+03 Aug 2022 18:49:46  INFO logger - Appium server stopped
+03 Aug 2022 18:49:46  INFO logger - Appium server stopped successfully
+03 Aug 2022 18:50:16  INFO logger - Appium started on http://0.0.0.0:37422/wd/hub
+03 Aug 2022 18:50:16  INFO logger - Appium server started successfully
+03 Aug 2022 18:50:16  INFO logger - --------------------------------------
+03 Aug 2022 18:50:26  INFO logger - Android driver created
+03 Aug 2022 18:51:13  INFO logger - Shutting down driver
+03 Aug 2022 18:51:13  INFO logger - Appium server stopped
+03 Aug 2022 18:51:13  INFO logger - Appium server stopped successfully
+03 Aug 2022 18:51:49  INFO logger - Appium started on http://0.0.0.0:10156/wd/hub
+03 Aug 2022 18:51:49  INFO logger - Appium server started successfully
+03 Aug 2022 18:51:49  INFO logger - --------------------------------------
+03 Aug 2022 18:51:58  INFO logger - Android driver created
+03 Aug 2022 18:52:09  INFO logger - Appium started on http://0.0.0.0:44176/wd/hub
+03 Aug 2022 18:52:09  INFO logger - Appium server started successfully
+03 Aug 2022 18:52:09  INFO logger - --------------------------------------
+03 Aug 2022 18:52:13  INFO logger - Shutting down driver
+03 Aug 2022 18:52:14  INFO logger - Appium server stopped
+03 Aug 2022 18:52:14  INFO logger - Appium server stopped successfully
+03 Aug 2022 18:52:20  INFO logger - Android driver created
+03 Aug 2022 18:53:20  INFO logger - Shutting down driver
+03 Aug 2022 18:53:21  INFO logger - Appium server stopped
+03 Aug 2022 18:53:21  INFO logger - Appium server stopped successfully

@@ -3,15 +3,15 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="TestScript.VerifyMaps">
+      <class name="TestScriptAndroid.MoreFilters">
         <methods>
           <include name="teardown"/>
           <include name="stopAppium"/>
           <include name="createDriver"/>
           <include name="invokeAppium"/>
-          <include name="restaurant"/>
+          <include name="morefilters"/>
         </methods>
-      </class> <!-- TestScript.VerifyMaps -->
+      </class> <!-- TestScriptAndroid.MoreFilters -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

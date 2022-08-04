@@ -21,6 +21,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import io.appium.java_client.AppiumDriver;
+import io.appium.java_client.FindsByAndroidUIAutomator;
 import io.appium.java_client.MobileDriver;
 import io.appium.java_client.TouchAction;
 import io.appium.java_client.android.AndroidDriver;
@@ -80,7 +81,7 @@ public class GenericMethods {
 	 */
 
 	public void implicitwait(WebDriver driver) {
-		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
 	}
 
 	/**
@@ -411,7 +412,7 @@ public class GenericMethods {
 	 * @param swipeTimes       number of times swipe operation should work
 	 * @param durationForSwipe time duration of a swipe operation
 	 */
-	public void scrollUp(int swipeTimes, int durationForSwipe) {
+	public void scrollUp(int swipeTimes, int durationForSwipe, AppiumDriver driver) {
 		Dimension dimension = driver.manage().window().getSize();
 
 		for (int i = 0; i <= swipeTimes; i++) {
@@ -423,18 +424,18 @@ public class GenericMethods {
 					.waitAction(WaitOptions.waitOptions(Duration.ofMillis(durationForSwipe))).release().perform();
 		}
 	}
+	
+	
+	
+	
+	
+	
 
-	
-	
-	
-	
-	
-	public void refresh() {
-		((GenericMethods) driver).refresh();
+	public void backNavigation(AppiumDriver<?> driver) {
+		driver.navigate().back();
 	}
 
-
-	public void swipeByPercentage(double x1, double y1, double x2, double y2,AppiumDriver driver) {
+	public void swipeByPercentage(double x1, double y1, double x2, double y2, AppiumDriver driver) {
 		Dimension dimension = driver.manage().window().getSize();
 		int start_x = (int) (dimension.width * x1);
 		int start_y = (int) (dimension.height * y1);
@@ -446,6 +447,26 @@ public class GenericMethods {
 		action.press(PointOption.point(start_x, start_y)).waitAction(WaitOptions.waitOptions(Duration.ofSeconds(5)))
 				.moveTo(PointOption.point(end_x, end_y)).release().perform();
 	}
+
+	public void scrollToElement(WebElement element, AppiumDriver driver) {
+
+		((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", element);
+	}
 	
-	
+	  
+
+	public boolean elementPresence(WebElement ele) {
+		try {
+			if (ele.isDisplayed()) {
+				System.out.println("Element is present and displayed");
+				return true;
+			} else
+				System.out.println("Element is present but not displayed");
+		} catch (NoSuchElementException e) {
+			System.out.println("Element is not present, hence not displayed as well");
+		}
+		return false;
+
+	}
+
 }
